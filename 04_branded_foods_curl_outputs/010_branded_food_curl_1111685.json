@@ -1,0 +1,423 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    { "id": 1012116, "value": 4, "name": "Nutrient Updated" },
+    { "id": 1012117, "value": 5, "name": "Nutrient Added" }
+  ],
+  "foodPortions": [],
+  "fdcId": 1111685,
+  "description": "UBER GREENS VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+  "publicationDate": "11/13/2020",
+  "foodNutrients": [
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1092,
+        "number": "306",
+        "name": "Potassium, K",
+        "rank": 5700,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure"
+      },
+      "id": 13483965,
+      "amount": 23.0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1079,
+        "number": "291",
+        "name": "Fiber, total dietary",
+        "rank": 1200,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 75,
+        "code": "LCCD",
+        "description": "Calculated from a daily value percentage per serving size measure"
+      },
+      "id": 13483964,
+      "amount": 0e-8
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1005,
+        "number": "205",
+        "name": "Carbohydrate, by difference",
+        "rank": 1110,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure"
+      },
+      "id": 13483961,
+      "amount": 3.38
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1008,
+        "number": "208",
+        "name": "Energy",
+        "rank": 300,
+        "unitName": "kcal"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure"
+      },
+      "id": 13483962,
+      "amount": 15.0
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1003,
+        "number": "203",
+        "name": "Protein",
+        "rank": 600,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure"
+      },
+      "id": 13483959,
+      "amount": 0.42
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1004,
+        "number": "204",
+        "name": "Total lipid (fat)",
+        "rank": 800,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 75,
+        "code": "LCCD",
+        "description": "Calculated from a daily value percentage per serving size measure"
+      },
+      "id": 13483960,
+      "amount": 0e-8
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1162,
+        "number": "401",
+        "name": "Vitamin C, total ascorbic acid",
+        "rank": 6300,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure"
+      },
+      "id": 13483967,
+      "amount": 6.3
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 2000,
+        "number": "269",
+        "name": "Total Sugars",
+        "rank": 1510,
+        "unitName": "g"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure"
+      },
+      "id": 13483963,
+      "amount": 1.69
+    },
+    {
+      "type": "FoodNutrient",
+      "nutrient": {
+        "id": 1093,
+        "number": "307",
+        "name": "Sodium, Na",
+        "rank": 5800,
+        "unitName": "mg"
+      },
+      "foodNutrientDerivation": {
+        "id": 70,
+        "code": "LCCS",
+        "description": "Calculated from value per serving size measure"
+      },
+      "id": 13483966,
+      "amount": 21.0
+    }
+  ],
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "4/8/2020",
+  "availableDate": "4/8/2020",
+  "brandOwner": "Suja Life, LLC",
+  "dataSource": "LI",
+  "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+  "gtinUpc": "859213005919",
+  "householdServingFullText": "8 OZA",
+  "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+  "marketCountry": "United States",
+  "servingSize": 237.0,
+  "servingSizeUnit": "ml",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2670427,
+      "description": "UBER GREENS COLD-PRESSED VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "11/16/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "2/24/2021",
+      "availableDate": "2/24/2021",
+      "brandOwner": "Suja Life, LLC",
+      "brandName": "SUJA",
+      "subbrandName": "ORGANIC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 fl oz",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC MINT TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "MLT",
+      "packageWeight": "46 fl oz/1360 mL",
+      "notaSignificantSourceOf": "Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, vitamin D, calcium, and iron."
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2465114,
+      "description": "UBER GREENS COLD-PRESSED VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "2/16/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "2/24/2021",
+      "availableDate": "2/24/2021",
+      "brandOwner": "Suja Life, LLC",
+      "brandName": "SUJA",
+      "subbrandName": "ORGANIC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC MINT TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml",
+      "packageWeight": "46 fl oz/1360 mL",
+      "notaSignificantSourceOf": "Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, vitamin D, calcium, and iron."
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2389235,
+      "description": "UBER GREENS COLD-PRESSED VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "12/22/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "2/24/2021",
+      "availableDate": "2/24/2021",
+      "brandOwner": "Suja Life, LLC",
+      "brandName": "SUJA",
+      "subbrandName": "ORGANIC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC MINT TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml",
+      "packageWeight": "46 fl oz/1360 mL",
+      "notaSignificantSourceOf": "Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, vitamin D, calcium, and iron."
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2312809,
+      "description": "UBER GREENS COLD-PRESSED VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "5/23/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "2/24/2021",
+      "availableDate": "2/24/2021",
+      "brandOwner": "Suja Life, LLC",
+      "brandName": "SUJA",
+      "subbrandName": "ORGANIC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC MINT TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml",
+      "packageWeight": "46 fl oz/1360 mL",
+      "notaSignificantSourceOf": "Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, vitamin D, calcium, and iron."
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1883682,
+      "description": "UBER GREENS COLD-PRESSED VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "7/29/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "2/24/2021",
+      "availableDate": "2/24/2021",
+      "brandOwner": "Suja Life, LLC",
+      "brandName": "SUJA",
+      "subbrandName": "ORGANIC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC MINT TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml",
+      "packageWeight": "46 fl oz/1360 mL",
+      "notaSignificantSourceOf": "Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, vitamin D, calcium, and iron."
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1536926,
+      "description": "UBER GREENS COLD-PRESSED VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "2/24/2021",
+      "availableDate": "2/24/2021",
+      "brandOwner": "Suja Life, LLC",
+      "brandName": "SUJA",
+      "subbrandName": "ORGANIC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC MINT TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml",
+      "notaSignificantSourceOf": "Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, vitamin D, calcium, and iron."
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1244862,
+      "description": "UBER GREENS VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Suja Life, LLC",
+      "brandName": "SUJA",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1111685,
+      "description": "UBER GREENS VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "11/13/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Suja Life, LLC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 835152,
+      "description": "UBER GREENS VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+      "publicationDate": "5/28/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Suja Life, LLC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 773556,
+      "description": "UBER GREENS VEGETABLE & FRUIT JUICE DRINK",
+      "publicationDate": "2/27/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "2/1/2020",
+      "availableDate": "2/1/2020",
+      "brandOwner": "Suja Life, LLC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Fruit & Vegetable Juice, Nectars & Fruit Drinks",
+      "gtinUpc": "859213005919",
+      "householdServingFullText": "8 OZA",
+      "ingredients": "ORGANIC CUCUMBER JUICE, ORGANIC CELERY JUICE, ORGANIC GRAPEFRUIT JUICE, ORGANIC GREEN CHARD JUICE, ORGANIC GREEN LEAF LETTUCE JUICE, ORGANIC LEMON JUICE, ORGANIC KALE JUICE, ORGANIC SPINACH JUICE, ORGANIC PARSLEY JUICE, ORGANIC TEA (PURIFIED WATER, ORGANIC PEPPERMINT TEA LEAF, ORGANIC SPEARMINT TEA LEAF)",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml"
+    }
+  ],
+  "labelNutrients": {
+    "fat": { "value": 0.0 },
+    "sodium": { "value": 49.8 },
+    "carbohydrates": { "value": 8.01 },
+    "fiber": { "value": 0.0 },
+    "sugars": { "value": 4.0 },
+    "protein": { "value": 0.995 },
+    "potassium": { "value": 54.5 },
+    "calories": { "value": 35.6 }
+  }
+}
