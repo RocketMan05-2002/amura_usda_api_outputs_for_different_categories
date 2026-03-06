@@ -1,0 +1,88 @@
+{
+  "fdcId": 1111685,
+  "description": "UBER GREENS VEGETABLE & FRUIT JUICE DRINK, UBER GREENS",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "value": 15.0,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 0.42,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 0.0,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 3.38,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "value": 0.0,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "value": 1.69,
+              "unit": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "value": 23.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 21.0,
+          "unit": "MG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "value": 6.3,
+          "unit": "MG"
+        }
+      ]
+    }
+  ]
+}

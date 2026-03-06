@@ -1,0 +1,166 @@
+{
+  "fdcId": 2514747,
+  "description": "Turkey, ground, 93% lean/ 7% fat, raw",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "value": 72.89,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "value": 152.615,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "value": 157.5897,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "value": 2.775,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 17.34375,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 9.591,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "value": 0.945,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 0,
+              "unit": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "value": 23.63,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "value": 1.087,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "value": 17.3,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "value": 162.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "value": 246.3,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 80.18,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "value": 2.95,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "value": 0.07624,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "value": 0.01581,
+          "unit": "MG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "value": 2.264,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "value": 2.874,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "value": 2.59,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "value": 0.081,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "value": 82.26,
+          "unit": "MG"
+        }
+      ]
+    }
+  ]
+}

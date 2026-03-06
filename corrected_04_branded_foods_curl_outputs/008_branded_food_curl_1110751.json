@@ -1,0 +1,496 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 1010077,
+      "value": 5,
+      "name": "Nutrient Added"
+    },
+    {
+      "id": 1010078,
+      "value": 4,
+      "name": "Nutrient Updated"
+    }
+  ],
+  "foodPortions": [],
+  "fdcId": 1110751,
+  "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+  "publicationDate": "11/13/2020",
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "9/24/2020",
+  "availableDate": "9/24/2020",
+  "brandOwner": "Dole Packaged Foods, LLC",
+  "dataSource": "LI",
+  "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+  "gtinUpc": "612820200074",
+  "householdServingFullText": "1 POUCH",
+  "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+  "marketCountry": "United States",
+  "servingSize": 57.0,
+  "servingSizeUnit": "g",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2448774,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "1/26/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "9/24/2020",
+      "availableDate": "9/24/2020",
+      "brandOwner": "Dole Packaged Foods, LLC",
+      "brandName": "DOLE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "2 oz/57 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2409122,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "12/22/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "9/24/2020",
+      "availableDate": "9/24/2020",
+      "brandOwner": "Dole Packaged Foods, LLC",
+      "brandName": "DOLE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "2 oz/57 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2040839,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "10/28/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/24/2020",
+      "availableDate": "9/24/2020",
+      "brandOwner": "Dole Packaged Foods, LLC",
+      "brandName": "DOLE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "2 oz/57 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1515219,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/24/2020",
+      "availableDate": "9/24/2020",
+      "brandOwner": "Dole Packaged Foods, LLC",
+      "brandName": "DOLE",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1223160,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/24/2020",
+      "availableDate": "9/24/2020",
+      "brandOwner": "Dole Packaged Foods, LLC",
+      "brandName": "DOLE",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1110751,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "11/13/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/24/2020",
+      "availableDate": "9/24/2020",
+      "brandOwner": "Dole Packaged Foods, LLC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 831466,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "5/28/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/29/2020",
+      "availableDate": "4/29/2020",
+      "brandOwner": "Dole Packaged Foods, LLC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 632450,
+      "description": "CASHEW NUT CLUSTERS SNACK BITES, CASHEW NUT CLUSTERS",
+      "publicationDate": "12/6/2019",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "3/18/2019",
+      "availableDate": "3/18/2019",
+      "brandOwner": "DOLE PACKAGED FOODS, LLC",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Popcorn, Peanuts, Seeds & Related Snacks",
+      "gtinUpc": "612820200074",
+      "householdServingFullText": "1 POUCH",
+      "ingredients": "CASHEWS, RICE MALT SYRUP, SUGAR, SESAME SEEDS, AND SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 57.0,
+      "servingSizeUnit": "g"
+    }
+  ],
+  "labelNutrients": {
+    "fat": {
+      "value": 21.0
+    },
+    "saturatedFat": {
+      "value": 4.0
+    },
+    "transFat": {
+      "value": 0.0
+    },
+    "cholesterol": {
+      "value": 0.0
+    },
+    "sodium": {
+      "value": 54.7
+    },
+    "carbohydrates": {
+      "value": 25.0
+    },
+    "fiber": {
+      "value": 2.0
+    },
+    "sugars": {
+      "value": 9.0
+    },
+    "protein": {
+      "value": 7.0
+    },
+    "calcium": {
+      "value": 0.0
+    },
+    "iron": {
+      "value": 2.7
+    },
+    "potassium": {
+      "value": 210
+    },
+    "addedSugar": {
+      "value": 7.01
+    },
+    "calories": {
+      "value": 310
+    }
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 544.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 12.28,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 36.84,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 43.86,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 3.5,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 15.79,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              },
+              "nutrients": [
+                {
+                  "nutrient_id": 1235,
+                  "name": "Sugars, added",
+                  "unit": "G",
+                  "nutrient_nbr": "539",
+                  "group": "Carbohydrates",
+                  "amount": 12.3,
+                  "derivation": {
+                    "id": 70,
+                    "code": "LCCS",
+                    "description": "Calculated from value per serving size measure"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 4.74,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 368.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 96.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1110,
+          "name": "Vitamin D (D2 + D3), International Units",
+          "unit": "IU",
+          "nutrient_nbr": "324",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 7.02,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "unit": "G",
+          "nutrient_nbr": "605",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    }
+  ]
+}

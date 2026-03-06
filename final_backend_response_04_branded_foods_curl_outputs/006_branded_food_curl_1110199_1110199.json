@@ -1,0 +1,57 @@
+{
+  "fdcId": 1110199,
+  "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "value": 0.0,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 0.0,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 0.0,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 50.0,
+              "unit": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 0.0,
+          "unit": "MG"
+        }
+      ]
+    }
+  ]
+}

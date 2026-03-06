@@ -1,0 +1,319 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 1009044,
+      "value": 5,
+      "name": "Nutrient Added"
+    },
+    {
+      "id": 1009043,
+      "value": 4,
+      "name": "Nutrient Updated"
+    }
+  ],
+  "foodPortions": [],
+  "fdcId": 1110199,
+  "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+  "publicationDate": "11/13/2020",
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "4/8/2020",
+  "availableDate": "4/8/2020",
+  "brandOwner": "Tetley USA, Inc.",
+  "dataSource": "LI",
+  "brandedFoodCategory": "Tea Bags",
+  "gtinUpc": "011156059279",
+  "householdServingFullText": "240 ML",
+  "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+  "marketCountry": "United States",
+  "servingSize": 2.0,
+  "servingSizeUnit": "g",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2571892,
+      "description": "TETLEY, NATURAL GREEN TEA, LEMON, LEMON",
+      "publicationDate": "6/29/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "5/31/2023",
+      "availableDate": "5/31/2023",
+      "brandOwner": "Tetley USA, Inc.",
+      "brandName": "TETLEY",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "1 TEA BAG, MAKES 8 FL. OZ. (240 ML)",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "GRM",
+      "packageWeight": "144 g/5.08 oz"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2269677,
+      "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+      "publicationDate": "5/23/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Tetley USA, Inc.",
+      "brandName": "TETLEY",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "240 ML",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "5.08 oz/144 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2037885,
+      "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+      "publicationDate": "10/28/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Tetley USA, Inc.",
+      "brandName": "TETLEY",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "240 ML",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "5.08 oz/144 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1510093,
+      "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Tetley USA, Inc.",
+      "brandName": "TETLEY",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "240 ML",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1218033,
+      "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Tetley USA, Inc.",
+      "brandName": "TETLEY",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "240 ML",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1110199,
+      "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+      "publicationDate": "11/13/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Tetley USA, Inc.",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "240 ML",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 829132,
+      "description": "LEMON NATURAL GREEN TEA BAGS, LEMON",
+      "publicationDate": "5/28/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "Tetley USA, Inc.",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "240 ML",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 795031,
+      "description": "LEMON NATURAL GREEN TEA BAGS",
+      "publicationDate": "4/1/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "2/14/2020",
+      "availableDate": "2/14/2020",
+      "brandOwner": "Tetley USA, Inc.",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Tea Bags",
+      "gtinUpc": "011156059279",
+      "householdServingFullText": "240 ML",
+      "ingredients": "GREEN TEA, NATURAL LEMON FLAVOR WITH OTHER NATURAL FLAVORS",
+      "marketCountry": "United States",
+      "servingSize": 2.0,
+      "servingSizeUnit": "g"
+    }
+  ],
+  "labelNutrients": {
+    "fat": {
+      "value": 0.0
+    },
+    "sodium": {
+      "value": 0.0
+    },
+    "carbohydrates": {
+      "value": 1.0
+    },
+    "protein": {
+      "value": 0.0
+    },
+    "calories": {
+      "value": 0.0
+    }
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 0.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 0.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 50.0,
+              "derivation": {
+                "id": 73,
+                "code": "LCSL",
+                "description": "Calculated from a less than value per serving size measure"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    }
+  ]
+}

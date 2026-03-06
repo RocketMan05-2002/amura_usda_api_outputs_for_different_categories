@@ -1,0 +1,831 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 1009444,
+      "value": 7,
+      "name": "Serving Size"
+    },
+    {
+      "id": 1009445,
+      "value": 4,
+      "name": "Nutrient Updated"
+    },
+    {
+      "id": 1009446,
+      "value": 3,
+      "name": "Ingredients"
+    }
+  ],
+  "foodPortions": [],
+  "fdcId": 1105907,
+  "description": "CAMPBELL'S SLOW KETTLE SOUP CHEESE BROCCOLI",
+  "publicationDate": "11/13/2020",
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "9/1/2020",
+  "availableDate": "9/1/2020",
+  "brandOwner": "CAMPBELL SOUP COMPANY",
+  "dataSource": "GDSN",
+  "brandedFoodCategory": "Prepared Soups",
+  "gtinUpc": "00051000213303",
+  "householdServingFullText": "PER CONTAINER",
+  "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED FOOD STARCH, CHEDDAR CHEESE** (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, POTATOES**, ONIONS**, SOY PROTEIN CONCENTRATE, ROASTED GARLIC**, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.  **DRIEDCONTAINS: WHEAT, MILK, SOY.",
+  "marketCountry": "United States",
+  "servingSize": 440.0,
+  "servingSizeUnit": "g",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2696097,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 oz Microwavable Bowl",
+      "publicationDate": "7/11/2024",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "6/29/2024",
+      "availableDate": "6/29/2024",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER 1 CUP",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SOY PROTEIN CONCENTRATE, SUGAR, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, NATURAL FLAVORING, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 240.0,
+      "servingSizeUnit": "MLT",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2694095,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 oz Microwavable Bowl",
+      "publicationDate": "5/16/2024",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "4/1/2024",
+      "availableDate": "4/1/2024",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER 1 CUP",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SOY PROTEIN CONCENTRATE, SUGAR, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, NATURAL FLAVORING, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 240.0,
+      "servingSizeUnit": "MLT",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2650986,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 oz Microwavable Bowl",
+      "publicationDate": "10/26/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "9/30/2023",
+      "availableDate": "9/30/2023",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "Per 1 cup",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SOY PROTEIN CONCENTRATE, SUGAR, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, NATURAL FLAVORING, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 240.0,
+      "servingSizeUnit": "MLT",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2613536,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 oz Microwavable Bowl",
+      "publicationDate": "8/31/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "7/29/2023",
+      "availableDate": "7/29/2023",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "Per 1 cup",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SOY PROTEIN CONCENTRATE, SUGAR, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, NATURAL FLAVORING, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 240.0,
+      "servingSizeUnit": "MLT",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2557192,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "6/29/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "5/27/2023",
+      "availableDate": "5/27/2023",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER 1 CUP",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, CANOLA OIL, MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SUGAR, SOY PROTEIN CONCENTRATE, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, NATURAL FLAVORING, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "MLT",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2336835,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "9/15/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "6/27/2022",
+      "availableDate": "6/27/2022",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER 1 CUP",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, CANOLA OIL, MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SUGAR, SOY PROTEIN CONCENTRATE, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, NATURAL FLAVORING, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 237.0,
+      "servingSizeUnit": "ml",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2331837,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "7/29/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "6/27/2022",
+      "availableDate": "6/27/2022",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, CANOLA OIL, MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SUGAR, SOY PROTEIN CONCENTRATE, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, NATURAL FLAVORING, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2237581,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "4/1/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "3/12/2022",
+      "availableDate": "3/12/2022",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, BROCCOLI, CREAM, CANOLA OIL, MODIFIED CORNSTARCH, CONTAINS LESS THAN 2% OF: WHEY, CHEDDAR AND SEMISOFT CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED ONIONS, SUGAR, SOY PROTEIN CONCENTRATE, SOUR CREAM, BUTTER, MILK, MILKFAT, GARLIC, CULTURED CREAM, LACTIC ACID, VINEGAR, ANNATTO EXTRACT FOR COLOR, NATURAL FLAVORING, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2229822,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "3/11/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "2/26/2022",
+      "availableDate": "2/26/2022",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, DRIED CHEDDAR CHEESE (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED POTATOES, DRIED ONIONS, SOY PROTEIN CONCENTRATE, DRIED ROASTED GARLIC, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2219900,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "2/10/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "CPB SL KTL BROC CHED",
+      "modifiedDate": "11/29/2021",
+      "availableDate": "11/29/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, DRIED CHEDDAR CHEESE (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED POTATOES, DRIED ONIONS, SOY PROTEIN CONCENTRATE, DRIED ROASTED GARLIC, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ",
+      "preparationStateCode": "UNPREPARED"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2208015,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "1/6/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "11/29/2021",
+      "availableDate": "11/29/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, DRIED CHEDDAR CHEESE (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED POTATOES, DRIED ONIONS, SOY PROTEIN CONCENTRATE, DRIED ROASTED GARLIC, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2196558,
+      "description": "Campbell's Slow Kettle Style Creamy Broccoli Cheddar Bisque, 15.5 Ounce Microwavable Bowl",
+      "publicationDate": "12/30/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "11/29/2021",
+      "availableDate": "11/29/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, DRIED CHEDDAR CHEESE (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED POTATOES, DRIED ONIONS, SOY PROTEIN CONCENTRATE, DRIED ROASTED GARLIC, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "packageWeight": "15.5 ONZ"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2183269,
+      "description": "CPB SLW KTL BROC CHED 15.5 OZ",
+      "publicationDate": "12/1/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/10/2021",
+      "availableDate": "9/10/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gpcClassCode": 50191500,
+      "tradeChannel": [
+        "GROCERY"
+      ],
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, DRIED CHEDDAR CHEESE (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED POTATOES, DRIED ONIONS, SOY PROTEIN CONCENTRATE, DRIED ROASTED GARLIC, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2007439,
+      "description": "CPB SLW KTL BROC CHED 15.5 OZ",
+      "publicationDate": "10/28/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "8/30/2021",
+      "availableDate": "8/30/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED CORNSTARCH, DRIED CHEDDAR CHEESE (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, DRIED POTATOES, DRIED ONIONS, SOY PROTEIN CONCENTRATE, DRIED ROASTED GARLIC, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.CONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1847449,
+      "description": "CPB SLW KTL BROC CHED 15.5 OZ",
+      "publicationDate": "7/29/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "5/22/2021",
+      "availableDate": "5/22/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED FOOD STARCH, CHEDDAR CHEESE** (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, POTATOES**, ONIONS**, SOY PROTEIN CONCENTRATE, ROASTED GARLIC**, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.  **DRIEDCONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "15.5 ONZ"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1455844,
+      "description": "CPB SL KTL BROC CHED",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "2/26/2021",
+      "availableDate": "2/26/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED FOOD STARCH, CHEDDAR CHEESE** (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, POTATOES**, ONIONS**, SOY PROTEIN CONCENTRATE, ROASTED GARLIC**, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.  **DRIEDCONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1163997,
+      "description": "CPB SL KTL BROC CHED",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/17/2021",
+      "availableDate": "1/17/2021",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "brandName": "CAMPBELL'S",
+      "subbrandName": "SLOW KETTLE",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED FOOD STARCH, CHEDDAR CHEESE** (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, POTATOES**, ONIONS**, SOY PROTEIN CONCENTRATE, ROASTED GARLIC**, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.  **DRIEDCONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1154961,
+      "description": "CPB SL KTL BROC CHED",
+      "publicationDate": "1/28/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "12/20/2020",
+      "availableDate": "12/20/2020",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED FOOD STARCH, CHEDDAR CHEESE** (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, POTATOES**, ONIONS**, SOY PROTEIN CONCENTRATE, ROASTED GARLIC**, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.  **DRIEDCONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1105907,
+      "description": "CAMPBELL'S SLOW KETTLE SOUP CHEESE BROCCOLI",
+      "publicationDate": "11/13/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/1/2020",
+      "availableDate": "9/1/2020",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "PER CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM, BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED FOOD STARCH, CHEDDAR CHEESE** (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER, PARMESAN AND CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), WHEAT FLOUR, SALT, POTATOES**, ONIONS**, SOY PROTEIN CONCENTRATE, ROASTED GARLIC**, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.  **DRIEDCONTAINS: WHEAT, MILK, SOY.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 608018,
+      "description": "CAMPBELL'S SLOW KETTLE SOUP CHEESE BROCCOLI",
+      "publicationDate": "12/6/2019",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "8/31/2019",
+      "availableDate": "8/31/2019",
+      "brandOwner": "CAMPBELL SOUP COMPANY",
+      "dataSource": "GDSN",
+      "brandedFoodCategory": "Prepared Soups",
+      "gtinUpc": "00051000213303",
+      "householdServingFullText": "1 CONTAINER",
+      "ingredients": "INGREDIENTS: WATER, CREAM (MILK), BROCCOLI, CELERY, VEGETABLE OIL (CORN, CANOLA, AND/OR SOYBEAN), MODIFIED FOOD STARCH, CHEDDAR CHEESE POWDER (CHEDDAR CHEESE [CULTURED MILK, SALT, ENZYMES], WHEY, SALT, SODIUM PHOSPHATE), CONTAINS LESS THAN 2% OF: BUTTER (CREAM), WHEAT FLOUR, SALT, DRIED POTATOES, DRIED ONIONS, CHEDDAR CHEESE (MILK, CULTURES, SALT, ENZYMES), PARMESAN CHEESE (MILK, CULTURES, SALT, ENZYMES), SOY PROTEIN CONCENTRATE, DRIED ROASTED GARLIC, ANNATTO EXTRACT FOR COLOR, SOY LECITHIN.",
+      "marketCountry": "United States",
+      "servingSize": 440.0,
+      "servingSizeUnit": "g"
+    }
+  ],
+  "labelNutrients": {
+    "fat": {
+      "value": 26.9
+    },
+    "saturatedFat": {
+      "value": 10.8
+    },
+    "transFat": {
+      "value": 0.0
+    },
+    "cholesterol": {
+      "value": 44.0
+    },
+    "sodium": {
+      "value": 1420.0
+    },
+    "carbohydrates": {
+      "value": 23.4
+    },
+    "fiber": {
+      "value": 1.76
+    },
+    "sugars": {
+      "value": 3.61
+    },
+    "protein": {
+      "value": 5.37
+    },
+    "calcium": {
+      "value": 145
+    },
+    "iron": {
+      "value": 0.704
+    },
+    "potassium": {
+      "value": 286
+    },
+    "calories": {
+      "value": 361
+    }
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 82.0,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 1.22,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 6.12,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 5.31,
+              "derivation": {
+                "id": 71,
+                "code": "LCSA",
+                "description": "Calculated from an approximate value per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 0.4,
+              "derivation": {
+                "id": 71,
+                "code": "LCSA",
+                "description": "Calculated from an approximate value per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 0.82,
+              "derivation": {
+                "id": 71,
+                "code": "LCSA",
+                "description": "Calculated from an approximate value per serving size measure"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 33.0,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 0.16,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 65.0,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 322.0,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1110,
+          "name": "Vitamin D (D2 + D3), International Units",
+          "unit": "IU",
+          "nutrient_nbr": "324",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 2.45,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "unit": "G",
+          "nutrient_nbr": "605",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 10.0,
+          "derivation": {
+            "id": 71,
+            "code": "LCSA",
+            "description": "Calculated from an approximate value per serving size measure"
+          }
+        }
+      ]
+    }
+  ]
+}

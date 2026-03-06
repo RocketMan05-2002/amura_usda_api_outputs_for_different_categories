@@ -1,0 +1,218 @@
+{
+  "fdcId": 2512371,
+  "description": "Flour, amaranth",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "value": 9.486,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "value": 384.076,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "value": 377.9609,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "value": 2.258,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 13.2093,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 6.236,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "value": 2.29,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 68.7787,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "value": 7.209,
+              "unit": "G",
+              "nutrients": [
+                {
+                  "nutrient_id": 2033,
+                  "name": "Total dietary fiber (AOAC 2011.25)",
+                  "value": 9.036,
+                  "unit": "G",
+                  "nutrients": [
+                    {
+                      "nutrient_id": 2038,
+                      "name": "High Molecular Weight Dietary Fiber (HMWDF)",
+                      "value": 7.864,
+                      "unit": "G"
+                    },
+                    {
+                      "nutrient_id": 2065,
+                      "name": "Low Molecular Weight Dietary Fiber (LMWDF)",
+                      "value": 1.086,
+                      "unit": "G"
+                    }
+                  ]
+                },
+                {
+                  "nutrient_id": 2058,
+                  "name": "Beta-glucan",
+                  "value": 0.0,
+                  "unit": "G"
+                }
+              ]
+            },
+            {
+              "nutrient_id": 1009,
+              "name": "Starch",
+              "value": 55.69,
+              "unit": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "value": 135.2,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "value": 7.56,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "value": 232.7,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "value": 424.9,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "value": 395.8,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 0.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "value": 3.001,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "value": 0.5179,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "value": 2.305,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1103,
+          "name": "Selenium, Se",
+          "value": 21.1,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1102,
+          "name": "Molybdenum, Mo",
+          "value": 35.09,
+          "unit": "UG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "value": 0.05875,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "value": 0.175,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "value": 0.7475,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "value": 0.3873,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1176,
+          "name": "Biotin",
+          "value": 25.36,
+          "unit": "UG"
+        }
+      ]
+    }
+  ]
+}

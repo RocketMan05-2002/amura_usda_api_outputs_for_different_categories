@@ -1,0 +1,184 @@
+{
+  "fdcId": 2003586,
+  "description": "Flour, 00",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "value": 12.17,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "value": 357.0648,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "value": 365.610744,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "value": 1.824,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 11.4,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 1.52,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "value": 0.4638,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 74.4462,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "value": 2.656,
+              "unit": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "value": 18.68,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "value": 0.9863,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "value": 25.8,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "value": 106.2,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "value": 135.5,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 0.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "value": 0.791,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "value": 0.1675,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "value": 0.5516,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1103,
+          "name": "Selenium, Se",
+          "value": 10.3,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1102,
+          "name": "Molybdenum, Mo",
+          "value": 34.41,
+          "unit": "UG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "value": 0.125,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "value": 0.09125,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "value": 1.364,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "value": 0.05513,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1177,
+          "name": "Folate, total",
+          "value": 13.46,
+          "unit": "UG"
+        }
+      ]
+    }
+  ]
+}

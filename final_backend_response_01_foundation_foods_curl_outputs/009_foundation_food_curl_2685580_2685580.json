@@ -1,0 +1,191 @@
+{
+  "fdcId": 2685580,
+  "description": "Tomato, paste, canned, without salt added",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "value": 71.93,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "value": 104.2825,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "value": 88.53450625,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "value": 0.6775,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 4.234375,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 0.7325,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "value": 2.915,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 20.188125,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "value": 4.704,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1063,
+              "name": "Sugars, Total",
+              "value": 11.693,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrients": [
+                {
+                  "nutrient_id": 1010,
+                  "name": "Sucrose",
+                  "value": 0.0,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1011,
+                  "name": "Glucose",
+                  "value": 5.685,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1012,
+                  "name": "Fructose",
+                  "value": 6.008,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1013,
+                  "name": "Lactose",
+                  "value": 0.0,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1014,
+                  "name": "Maltose",
+                  "value": 0.0,
+                  "unit": "G"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "value": 36.85,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "value": 3.185,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "value": 49.61,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "value": 91.16,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "value": 971.6,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 61.15,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "value": 0.5113,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "value": 0.295,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "value": 0.3315,
+          "unit": "MG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "value": 18.4,
+          "unit": "MG"
+        }
+      ]
+    }
+  ]
+}

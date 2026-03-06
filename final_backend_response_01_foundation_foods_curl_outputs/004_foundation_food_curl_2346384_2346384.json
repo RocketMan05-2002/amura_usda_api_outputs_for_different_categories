@@ -1,0 +1,274 @@
+{
+  "fdcId": 2346384,
+  "description": "Cottage cheese, full fat, large or small curd",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "value": 78.1,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "value": 102.921,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "value": 104.574374,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "value": 1.822,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 11.62436,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 4.225,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "value": 1.451,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 4.59964,
+              "unit": "G"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "value": 88.27,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "value": 0.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "value": 9.189,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "value": 154.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "value": 123.6,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 349.8,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "value": 0.4538,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "value": 0.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "value": 0.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1100,
+          "name": "Iodine, I",
+          "value": 45.69,
+          "unit": "UG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "value": 0.0522,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "value": 0.138,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "value": 0.0466,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1176,
+          "name": "Biotin",
+          "value": 2.28,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1178,
+          "name": "Vitamin B-12",
+          "value": 0.6617,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1106,
+          "name": "Vitamin A, RAE",
+          "unit": "UG",
+          "nutrients": [
+            {
+              "nutrient_id": 1105,
+              "name": "Retinol",
+              "value": 36.5,
+              "unit": "UG"
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1185,
+          "name": "Vitamin K (phylloquinone)",
+          "value": 0.2,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1184,
+          "name": "Vitamin K (Dihydrophylloquinone)",
+          "value": 0,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1183,
+          "name": "Vitamin K (Menaquinone-4)",
+          "value": 1.3,
+          "unit": "UG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "value": 2.601,
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1263,
+              "name": "SFA 12:0",
+              "value": 0.1359,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1264,
+              "name": "SFA 14:0",
+              "value": 0.4241,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1265,
+              "name": "SFA 16:0",
+              "value": 1.227,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1266,
+              "name": "SFA 18:0",
+              "value": 0.3831,
+              "unit": "G"
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "value": 0.916,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1269,
+              "name": "PUFA 18:2",
+              "unit": "G",
+              "nutrients": [
+                {
+                  "nutrient_id": 1316,
+                  "name": "PUFA 18:2 n-6 c,c",
+                  "value": 0.0973,
+                  "unit": "G"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "value": 18.0,
+          "unit": "MG"
+        }
+      ]
+    }
+  ]
+}

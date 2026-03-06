@@ -1,0 +1,1503 @@
+{
+  "fdcId": 172080,
+  "description": "Fast foods, hamburger; double, large patty; with condiments, vegetables and mayonnaise",
+  "publicationDate": "4/1/2019",
+  "foodPortions": [
+    {
+      "id": 89841,
+      "gramWeight": 374.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "modifier": "item",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 14549,
+      "proteinValue": 4.0,
+      "fatValue": 9.0,
+      "carbohydrateValue": 4.0,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 19927,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 21389,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 21,
+    "code": "2100",
+    "description": "Fast Foods"
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 55.29,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 252.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1062,
+          "name": "Energy",
+          "unit": "kJ",
+          "nutrient_nbr": "268",
+          "group": "Proximates",
+          "amount": 1053.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 13.94,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 15.66,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "unit": "G",
+          "nutrient_nbr": "207",
+          "group": "Proximates",
+          "amount": 1.37,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 13.74,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 1.4,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1009,
+              "name": "Starch",
+              "unit": "G",
+              "nutrient_nbr": "209",
+              "group": "Carbohydrates",
+              "amount": 10.3,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 3.52,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              },
+              "nutrients": [
+                {
+                  "nutrient_id": 1010,
+                  "name": "Sucrose",
+                  "unit": "G",
+                  "nutrient_nbr": "210",
+                  "group": "Carbohydrates",
+                  "amount": 1.45,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1011,
+                  "name": "Glucose",
+                  "unit": "G",
+                  "nutrient_nbr": "211",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1012,
+                  "name": "Fructose",
+                  "unit": "G",
+                  "nutrient_nbr": "212",
+                  "group": "Carbohydrates",
+                  "amount": 1.43,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1013,
+                  "name": "Lactose",
+                  "unit": "G",
+                  "nutrient_nbr": "213",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1014,
+                  "name": "Maltose",
+                  "unit": "G",
+                  "nutrient_nbr": "214",
+                  "group": "Carbohydrates",
+                  "amount": 0.57,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1075,
+                  "name": "Galactose",
+                  "unit": "G",
+                  "nutrient_nbr": "287",
+                  "group": "Carbohydrates",
+                  "amount": 0.07,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 35.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 2.8,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "unit": "MG",
+          "nutrient_nbr": "304",
+          "group": "Minerals",
+          "amount": 18.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 111.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 192.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 289.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "unit": "MG",
+          "nutrient_nbr": "309",
+          "group": "Minerals",
+          "amount": 3.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "unit": "MG",
+          "nutrient_nbr": "312",
+          "group": "Minerals",
+          "amount": 0.12,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "unit": "MG",
+          "nutrient_nbr": "315",
+          "group": "Minerals",
+          "amount": 0.2,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1103,
+          "name": "Selenium, Se",
+          "unit": "UG",
+          "nutrient_nbr": "317",
+          "group": "Minerals",
+          "amount": 20.1,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "unit": "MG",
+          "nutrient_nbr": "401",
+          "group": "Vitamins",
+          "amount": 0.2,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "unit": "MG",
+          "nutrient_nbr": "404",
+          "group": "Vitamins",
+          "amount": 0.193,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "unit": "MG",
+          "nutrient_nbr": "405",
+          "group": "Vitamins",
+          "amount": 0.19,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "unit": "MG",
+          "nutrient_nbr": "406",
+          "group": "Vitamins",
+          "amount": 3.23,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1170,
+          "name": "Pantothenic acid",
+          "unit": "MG",
+          "nutrient_nbr": "410",
+          "group": "Vitamins",
+          "amount": 0.19,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "unit": "MG",
+          "nutrient_nbr": "415",
+          "group": "Vitamins",
+          "amount": 0.114,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1177,
+          "name": "Folate, total",
+          "unit": "UG",
+          "nutrient_nbr": "417",
+          "group": "Vitamins",
+          "amount": 45.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1186,
+              "name": "Folic acid",
+              "unit": "UG",
+              "nutrient_nbr": "431",
+              "group": "Vitamins",
+              "amount": 22.0,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1187,
+              "name": "Folate, food",
+              "unit": "UG",
+              "nutrient_nbr": "432",
+              "group": "Vitamins",
+              "amount": 23.0,
+              "dataPoints": 0
+            },
+            {
+              "nutrient_id": 1190,
+              "name": "Folate, DFE",
+              "unit": "UG",
+              "nutrient_nbr": "435",
+              "group": "Vitamins",
+              "amount": 60.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1180,
+          "name": "Choline, total",
+          "unit": "MG",
+          "nutrient_nbr": "421",
+          "group": "Vitamins",
+          "amount": 42.3,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 39,
+            "code": "FLA",
+            "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+          }
+        },
+        {
+          "nutrient_id": 1178,
+          "name": "Vitamin B-12",
+          "unit": "UG",
+          "nutrient_nbr": "418",
+          "group": "Vitamins",
+          "amount": 1.37,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 39,
+            "code": "FLA",
+            "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1246,
+              "name": "Vitamin B-12, added",
+              "unit": "UG",
+              "nutrient_nbr": "578",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 39,
+                "code": "FLA",
+                "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1106,
+          "name": "Vitamin A, RAE",
+          "unit": "UG",
+          "nutrient_nbr": "320",
+          "group": "Vitamins",
+          "amount": 6.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 39,
+            "code": "FLA",
+            "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1105,
+              "name": "Retinol",
+              "unit": "UG",
+              "nutrient_nbr": "319",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 39,
+                "code": "FLA",
+                "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+              }
+            },
+            {
+              "nutrient_id": 1107,
+              "name": "Carotene, beta",
+              "unit": "UG",
+              "nutrient_nbr": "321",
+              "group": "Vitamins",
+              "amount": 62.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 39,
+                "code": "FLA",
+                "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+              }
+            },
+            {
+              "nutrient_id": 1108,
+              "name": "Carotene, alpha",
+              "unit": "UG",
+              "nutrient_nbr": "322",
+              "group": "Vitamins",
+              "amount": 6.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 39,
+                "code": "FLA",
+                "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+              }
+            },
+            {
+              "nutrient_id": 1120,
+              "name": "Cryptoxanthin, beta",
+              "unit": "UG",
+              "nutrient_nbr": "334",
+              "group": "Vitamins",
+              "amount": 2.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 39,
+                "code": "FLA",
+                "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1104,
+          "name": "Vitamin A, IU",
+          "unit": "IU",
+          "nutrient_nbr": "318",
+          "group": "Vitamins",
+          "amount": 111.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 2040,
+          "name": "Other carotenoids",
+          "unit": "UG",
+          "nutrient_nbr": "955",
+          "group": "Vitamins",
+          "nutrients": [
+            {
+              "nutrient_id": 1122,
+              "name": "Lycopene",
+              "unit": "UG",
+              "nutrient_nbr": "337",
+              "group": "Vitamins",
+              "amount": 806.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 39,
+                "code": "FLA",
+                "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+              }
+            },
+            {
+              "nutrient_id": 1123,
+              "name": "Lutein + zeaxanthin",
+              "unit": "UG",
+              "nutrient_nbr": "338",
+              "group": "Vitamins",
+              "amount": 31.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 39,
+                "code": "FLA",
+                "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 2041,
+          "name": "Tocopherols and tocotrienols",
+          "unit": "MG",
+          "nutrient_nbr": "323.99",
+          "group": "Vitamins",
+          "nutrients": [
+            {
+              "nutrient_id": 2055,
+              "name": "Total Tocopherols",
+              "unit": "MG",
+              "nutrient_nbr": "",
+              "group": "Vitamins",
+              "nutrients": [
+                {
+                  "nutrient_id": 1109,
+                  "name": "Vitamin E (alpha-tocopherol)",
+                  "unit": "MG",
+                  "nutrient_nbr": "323",
+                  "group": "Vitamins",
+                  "amount": 0.67,
+                  "dataPoints": 0,
+                  "derivation": {
+                    "id": 39,
+                    "code": "FLA",
+                    "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+                  },
+                  "nutrients": [
+                    {
+                      "nutrient_id": 1242,
+                      "name": "Vitamin E, added",
+                      "unit": "MG",
+                      "nutrient_nbr": "573",
+                      "group": "Vitamins",
+                      "amount": 0.0,
+                      "dataPoints": 0,
+                      "derivation": {
+                        "id": 39,
+                        "code": "FLA",
+                        "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1110,
+          "name": "Vitamin D (D2 + D3), International Units",
+          "unit": "IU",
+          "nutrient_nbr": "324",
+          "group": "Vitamins",
+          "amount": 4.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 39,
+            "code": "FLA",
+            "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+          }
+        },
+        {
+          "nutrient_id": 1114,
+          "name": "Vitamin D (D2 + D3)",
+          "unit": "UG",
+          "nutrient_nbr": "328",
+          "group": "Vitamins",
+          "amount": 0.1,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 39,
+            "code": "FLA",
+            "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+          }
+        },
+        {
+          "nutrient_id": 1185,
+          "name": "Vitamin K (phylloquinone)",
+          "unit": "UG",
+          "nutrient_nbr": "430",
+          "group": "Vitamins",
+          "amount": 14.1,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1184,
+          "name": "Vitamin K (Dihydrophylloquinone)",
+          "unit": "UG",
+          "nutrient_nbr": "429",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 5.773,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1259,
+              "name": "SFA 4:0",
+              "unit": "G",
+              "nutrient_nbr": "607",
+              "group": "Lipids",
+              "amount": 0.005,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1260,
+              "name": "SFA 6:0",
+              "unit": "G",
+              "nutrient_nbr": "608",
+              "group": "Lipids",
+              "amount": 0.005,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1261,
+              "name": "SFA 8:0",
+              "unit": "G",
+              "nutrient_nbr": "609",
+              "group": "Lipids",
+              "amount": 0.013,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1262,
+              "name": "SFA 10:0",
+              "unit": "G",
+              "nutrient_nbr": "610",
+              "group": "Lipids",
+              "amount": 0.013,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1263,
+              "name": "SFA 12:0",
+              "unit": "G",
+              "nutrient_nbr": "611",
+              "group": "Lipids",
+              "amount": 0.061,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1264,
+              "name": "SFA 14:0",
+              "unit": "G",
+              "nutrient_nbr": "612",
+              "group": "Lipids",
+              "amount": 0.372,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1299,
+              "name": "SFA 15:0",
+              "unit": "G",
+              "nutrient_nbr": "652",
+              "group": "Lipids",
+              "amount": 0.055,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1265,
+              "name": "SFA 16:0",
+              "unit": "G",
+              "nutrient_nbr": "613",
+              "group": "Lipids",
+              "amount": 3.249,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1300,
+              "name": "SFA 17:0",
+              "unit": "G",
+              "nutrient_nbr": "653",
+              "group": "Lipids",
+              "amount": 0.146,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1266,
+              "name": "SFA 18:0",
+              "unit": "G",
+              "nutrient_nbr": "614",
+              "group": "Lipids",
+              "amount": 1.795,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1267,
+              "name": "SFA 20:0",
+              "unit": "G",
+              "nutrient_nbr": "615",
+              "group": "Lipids",
+              "amount": 0.028,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1273,
+              "name": "SFA 22:0",
+              "unit": "G",
+              "nutrient_nbr": "624",
+              "group": "Lipids",
+              "amount": 0.02,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1301,
+              "name": "SFA 24:0",
+              "unit": "G",
+              "nutrient_nbr": "654",
+              "group": "Lipids",
+              "amount": 0.012,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "unit": "G",
+          "nutrient_nbr": "645",
+          "group": "Lipids",
+          "amount": 6.117,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1274,
+              "name": "MUFA 14:1",
+              "unit": "G",
+              "nutrient_nbr": "625",
+              "group": "Lipids",
+              "amount": 0.096,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1275,
+              "name": "MUFA 16:1",
+              "unit": "G",
+              "nutrient_nbr": "626",
+              "group": "Lipids",
+              "amount": 0.461,
+              "dataPoints": 0,
+              "nutrients": [
+                {
+                  "nutrient_id": 1314,
+                  "name": "MUFA 16:1 c",
+                  "unit": "G",
+                  "nutrient_nbr": "673",
+                  "group": "Lipids",
+                  "amount": 0.43,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            },
+            {
+              "nutrient_id": 1323,
+              "name": "MUFA 17:1",
+              "unit": "G",
+              "nutrient_nbr": "687",
+              "group": "Lipids",
+              "amount": 0.095,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1268,
+              "name": "MUFA 18:1",
+              "unit": "G",
+              "nutrient_nbr": "617",
+              "group": "Lipids",
+              "amount": 5.442,
+              "dataPoints": 0,
+              "nutrients": [
+                {
+                  "nutrient_id": 1315,
+                  "name": "MUFA 18:1 c",
+                  "unit": "G",
+                  "nutrient_nbr": "674",
+                  "group": "Lipids",
+                  "amount": 5.128,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            },
+            {
+              "nutrient_id": 1277,
+              "name": "MUFA 20:1",
+              "unit": "G",
+              "nutrient_nbr": "628",
+              "group": "Lipids",
+              "amount": 0.023,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1279,
+              "name": "MUFA 22:1",
+              "unit": "G",
+              "nutrient_nbr": "630",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "unit": "G",
+          "nutrient_nbr": "646",
+          "group": "Lipids",
+          "amount": 3.016,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1269,
+              "name": "PUFA 18:2",
+              "unit": "G",
+              "nutrient_nbr": "618",
+              "group": "Lipids",
+              "amount": 2.662,
+              "dataPoints": 0,
+              "nutrients": [
+                {
+                  "nutrient_id": 1316,
+                  "name": "PUFA 18:2 n-6 c,c",
+                  "unit": "G",
+                  "nutrient_nbr": "675",
+                  "group": "Lipids",
+                  "amount": 2.606,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1307,
+                  "name": "PUFA 18:2 i",
+                  "unit": "G",
+                  "nutrient_nbr": "666",
+                  "group": "Lipids",
+                  "amount": 0.057,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            },
+            {
+              "nutrient_id": 1270,
+              "name": "PUFA 18:3",
+              "unit": "G",
+              "nutrient_nbr": "619",
+              "group": "Lipids",
+              "amount": 0.315,
+              "dataPoints": 0,
+              "nutrients": [
+                {
+                  "nutrient_id": 1404,
+                  "name": "PUFA 18:3 n-3 c,c,c (ALA)",
+                  "unit": "G",
+                  "nutrient_nbr": "851",
+                  "group": "Lipids",
+                  "amount": 0.315,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            },
+            {
+              "nutrient_id": 1276,
+              "name": "PUFA 18:4",
+              "unit": "G",
+              "nutrient_nbr": "627",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1313,
+              "name": "PUFA 20:2 n-6 c,c",
+              "unit": "G",
+              "nutrient_nbr": "672",
+              "group": "Lipids",
+              "amount": 0.006,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1325,
+              "name": "PUFA 20:3",
+              "unit": "G",
+              "nutrient_nbr": "689",
+              "group": "Lipids",
+              "amount": 0.009,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1271,
+              "name": "PUFA 20:4",
+              "unit": "G",
+              "nutrient_nbr": "620",
+              "group": "Lipids",
+              "amount": 0.025,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1278,
+              "name": "PUFA 20:5 n-3 (EPA)",
+              "unit": "G",
+              "nutrient_nbr": "629",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1280,
+              "name": "PUFA 22:5 n-3 (DPA)",
+              "unit": "G",
+              "nutrient_nbr": "631",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1272,
+              "name": "PUFA 22:6 n-3 (DHA)",
+              "unit": "G",
+              "nutrient_nbr": "621",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 1,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "unit": "G",
+          "nutrient_nbr": "605",
+          "group": "Lipids",
+          "amount": 0.402,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1329,
+              "name": "Fatty acids, total trans-monoenoic",
+              "unit": "G",
+              "nutrient_nbr": "693",
+              "group": "Lipids",
+              "amount": 0.346,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              },
+              "nutrients": [
+                {
+                  "nutrient_id": 1303,
+                  "name": "TFA 16:1 t",
+                  "unit": "G",
+                  "nutrient_nbr": "662",
+                  "group": "Lipids",
+                  "amount": 0.031,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1304,
+                  "name": "TFA 18:1 t",
+                  "unit": "G",
+                  "nutrient_nbr": "663",
+                  "group": "Lipids",
+                  "amount": 0.315,
+                  "dataPoints": 1,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            },
+            {
+              "nutrient_id": 1331,
+              "name": "Fatty acids, total trans-polyenoic",
+              "unit": "G",
+              "nutrient_nbr": "695",
+              "group": "Lipids",
+              "amount": 0.057,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 46.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2042,
+      "name": "Amino acids",
+      "unit": "G",
+      "nutrient_nbr": "500",
+      "group": "Amino Acids"
+    },
+    {
+      "nutrient_id": 1018,
+      "name": "Alcohol, ethyl",
+      "unit": "G",
+      "nutrient_nbr": "221",
+      "group": "Other",
+      "amount": 0.0,
+      "dataPoints": 0,
+      "derivation": {
+        "id": 39,
+        "code": "FLA",
+        "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+      }
+    },
+    {
+      "nutrient_id": 1057,
+      "name": "Caffeine",
+      "unit": "MG",
+      "nutrient_nbr": "262",
+      "group": "Other",
+      "amount": 0.0,
+      "dataPoints": 0,
+      "derivation": {
+        "id": 39,
+        "code": "FLA",
+        "description": "Estimated formulation based on ingredient list; Linear program used to estimate ingredients; Analytical data"
+      }
+    },
+    {
+      "nutrient_id": 1058,
+      "name": "Theobromine",
+      "unit": "MG",
+      "nutrient_nbr": "263",
+      "group": "Other",
+      "amount": 0.0,
+      "dataPoints": 0,
+      "derivation": {
+        "id": 68,
+        "code": "Z",
+        "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+      }
+    }
+  ]
+}

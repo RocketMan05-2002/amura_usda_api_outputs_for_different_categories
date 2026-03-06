@@ -1,0 +1,430 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 1010247,
+      "value": 3,
+      "name": "Ingredients"
+    },
+    {
+      "id": 1010246,
+      "value": 6,
+      "name": "Nutrient Removed"
+    },
+    {
+      "id": 1010248,
+      "value": 4,
+      "name": "Nutrient Updated"
+    },
+    {
+      "id": 1010249,
+      "value": 2,
+      "name": "Description"
+    },
+    {
+      "id": 1010250,
+      "value": 5,
+      "name": "Nutrient Added"
+    }
+  ],
+  "foodPortions": [],
+  "fdcId": 1110826,
+  "description": "SWEET POTATO STICKS, SWEET",
+  "publicationDate": "11/13/2020",
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "9/21/2020",
+  "availableDate": "9/21/2020",
+  "brandOwner": "Walgreens Co.",
+  "dataSource": "LI",
+  "brandedFoodCategory": "Chips, Pretzels & Snacks",
+  "gtinUpc": "049022903388",
+  "householdServingFullText": "26 sticks",
+  "ingredients": "SWEET POTATO STICKS [RICE FLOUR, SWEET POTATO, TAPIOCA STARCH, MALTODEXTRIN, CORN STARCH,ANNATTO (COLOR)] SUNFLOWER AND/OR SAFFLOWER OIL, SEA SALT.",
+  "marketCountry": "United States",
+  "servingSize": 28.0,
+  "servingSizeUnit": "g",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2390008,
+      "description": "SWEET POTATO STICKS, SWEET",
+      "publicationDate": "12/22/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "9/21/2020",
+      "availableDate": "9/21/2020",
+      "brandOwner": "Walgreens Co.",
+      "brandName": "NICE!",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Chips, Pretzels & Snacks",
+      "gtinUpc": "049022903388",
+      "householdServingFullText": "26 sticks",
+      "ingredients": "SWEET POTATO STICKS [RICE FLOUR, SWEET POTATO, TAPIOCA STARCH, MALTODEXTRIN, CORN STARCH,ANNATTO (COLOR)] SUNFLOWER AND/OR SAFFLOWER OIL, SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 28.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "6 OZ/170 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1873673,
+      "description": "SWEET POTATO STICKS, SWEET",
+      "publicationDate": "7/29/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/21/2020",
+      "availableDate": "9/21/2020",
+      "brandOwner": "Walgreens Co.",
+      "brandName": "NICE!",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Chips, Pretzels & Snacks",
+      "gtinUpc": "049022903388",
+      "householdServingFullText": "26 sticks",
+      "ingredients": "SWEET POTATO STICKS [RICE FLOUR, SWEET POTATO, TAPIOCA STARCH, MALTODEXTRIN, CORN STARCH,ANNATTO (COLOR)] SUNFLOWER AND/OR SAFFLOWER OIL, SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 28.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "6 OZ/170 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1516809,
+      "description": "SWEET POTATO STICKS, SWEET",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/21/2020",
+      "availableDate": "9/21/2020",
+      "brandOwner": "Walgreens Co.",
+      "brandName": "NICE!",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Chips, Pretzels & Snacks",
+      "gtinUpc": "049022903388",
+      "householdServingFullText": "26 sticks",
+      "ingredients": "SWEET POTATO STICKS [RICE FLOUR, SWEET POTATO, TAPIOCA STARCH, MALTODEXTRIN, CORN STARCH,ANNATTO (COLOR)] SUNFLOWER AND/OR SAFFLOWER OIL, SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 28.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1224749,
+      "description": "SWEET POTATO STICKS, SWEET",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/21/2020",
+      "availableDate": "9/21/2020",
+      "brandOwner": "Walgreens Co.",
+      "brandName": "NICE!",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Chips, Pretzels & Snacks",
+      "gtinUpc": "049022903388",
+      "householdServingFullText": "26 sticks",
+      "ingredients": "SWEET POTATO STICKS [RICE FLOUR, SWEET POTATO, TAPIOCA STARCH, MALTODEXTRIN, CORN STARCH,ANNATTO (COLOR)] SUNFLOWER AND/OR SAFFLOWER OIL, SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 28.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1110826,
+      "description": "SWEET POTATO STICKS, SWEET",
+      "publicationDate": "11/13/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "9/21/2020",
+      "availableDate": "9/21/2020",
+      "brandOwner": "Walgreens Co.",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Chips, Pretzels & Snacks",
+      "gtinUpc": "049022903388",
+      "householdServingFullText": "26 sticks",
+      "ingredients": "SWEET POTATO STICKS [RICE FLOUR, SWEET POTATO, TAPIOCA STARCH, MALTODEXTRIN, CORN STARCH,ANNATTO (COLOR)] SUNFLOWER AND/OR SAFFLOWER OIL, SEA SALT.",
+      "marketCountry": "United States",
+      "servingSize": 28.0,
+      "servingSizeUnit": "g"
+    }
+  ],
+  "labelNutrients": {
+    "fat": {
+      "value": 7.0
+    },
+    "saturatedFat": {
+      "value": 1.0
+    },
+    "transFat": {
+      "value": 0.0
+    },
+    "cholesterol": {
+      "value": 0.0
+    },
+    "sodium": {
+      "value": 94.9
+    },
+    "carbohydrates": {
+      "value": 19.0
+    },
+    "fiber": {
+      "value": 1.01
+    },
+    "sugars": {
+      "value": 2.0
+    },
+    "protein": {
+      "value": 1.0
+    },
+    "calcium": {
+      "value": 5.04
+    },
+    "iron": {
+      "value": 0.0
+    },
+    "potassium": {
+      "value": 43.1
+    },
+    "calories": {
+      "value": 140
+    }
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 500.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 3.57,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 25.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 67.86,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 3.6,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 7.14,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 18.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 154.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 339.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1110,
+          "name": "Vitamin D (D2 + D3), International Units",
+          "unit": "IU",
+          "nutrient_nbr": "324",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 3.57,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "unit": "G",
+          "nutrient_nbr": "605",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    }
+  ]
+}

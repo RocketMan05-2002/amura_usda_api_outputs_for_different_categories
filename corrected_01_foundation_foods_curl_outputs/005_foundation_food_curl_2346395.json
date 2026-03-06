@@ -1,0 +1,1061 @@
+{
+  "fdcId": 2346395,
+  "footnote": "Vitamin K (phylloquinone) and Fatty acids, total saturated and total monounsaturated and total polyunsaturated median values corrected on 4/18/2024.",
+  "description": "Nuts, pecans, halves, raw",
+  "publicationDate": "10/28/2022",
+  "foodPortions": [
+    {
+      "id": 312711,
+      "dataPoints": 0,
+      "gramWeight": 30.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "measureUnit": {
+        "id": 1121,
+        "name": "RACC",
+        "abbreviation": "RACC"
+      }
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 123564,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346596,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    },
+    {
+      "id": 123566,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346598,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    },
+    {
+      "id": 123570,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346604,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    },
+    {
+      "id": 123572,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346606,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    },
+    {
+      "id": 123574,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346600,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    },
+    {
+      "id": 123576,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346602,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    },
+    {
+      "id": 123606,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346608,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    },
+    {
+      "id": 123607,
+      "foodDescription": "Nuts, pecans, raw, halves",
+      "inputFood": {
+        "fdcId": 2346610,
+        "description": "Nuts, pecans, raw, halves",
+        "publicationDate": "10/28/2022",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 12,
+          "code": "1200",
+          "description": "Nut and Seed Products"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 22917,
+      "proteinValue": 3.47,
+      "fatValue": 8.37,
+      "carbohydrateValue": 4.07,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 22948,
+      "value": 5.3,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "ndbNumber": 12142,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 12,
+    "code": "1200",
+    "description": "Nut and Seed Products"
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 2.623,
+          "dataPoints": 8,
+          "min": 2.11,
+          "max": 3.0,
+          "median": 2.62,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "unit": "KCAL",
+          "nutrient_nbr": "957",
+          "group": "Proximates",
+          "amount": 750.152,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "unit": "KCAL",
+          "nutrient_nbr": "958",
+          "group": "Proximates",
+          "amount": 699.59644,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "unit": "G",
+          "nutrient_nbr": "202",
+          "group": "Proximates",
+          "amount": 1.879,
+          "dataPoints": 8,
+          "min": 1.65,
+          "max": 2.13,
+          "median": 1.875,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 9.9587,
+          "min": 8.745,
+          "max": 11.289,
+          "median": 9.9375,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 73.28,
+          "dataPoints": 9,
+          "min": 69.81,
+          "max": 75.93,
+          "median": 73.63,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "unit": "G",
+          "nutrient_nbr": "207",
+          "group": "Proximates",
+          "amount": 1.439,
+          "dataPoints": 8,
+          "min": 1.34,
+          "max": 1.54,
+          "median": 1.425,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 12.6993,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 5.793,
+              "dataPoints": 8,
+              "min": 5.5,
+              "max": 6.14,
+              "median": 5.79,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 54.83,
+          "dataPoints": 8,
+          "min": 47.8,
+          "max": 60.8,
+          "median": 55.7,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 2.371,
+          "dataPoints": 8,
+          "min": 1.78,
+          "max": 2.73,
+          "median": 2.365,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "unit": "MG",
+          "nutrient_nbr": "304",
+          "group": "Minerals",
+          "amount": 102.9,
+          "dataPoints": 8,
+          "min": 87.1,
+          "max": 117.0,
+          "median": 102.6,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 252.7,
+          "dataPoints": 8,
+          "min": 222.0,
+          "max": 286.0,
+          "median": 248.8,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 360.3,
+          "dataPoints": 8,
+          "min": 285.0,
+          "max": 403.0,
+          "median": 366.8,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 0.0,
+          "dataPoints": 8,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "unit": "MG",
+          "nutrient_nbr": "309",
+          "group": "Minerals",
+          "amount": 3.93,
+          "dataPoints": 8,
+          "min": 2.99,
+          "max": 4.68,
+          "median": 4.105,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "unit": "MG",
+          "nutrient_nbr": "312",
+          "group": "Minerals",
+          "amount": 0.9065,
+          "dataPoints": 8,
+          "min": 0.692,
+          "max": 1.27,
+          "median": 0.8595,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "unit": "MG",
+          "nutrient_nbr": "315",
+          "group": "Minerals",
+          "amount": 2.28,
+          "dataPoints": 8,
+          "min": 1.33,
+          "max": 3.04,
+          "median": 2.315,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1102,
+          "name": "Molybdenum, Mo",
+          "unit": "UG",
+          "nutrient_nbr": "316",
+          "group": "Minerals",
+          "amount": 15.57,
+          "dataPoints": 8,
+          "min": 7.12,
+          "max": 21.6,
+          "median": 16.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "unit": "MG",
+          "nutrient_nbr": "404",
+          "group": "Vitamins",
+          "amount": 0.5476,
+          "dataPoints": 8,
+          "min": 0.48,
+          "max": 0.649,
+          "median": 0.5355,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "unit": "MG",
+          "nutrient_nbr": "406",
+          "group": "Vitamins",
+          "amount": 0.9463,
+          "dataPoints": 8,
+          "min": 0.7,
+          "max": 1.2,
+          "median": 0.93,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "unit": "MG",
+          "nutrient_nbr": "415",
+          "group": "Vitamins",
+          "amount": 0.1711,
+          "dataPoints": 8,
+          "min": 0.122,
+          "max": 0.218,
+          "median": 0.1745,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1176,
+          "name": "Biotin",
+          "unit": "UG",
+          "nutrient_nbr": "416",
+          "group": "Vitamins",
+          "amount": 22.66,
+          "dataPoints": 8,
+          "min": 18.8,
+          "max": 26.8,
+          "median": 22.35,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1185,
+          "name": "Vitamin K (phylloquinone)",
+          "unit": "UG",
+          "nutrient_nbr": "430",
+          "group": "Vitamins",
+          "amount": 4.1,
+          "dataPoints": 8,
+          "min": 3,
+          "max": 5.2,
+          "median": 4.4,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1184,
+          "name": "Vitamin K (Dihydrophylloquinone)",
+          "unit": "UG",
+          "nutrient_nbr": "429",
+          "group": "Vitamins",
+          "amount": 0,
+          "dataPoints": 8,
+          "min": 0,
+          "max": 0,
+          "median": 0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1183,
+          "name": "Vitamin K (Menaquinone-4)",
+          "unit": "UG",
+          "nutrient_nbr": "428",
+          "group": "Vitamins",
+          "amount": 0,
+          "dataPoints": 8,
+          "min": 0,
+          "max": 0,
+          "median": 0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 6.465,
+          "dataPoints": 8,
+          "min": 5.94,
+          "max": 7.01,
+          "median": 6.43,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "unit": "G",
+          "nutrient_nbr": "645",
+          "group": "Lipids",
+          "amount": 39.282,
+          "dataPoints": 8,
+          "min": 31.52,
+          "max": 46.35,
+          "median": 38.68,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "unit": "G",
+          "nutrient_nbr": "646",
+          "group": "Lipids",
+          "amount": 22.924,
+          "dataPoints": 8,
+          "min": 16.09,
+          "max": 28.13,
+          "median": 24.975,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2042,
+      "name": "Amino acids",
+      "unit": "G",
+      "nutrient_nbr": "500",
+      "group": "Amino Acids",
+      "nutrients": [
+        {
+          "nutrient_id": 1210,
+          "name": "Tryptophan",
+          "unit": "G",
+          "nutrient_nbr": "501",
+          "group": "Amino Acids",
+          "amount": 0.115,
+          "dataPoints": 4,
+          "min": 0.1,
+          "max": 0.13,
+          "median": 0.115,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1211,
+          "name": "Threonine",
+          "unit": "G",
+          "nutrient_nbr": "502",
+          "group": "Amino Acids",
+          "amount": 0.3025,
+          "dataPoints": 4,
+          "min": 0.26,
+          "max": 0.34,
+          "median": 0.305,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1212,
+          "name": "Isoleucine",
+          "unit": "G",
+          "nutrient_nbr": "503",
+          "group": "Amino Acids",
+          "amount": 0.365,
+          "dataPoints": 4,
+          "min": 0.32,
+          "max": 0.42,
+          "median": 0.36,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1213,
+          "name": "Leucine",
+          "unit": "G",
+          "nutrient_nbr": "504",
+          "group": "Amino Acids",
+          "amount": 0.67,
+          "dataPoints": 4,
+          "min": 0.58,
+          "max": 0.76,
+          "median": 0.67,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1214,
+          "name": "Lysine",
+          "unit": "G",
+          "nutrient_nbr": "505",
+          "group": "Amino Acids",
+          "amount": 0.32,
+          "dataPoints": 4,
+          "min": 0.29,
+          "max": 0.36,
+          "median": 0.315,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1215,
+          "name": "Methionine",
+          "unit": "G",
+          "nutrient_nbr": "506",
+          "group": "Amino Acids",
+          "amount": 0.1675,
+          "dataPoints": 4,
+          "min": 0.14,
+          "max": 0.19,
+          "median": 0.17,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1232,
+          "name": "Cysteine",
+          "unit": "G",
+          "nutrient_nbr": "526",
+          "group": "Amino Acids",
+          "amount": 0.305,
+          "dataPoints": 4,
+          "min": 0.28,
+          "max": 0.33,
+          "median": 0.305,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1230,
+          "name": "Phenylalanine and tyrosine (aromatic  AA)",
+          "unit": "G",
+          "nutrient_nbr": "523",
+          "group": "Amino Acids",
+          "nutrients": [
+            {
+              "nutrient_id": 1217,
+              "name": "Phenylalanine",
+              "unit": "G",
+              "nutrient_nbr": "508",
+              "group": "Amino Acids",
+              "amount": 0.4625,
+              "dataPoints": 4,
+              "min": 0.41,
+              "max": 0.53,
+              "median": 0.455,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1218,
+              "name": "Tyrosine",
+              "unit": "G",
+              "nutrient_nbr": "509",
+              "group": "Amino Acids",
+              "amount": 0.3125,
+              "dataPoints": 4,
+              "min": 0.28,
+              "max": 0.36,
+              "median": 0.305,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1219,
+          "name": "Valine",
+          "unit": "G",
+          "nutrient_nbr": "510",
+          "group": "Amino Acids",
+          "amount": 0.435,
+          "dataPoints": 4,
+          "min": 0.38,
+          "max": 0.5,
+          "median": 0.43,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1220,
+          "name": "Arginine",
+          "unit": "G",
+          "nutrient_nbr": "511",
+          "group": "Amino Acids",
+          "amount": 1.363,
+          "dataPoints": 4,
+          "min": 1.17,
+          "max": 1.56,
+          "median": 1.36,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1221,
+          "name": "Histidine",
+          "unit": "G",
+          "nutrient_nbr": "512",
+          "group": "Amino Acids",
+          "amount": 0.2625,
+          "dataPoints": 4,
+          "min": 0.23,
+          "max": 0.3,
+          "median": 0.26,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1222,
+          "name": "Alanine",
+          "unit": "G",
+          "nutrient_nbr": "513",
+          "group": "Amino Acids",
+          "amount": 0.4375,
+          "dataPoints": 4,
+          "min": 0.38,
+          "max": 0.5,
+          "median": 0.435,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1223,
+          "name": "Aspartic acid",
+          "unit": "G",
+          "nutrient_nbr": "514",
+          "group": "Amino Acids",
+          "amount": 0.87,
+          "dataPoints": 4,
+          "min": 0.75,
+          "max": 0.99,
+          "median": 0.87,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1224,
+          "name": "Glutamic acid",
+          "unit": "G",
+          "nutrient_nbr": "515",
+          "group": "Amino Acids",
+          "amount": 2.498,
+          "dataPoints": 4,
+          "min": 2.19,
+          "max": 2.79,
+          "median": 2.505,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1225,
+          "name": "Glycine",
+          "unit": "G",
+          "nutrient_nbr": "516",
+          "group": "Amino Acids",
+          "amount": 0.4925,
+          "dataPoints": 4,
+          "min": 0.43,
+          "max": 0.56,
+          "median": 0.49,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1226,
+          "name": "Proline",
+          "unit": "G",
+          "nutrient_nbr": "517",
+          "group": "Amino Acids",
+          "amount": 0.61,
+          "dataPoints": 4,
+          "min": 0.56,
+          "max": 0.71,
+          "median": 0.585,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1227,
+          "name": "Serine",
+          "unit": "G",
+          "nutrient_nbr": "518",
+          "group": "Amino Acids",
+          "amount": 0.54,
+          "dataPoints": 4,
+          "min": 0.47,
+          "max": 0.61,
+          "median": 0.54,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1228,
+          "name": "Hydroxyproline",
+          "unit": "G",
+          "nutrient_nbr": "521",
+          "group": "Amino Acids",
+          "amount": 0.0,
+          "dataPoints": 4,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    }
+  ]
+}

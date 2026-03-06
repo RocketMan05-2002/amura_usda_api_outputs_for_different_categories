@@ -1,0 +1,316 @@
+{
+  "fdcId": 168018,
+  "description": "Mouse nuts, seedlings (Alaska Native)",
+  "publicationDate": "4/1/2019",
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 3405055,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_100292",
+      "name": "NCBI Taxon",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3405056,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_35493",
+      "name": "NCBI Taxon Parent",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3405057,
+      "value": "Eriophorum angustifolium",
+      "name": "Scientific Name",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3405058,
+      "value": "http://purl.obolibrary.org/obo/FOODON_00005369",
+      "name": "FoodOn Ontology ID #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3405059,
+      "value": "common cottongrass seed",
+      "name": "FoodOn Ontology Name #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3405060,
+      "value": "http://purl.obolibrary.org/obo/FOODON_00001796",
+      "name": "Ontology ID For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3405061,
+      "value": "cultural food",
+      "name": "Ontology Name For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "nutrientConversionFactors": [
+    {
+      "id": 16723,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 35053,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 24,
+    "code": "3500",
+    "description": "American Indian/Alaska Native Foods"
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 73.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        },
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 104.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1062,
+          "name": "Energy",
+          "unit": "kJ",
+          "nutrient_nbr": "268",
+          "group": "Proximates",
+          "amount": 436.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 7.3,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 1.1,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "unit": "G",
+          "nutrient_nbr": "207",
+          "group": "Proximates",
+          "amount": 2.3,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 50,
+            "code": "NP",
+            "description": "Nutrient that is based on other nutrient/s; calculated by difference or summed (with or without activity factors) Ex. Proximate component other than CHO by difference. Vitamin A calculated from components when one of the component values is not source code 1 or 7"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 16.3,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 17.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 150.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "unit": "MG",
+          "nutrient_nbr": "401",
+          "group": "Vitamins",
+          "amount": 8.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        },
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "unit": "MG",
+          "nutrient_nbr": "404",
+          "group": "Vitamins",
+          "amount": 0.01,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "unit": "MG",
+          "nutrient_nbr": "405",
+          "group": "Vitamins",
+          "amount": 0.14,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "unit": "MG",
+          "nutrient_nbr": "406",
+          "group": "Vitamins",
+          "amount": 1.0,
+          "dataPoints": 1,
+          "derivation": {
+            "id": 2,
+            "code": "AI",
+            "description": "Analytical data; from the literature or  government;  incomplete documentation"
+          }
+        }
+      ]
+    }
+  ]
+}

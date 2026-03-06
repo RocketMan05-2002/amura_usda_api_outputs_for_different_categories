@@ -1,0 +1,364 @@
+{
+  "fdcId": 2259793,
+  "description": "Yogurt, plain, whole milk",
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "value": 85.27,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "value": 77.9524,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "value": 77.3185458,
+          "unit": "KCAL"
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "value": 0.5994,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "value": 3.824172,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "value": 4.484,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "value": 0.8469,
+          "unit": "G"
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "value": 5.574928,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1063,
+              "name": "Sugars, Total",
+              "value": 4.0936,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrients": [
+                {
+                  "nutrient_id": 1010,
+                  "name": "Sucrose",
+                  "value": 0.0,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1011,
+                  "name": "Glucose",
+                  "value": 0.0,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1012,
+                  "name": "Fructose",
+                  "value": 0.0,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1013,
+                  "name": "Lactose",
+                  "value": 3.348,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1014,
+                  "name": "Maltose",
+                  "value": 0.0,
+                  "unit": "G"
+                },
+                {
+                  "nutrient_id": 1075,
+                  "name": "Galactose",
+                  "value": 0.7456,
+                  "unit": "G"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "value": 126.8,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "value": 0.0,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "value": 11.45,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "value": 101.2,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "value": 164.1,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "value": 41.78,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "value": 0.4283,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "value": 0.003175,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "value": 0.001539,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1100,
+          "name": "Iodine, I",
+          "value": 32.33,
+          "unit": "UG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "value": 0.05519,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "value": 0.2431,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "value": 0.135,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "value": 0.04506,
+          "unit": "MG"
+        },
+        {
+          "nutrient_id": 1176,
+          "name": "Biotin",
+          "value": 0.0,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1106,
+          "name": "Vitamin A, RAE",
+          "unit": "UG",
+          "nutrients": [
+            {
+              "nutrient_id": 1105,
+              "name": "Retinol",
+              "value": 48.19,
+              "unit": "UG"
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1110,
+          "name": "Vitamin D (D2 + D3), International Units",
+          "value": 31.1,
+          "unit": "IU"
+        },
+        {
+          "nutrient_id": 1114,
+          "name": "Vitamin D (D2 + D3)",
+          "value": 0.778,
+          "unit": "UG",
+          "nutrients": [
+            {
+              "nutrient_id": 1111,
+              "name": "Vitamin D2 (ergocalciferol)",
+              "value": 0.0,
+              "unit": "UG"
+            },
+            {
+              "nutrient_id": 1112,
+              "name": "Vitamin D3 (cholecalciferol)",
+              "value": 0.7783,
+              "unit": "UG"
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1185,
+          "name": "Vitamin K (phylloquinone)",
+          "value": 0.2,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1184,
+          "name": "Vitamin K (Dihydrophylloquinone)",
+          "value": 0,
+          "unit": "UG"
+        },
+        {
+          "nutrient_id": 1183,
+          "name": "Vitamin K (Menaquinone-4)",
+          "value": 0.9,
+          "unit": "UG"
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "value": 2.316,
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1263,
+              "name": "SFA 12:0",
+              "value": 0.1149,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1264,
+              "name": "SFA 14:0",
+              "value": 0.3815,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1265,
+              "name": "SFA 16:0",
+              "value": 1.066,
+              "unit": "G"
+            },
+            {
+              "nutrient_id": 1266,
+              "name": "SFA 18:0",
+              "value": 0.3716,
+              "unit": "G"
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "value": 0.8738,
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1268,
+              "name": "MUFA 18:1",
+              "unit": "G",
+              "nutrients": [
+                {
+                  "nutrient_id": 1315,
+                  "name": "MUFA 18:1 c",
+                  "value": 0.7655,
+                  "unit": "G"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "unit": "G",
+          "nutrients": [
+            {
+              "nutrient_id": 1269,
+              "name": "PUFA 18:2",
+              "unit": "G",
+              "nutrients": [
+                {
+                  "nutrient_id": 1316,
+                  "name": "PUFA 18:2 n-6 c,c",
+                  "value": 0.08225,
+                  "unit": "G"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "value": 14.17,
+          "unit": "MG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1527 @@
+{
+  "fdcId": 168696,
+  "description": "Beef, round, bottom round, roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, roasted",
+  "publicationDate": "4/1/2019",
+  "foodPortions": [
+    {
+      "id": 83592,
+      "dataPoints": 20,
+      "gramWeight": 632.0,
+      "sequenceNumber": 3,
+      "amount": 1.0,
+      "modifier": "roast (yield from 1 raw roast weighing 776g)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 83591,
+      "gramWeight": 338.0,
+      "sequenceNumber": 2,
+      "amount": 1.0,
+      "modifier": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    },
+    {
+      "id": 83590,
+      "gramWeight": 85.0,
+      "sequenceNumber": 1,
+      "amount": 3.0,
+      "modifier": "oz",
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      }
+    }
+  ],
+  "dataType": "SR Legacy",
+  "foodClass": "FinalFood",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 3341782,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_9913",
+      "name": "NCBI Taxon",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3341783,
+      "value": "http://purl.obolibrary.org/obo/NCBITaxon_33208",
+      "name": "NCBI Taxon Parent",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3341784,
+      "value": "Bos taurus",
+      "name": "Scientific Name",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3341785,
+      "value": "http://purl.obolibrary.org/obo/FOODON_02000008",
+      "name": "FoodOn Ontology ID #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3341786,
+      "value": "beef bottom round roast",
+      "name": "FoodOn Ontology Name #1 For FDC Item",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3341787,
+      "value": "http://purl.obolibrary.org/obo/FOODON_00001041",
+      "name": "Ontology ID For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3341788,
+      "value": "beef food product",
+      "name": "Ontology Name For Source",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "nutrientConversionFactors": [
+    {
+      "id": 12418,
+      "proteinValue": 4.27,
+      "fatValue": 9.02,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 17265,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "inputFoods": [],
+  "ndbNumber": 13870,
+  "isHistoricalReference": true,
+  "foodCategory": {
+    "id": 13,
+    "code": "1300",
+    "description": "Beef Products"
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 61.6,
+          "dataPoints": 20,
+          "derivation": {
+            "id": 54,
+            "code": "PAK",
+            "description": "Based on physical composition; Derived from analytical data; Known physical composition"
+          }
+        },
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 218.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1062,
+          "name": "Energy",
+          "unit": "kJ",
+          "nutrient_nbr": "268",
+          "group": "Proximates",
+          "amount": 911.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 26.41,
+          "dataPoints": 20,
+          "derivation": {
+            "id": 54,
+            "code": "PAK",
+            "description": "Based on physical composition; Derived from analytical data; Known physical composition"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 11.64,
+          "dataPoints": 20,
+          "derivation": {
+            "id": 54,
+            "code": "PAK",
+            "description": "Based on physical composition; Derived from analytical data; Known physical composition"
+          }
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "unit": "G",
+          "nutrient_nbr": "207",
+          "group": "Proximates",
+          "amount": 1.05,
+          "dataPoints": 20,
+          "derivation": {
+            "id": 54,
+            "code": "PAK",
+            "description": "Based on physical composition; Derived from analytical data; Known physical composition"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 6.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 2.16,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "unit": "MG",
+          "nutrient_nbr": "304",
+          "group": "Minerals",
+          "amount": 17.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 164.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 214.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 35.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "unit": "MG",
+          "nutrient_nbr": "309",
+          "group": "Minerals",
+          "amount": 4.43,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "unit": "MG",
+          "nutrient_nbr": "312",
+          "group": "Minerals",
+          "amount": 0.063,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "unit": "MG",
+          "nutrient_nbr": "315",
+          "group": "Minerals",
+          "amount": 0.009,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1103,
+          "name": "Selenium, Se",
+          "unit": "UG",
+          "nutrient_nbr": "317",
+          "group": "Minerals",
+          "amount": 27.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 12,
+            "code": "BFNN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Non-fat solids; Retention factors not used"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "unit": "MG",
+          "nutrient_nbr": "401",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 68,
+            "code": "Z",
+            "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+          }
+        },
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "unit": "MG",
+          "nutrient_nbr": "404",
+          "group": "Vitamins",
+          "amount": 0.061,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "unit": "MG",
+          "nutrient_nbr": "405",
+          "group": "Vitamins",
+          "amount": 0.141,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "unit": "MG",
+          "nutrient_nbr": "406",
+          "group": "Vitamins",
+          "amount": 4.616,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1170,
+          "name": "Pantothenic acid",
+          "unit": "MG",
+          "nutrient_nbr": "410",
+          "group": "Vitamins",
+          "amount": 0.521,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "unit": "MG",
+          "nutrient_nbr": "415",
+          "group": "Vitamins",
+          "amount": 0.347,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1177,
+          "name": "Folate, total",
+          "unit": "UG",
+          "nutrient_nbr": "417",
+          "group": "Vitamins",
+          "amount": 8.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1186,
+              "name": "Folic acid",
+              "unit": "UG",
+              "nutrient_nbr": "431",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            },
+            {
+              "nutrient_id": 1187,
+              "name": "Folate, food",
+              "unit": "UG",
+              "nutrient_nbr": "432",
+              "group": "Vitamins",
+              "amount": 8.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 14,
+                "code": "BFPN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1190,
+              "name": "Folate, DFE",
+              "unit": "UG",
+              "nutrient_nbr": "435",
+              "group": "Vitamins",
+              "amount": 8.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1180,
+          "name": "Choline, total",
+          "unit": "MG",
+          "nutrient_nbr": "421",
+          "group": "Vitamins",
+          "amount": 100.6,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1198,
+          "name": "Betaine",
+          "unit": "MG",
+          "nutrient_nbr": "454",
+          "group": "Vitamins",
+          "amount": 13.2,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        },
+        {
+          "nutrient_id": 1178,
+          "name": "Vitamin B-12",
+          "unit": "UG",
+          "nutrient_nbr": "418",
+          "group": "Vitamins",
+          "amount": 1.47,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1246,
+              "name": "Vitamin B-12, added",
+              "unit": "UG",
+              "nutrient_nbr": "578",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1106,
+          "name": "Vitamin A, RAE",
+          "unit": "UG",
+          "nutrient_nbr": "320",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "dataPoints": 0,
+          "nutrients": [
+            {
+              "nutrient_id": 1105,
+              "name": "Retinol",
+              "unit": "UG",
+              "nutrient_nbr": "319",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            },
+            {
+              "nutrient_id": 1107,
+              "name": "Carotene, beta",
+              "unit": "UG",
+              "nutrient_nbr": "321",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            },
+            {
+              "nutrient_id": 1108,
+              "name": "Carotene, alpha",
+              "unit": "UG",
+              "nutrient_nbr": "322",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            },
+            {
+              "nutrient_id": 1120,
+              "name": "Cryptoxanthin, beta",
+              "unit": "UG",
+              "nutrient_nbr": "334",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1104,
+          "name": "Vitamin A, IU",
+          "unit": "IU",
+          "nutrient_nbr": "318",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "dataPoints": 0
+        },
+        {
+          "nutrient_id": 2040,
+          "name": "Other carotenoids",
+          "unit": "UG",
+          "nutrient_nbr": "955",
+          "group": "Vitamins",
+          "nutrients": [
+            {
+              "nutrient_id": 1122,
+              "name": "Lycopene",
+              "unit": "UG",
+              "nutrient_nbr": "337",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            },
+            {
+              "nutrient_id": 1123,
+              "name": "Lutein + zeaxanthin",
+              "unit": "UG",
+              "nutrient_nbr": "338",
+              "group": "Vitamins",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 68,
+                "code": "Z",
+                "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 2041,
+          "name": "Tocopherols and tocotrienols",
+          "unit": "MG",
+          "nutrient_nbr": "323.99",
+          "group": "Vitamins",
+          "nutrients": [
+            {
+              "nutrient_id": 2055,
+              "name": "Total Tocopherols",
+              "unit": "MG",
+              "nutrient_nbr": "",
+              "group": "Vitamins",
+              "nutrients": [
+                {
+                  "nutrient_id": 1109,
+                  "name": "Vitamin E (alpha-tocopherol)",
+                  "unit": "MG",
+                  "nutrient_nbr": "323",
+                  "group": "Vitamins",
+                  "amount": 0.41,
+                  "dataPoints": 0,
+                  "derivation": {
+                    "id": 16,
+                    "code": "BFSN",
+                    "description": "Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used"
+                  },
+                  "nutrients": [
+                    {
+                      "nutrient_id": 1242,
+                      "name": "Vitamin E, added",
+                      "unit": "MG",
+                      "nutrient_nbr": "573",
+                      "group": "Vitamins",
+                      "amount": 0.0,
+                      "dataPoints": 0,
+                      "derivation": {
+                        "id": 68,
+                        "code": "Z",
+                        "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "nutrient_id": 1125,
+                  "name": "Tocopherol, beta",
+                  "unit": "MG",
+                  "nutrient_nbr": "341",
+                  "group": "Vitamins",
+                  "amount": 0.0,
+                  "dataPoints": 0,
+                  "derivation": {
+                    "id": 68,
+                    "code": "Z",
+                    "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+                  }
+                },
+                {
+                  "nutrient_id": 1126,
+                  "name": "Tocopherol, gamma",
+                  "unit": "MG",
+                  "nutrient_nbr": "342",
+                  "group": "Vitamins",
+                  "amount": 0.0,
+                  "dataPoints": 0,
+                  "derivation": {
+                    "id": 68,
+                    "code": "Z",
+                    "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+                  }
+                },
+                {
+                  "nutrient_id": 1127,
+                  "name": "Tocopherol, delta",
+                  "unit": "MG",
+                  "nutrient_nbr": "343",
+                  "group": "Vitamins",
+                  "amount": 0.0,
+                  "dataPoints": 0,
+                  "derivation": {
+                    "id": 68,
+                    "code": "Z",
+                    "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1185,
+          "name": "Vitamin K (phylloquinone)",
+          "unit": "UG",
+          "nutrient_nbr": "430",
+          "group": "Vitamins",
+          "amount": 1.5,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 16,
+            "code": "BFSN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 4.418,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1259,
+              "name": "SFA 4:0",
+              "unit": "G",
+              "nutrient_nbr": "607",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1260,
+              "name": "SFA 6:0",
+              "unit": "G",
+              "nutrient_nbr": "608",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1261,
+              "name": "SFA 8:0",
+              "unit": "G",
+              "nutrient_nbr": "609",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1262,
+              "name": "SFA 10:0",
+              "unit": "G",
+              "nutrient_nbr": "610",
+              "group": "Lipids",
+              "amount": 0.025,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1263,
+              "name": "SFA 12:0",
+              "unit": "G",
+              "nutrient_nbr": "611",
+              "group": "Lipids",
+              "amount": 0.025,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1264,
+              "name": "SFA 14:0",
+              "unit": "G",
+              "nutrient_nbr": "612",
+              "group": "Lipids",
+              "amount": 0.345,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1265,
+              "name": "SFA 16:0",
+              "unit": "G",
+              "nutrient_nbr": "613",
+              "group": "Lipids",
+              "amount": 2.755,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1266,
+              "name": "SFA 18:0",
+              "unit": "G",
+              "nutrient_nbr": "614",
+              "group": "Lipids",
+              "amount": 1.268,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "unit": "G",
+          "nutrient_nbr": "645",
+          "group": "Lipids",
+          "amount": 4.964,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1275,
+              "name": "MUFA 16:1",
+              "unit": "G",
+              "nutrient_nbr": "626",
+              "group": "Lipids",
+              "amount": 0.492,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1268,
+              "name": "MUFA 18:1",
+              "unit": "G",
+              "nutrient_nbr": "617",
+              "group": "Lipids",
+              "amount": 4.455,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1277,
+              "name": "MUFA 20:1",
+              "unit": "G",
+              "nutrient_nbr": "628",
+              "group": "Lipids",
+              "amount": 0.018,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1279,
+              "name": "MUFA 22:1",
+              "unit": "G",
+              "nutrient_nbr": "630",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "unit": "G",
+          "nutrient_nbr": "646",
+          "group": "Lipids",
+          "amount": 0.449,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          },
+          "nutrients": [
+            {
+              "nutrient_id": 1269,
+              "name": "PUFA 18:2",
+              "unit": "G",
+              "nutrient_nbr": "618",
+              "group": "Lipids",
+              "amount": 0.309,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1270,
+              "name": "PUFA 18:3",
+              "unit": "G",
+              "nutrient_nbr": "619",
+              "group": "Lipids",
+              "amount": 0.112,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1276,
+              "name": "PUFA 18:4",
+              "unit": "G",
+              "nutrient_nbr": "627",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1271,
+              "name": "PUFA 20:4",
+              "unit": "G",
+              "nutrient_nbr": "620",
+              "group": "Lipids",
+              "amount": 0.028,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1278,
+              "name": "PUFA 20:5 n-3 (EPA)",
+              "unit": "G",
+              "nutrient_nbr": "629",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1280,
+              "name": "PUFA 22:5 n-3 (DPA)",
+              "unit": "G",
+              "nutrient_nbr": "631",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            },
+            {
+              "nutrient_id": 1272,
+              "name": "PUFA 22:6 n-3 (DHA)",
+              "unit": "G",
+              "nutrient_nbr": "621",
+              "group": "Lipids",
+              "amount": 0.0,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 10,
+                "code": "BFFN",
+                "description": "Based on another form of the food or similar food; Concentration adjustment; Fat; Retention factors not used"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 85.0,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 16,
+            "code": "BFSN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2042,
+      "name": "Amino acids",
+      "unit": "G",
+      "nutrient_nbr": "500",
+      "group": "Amino Acids",
+      "nutrients": [
+        {
+          "nutrient_id": 1210,
+          "name": "Tryptophan",
+          "unit": "G",
+          "nutrient_nbr": "501",
+          "group": "Amino Acids",
+          "amount": 0.179,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1211,
+          "name": "Threonine",
+          "unit": "G",
+          "nutrient_nbr": "502",
+          "group": "Amino Acids",
+          "amount": 1.091,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1212,
+          "name": "Isoleucine",
+          "unit": "G",
+          "nutrient_nbr": "503",
+          "group": "Amino Acids",
+          "amount": 1.242,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1213,
+          "name": "Leucine",
+          "unit": "G",
+          "nutrient_nbr": "504",
+          "group": "Amino Acids",
+          "amount": 2.172,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1214,
+          "name": "Lysine",
+          "unit": "G",
+          "nutrient_nbr": "505",
+          "group": "Amino Acids",
+          "amount": 2.307,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1215,
+          "name": "Methionine",
+          "unit": "G",
+          "nutrient_nbr": "506",
+          "group": "Amino Acids",
+          "amount": 0.711,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1216,
+          "name": "Cystine",
+          "unit": "G",
+          "nutrient_nbr": "507",
+          "group": "Amino Acids",
+          "amount": 0.352,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1230,
+          "name": "Phenylalanine and tyrosine (aromatic  AA)",
+          "unit": "G",
+          "nutrient_nbr": "523",
+          "group": "Amino Acids",
+          "nutrients": [
+            {
+              "nutrient_id": 1217,
+              "name": "Phenylalanine",
+              "unit": "G",
+              "nutrient_nbr": "508",
+              "group": "Amino Acids",
+              "amount": 1.078,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 51,
+                "code": "NR",
+                "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+              }
+            },
+            {
+              "nutrient_id": 1218,
+              "name": "Tyrosine",
+              "unit": "G",
+              "nutrient_nbr": "509",
+              "group": "Amino Acids",
+              "amount": 0.87,
+              "dataPoints": 0,
+              "derivation": {
+                "id": 51,
+                "code": "NR",
+                "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+              }
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1219,
+          "name": "Valine",
+          "unit": "G",
+          "nutrient_nbr": "510",
+          "group": "Amino Acids",
+          "amount": 1.354,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1220,
+          "name": "Arginine",
+          "unit": "G",
+          "nutrient_nbr": "511",
+          "group": "Amino Acids",
+          "amount": 1.765,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1221,
+          "name": "Histidine",
+          "unit": "G",
+          "nutrient_nbr": "512",
+          "group": "Amino Acids",
+          "amount": 0.871,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1222,
+          "name": "Alanine",
+          "unit": "G",
+          "nutrient_nbr": "513",
+          "group": "Amino Acids",
+          "amount": 1.66,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1223,
+          "name": "Aspartic acid",
+          "unit": "G",
+          "nutrient_nbr": "514",
+          "group": "Amino Acids",
+          "amount": 2.487,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1224,
+          "name": "Glutamic acid",
+          "unit": "G",
+          "nutrient_nbr": "515",
+          "group": "Amino Acids",
+          "amount": 4.098,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1225,
+          "name": "Glycine",
+          "unit": "G",
+          "nutrient_nbr": "516",
+          "group": "Amino Acids",
+          "amount": 1.662,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1226,
+          "name": "Proline",
+          "unit": "G",
+          "nutrient_nbr": "517",
+          "group": "Amino Acids",
+          "amount": 1.301,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1227,
+          "name": "Serine",
+          "unit": "G",
+          "nutrient_nbr": "518",
+          "group": "Amino Acids",
+          "amount": 1.075,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 51,
+            "code": "NR",
+            "description": "Nutrient that is based on other nutrient/s; value used directly, ex. Nut.#204 from Nut.#298"
+          }
+        },
+        {
+          "nutrient_id": 1228,
+          "name": "Hydroxyproline",
+          "unit": "G",
+          "nutrient_nbr": "521",
+          "group": "Amino Acids",
+          "amount": 0.287,
+          "dataPoints": 0,
+          "derivation": {
+            "id": 14,
+            "code": "BFPN",
+            "description": "Based on another form of the food or similar food; Concentration adjustment; Protein; Retention factors not used"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 1018,
+      "name": "Alcohol, ethyl",
+      "unit": "G",
+      "nutrient_nbr": "221",
+      "group": "Other",
+      "amount": 0.0,
+      "dataPoints": 0,
+      "derivation": {
+        "id": 68,
+        "code": "Z",
+        "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+      }
+    },
+    {
+      "nutrient_id": 1057,
+      "name": "Caffeine",
+      "unit": "MG",
+      "nutrient_nbr": "262",
+      "group": "Other",
+      "amount": 0.0,
+      "dataPoints": 0,
+      "derivation": {
+        "id": 68,
+        "code": "Z",
+        "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+      }
+    },
+    {
+      "nutrient_id": 1058,
+      "name": "Theobromine",
+      "unit": "MG",
+      "nutrient_nbr": "263",
+      "group": "Other",
+      "amount": 0.0,
+      "dataPoints": 0,
+      "derivation": {
+        "id": 68,
+        "code": "Z",
+        "description": "Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)"
+      }
+    }
+  ]
+}

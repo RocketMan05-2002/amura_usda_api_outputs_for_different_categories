@@ -1,0 +1,709 @@
+{
+  "fdcId": 2747676,
+  "description": "Watermelon, seedless, rind only, raw",
+  "publicationDate": "12/18/2025",
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 143337,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748008,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    },
+    {
+      "id": 143365,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748014,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    },
+    {
+      "id": 143366,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748016,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    },
+    {
+      "id": 143367,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748010,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    },
+    {
+      "id": 143368,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748012,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    },
+    {
+      "id": 143370,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748022,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    },
+    {
+      "id": 143372,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748018,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    },
+    {
+      "id": 143374,
+      "foodDescription": "Watermelon, seedless, rind only, raw",
+      "inputFood": {
+        "fdcId": 2748020,
+        "description": "Watermelon, seedless, rind only, raw",
+        "publicationDate": "12/18/2025",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 9,
+          "code": "0900",
+          "description": "Fruits and Fruit Juices"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 23252,
+      "proteinValue": 4.0,
+      "fatValue": 9.0,
+      "carbohydrateValue": 4.0,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    },
+    {
+      "id": 23277,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    }
+  ],
+  "ndbNumber": 100384,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 9,
+    "code": "0900",
+    "description": "Fruits and Fruit Juices"
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 94.66,
+          "dataPoints": 8,
+          "min": 92.87,
+          "max": 96.41,
+          "median": 94.81,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "unit": "KCAL",
+          "nutrient_nbr": "957",
+          "group": "Proximates",
+          "amount": 23.8993,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "unit": "G",
+          "nutrient_nbr": "202",
+          "group": "Proximates",
+          "amount": 0.085,
+          "dataPoints": 8,
+          "min": 0.0,
+          "max": 0.18,
+          "median": 0.09,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 0.53125,
+          "min": 0.0,
+          "max": 1.125,
+          "median": 0.5625,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 0.9657,
+          "dataPoints": 7,
+          "min": 0.87,
+          "max": 1.02,
+          "median": 0.97,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "unit": "G",
+          "nutrient_nbr": "207",
+          "group": "Proximates",
+          "amount": 0.5723,
+          "dataPoints": 8,
+          "min": 0.41,
+          "max": 0.71,
+          "median": 0.57,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 3.27075,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 1.535,
+              "dataPoints": 8,
+              "min": 1.18,
+              "max": 1.94,
+              "median": 1.515,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1063,
+              "name": "Sugars, Total",
+              "unit": "G",
+              "nutrient_nbr": "269.3",
+              "group": "Carbohydrates",
+              "amount": 2.218,
+              "dataPoints": 8,
+              "min": 1.26,
+              "max": 3.26,
+              "median": 2.188,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "nutrients": [
+                {
+                  "nutrient_id": 1010,
+                  "name": "Sucrose",
+                  "unit": "G",
+                  "nutrient_nbr": "210",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 8,
+                  "min": 0.0,
+                  "max": 0.0,
+                  "median": 0.0,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1011,
+                  "name": "Glucose",
+                  "unit": "G",
+                  "nutrient_nbr": "211",
+                  "group": "Carbohydrates",
+                  "amount": 0.7556,
+                  "dataPoints": 8,
+                  "min": 0.38,
+                  "max": 1.18,
+                  "median": 0.7525,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1012,
+                  "name": "Fructose",
+                  "unit": "G",
+                  "nutrient_nbr": "212",
+                  "group": "Carbohydrates",
+                  "amount": 1.463,
+                  "dataPoints": 8,
+                  "min": 0.88,
+                  "max": 2.08,
+                  "median": 1.49,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1013,
+                  "name": "Lactose",
+                  "unit": "G",
+                  "nutrient_nbr": "213",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 8,
+                  "min": 0.0,
+                  "max": 0.0,
+                  "median": 0.0,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1014,
+                  "name": "Maltose",
+                  "unit": "G",
+                  "nutrient_nbr": "214",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 8,
+                  "min": 0.0,
+                  "max": 0.0,
+                  "median": 0.0,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 16.93,
+          "dataPoints": 8,
+          "min": 10.2,
+          "max": 28.9,
+          "median": 16.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 0.0,
+          "dataPoints": 8,
+          "min": 0.0,
+          "max": 0.0,
+          "median": 0.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "unit": "MG",
+          "nutrient_nbr": "304",
+          "group": "Minerals",
+          "amount": 9.673,
+          "dataPoints": 8,
+          "min": 6.54,
+          "max": 11.3,
+          "median": 10.35,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 20.73,
+          "dataPoints": 8,
+          "min": 11.3,
+          "max": 30.3,
+          "median": 20.65,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 272.5,
+          "dataPoints": 8,
+          "min": 170.0,
+          "max": 343.0,
+          "median": 263.5,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 3.763,
+          "dataPoints": 8,
+          "min": 0.0,
+          "max": 8.67,
+          "median": 3.88,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "unit": "MG",
+          "nutrient_nbr": "309",
+          "group": "Minerals",
+          "amount": 0.121,
+          "dataPoints": 8,
+          "min": 0.0538,
+          "max": 0.183,
+          "median": 0.1273,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "unit": "MG",
+          "nutrient_nbr": "312",
+          "group": "Minerals",
+          "amount": 0.00735,
+          "dataPoints": 8,
+          "min": 0.0,
+          "max": 0.0296,
+          "median": 0.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "unit": "MG",
+          "nutrient_nbr": "315",
+          "group": "Minerals",
+          "amount": 0.07054,
+          "dataPoints": 8,
+          "min": 0.0306,
+          "max": 0.104,
+          "median": 0.07155,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "unit": "MG",
+          "nutrient_nbr": "401",
+          "group": "Vitamins",
+          "amount": 7.094,
+          "dataPoints": 8,
+          "min": 5.34,
+          "max": 8.75,
+          "median": 7.085,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "unit": "MG",
+          "nutrient_nbr": "404",
+          "group": "Vitamins",
+          "amount": 0.0325,
+          "dataPoints": 8,
+          "min": 0.03,
+          "max": 0.04,
+          "median": 0.03,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "unit": "MG",
+          "nutrient_nbr": "405",
+          "group": "Vitamins",
+          "amount": 0.07188,
+          "dataPoints": 8,
+          "min": 0.07,
+          "max": 0.08,
+          "median": 0.07,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "unit": "MG",
+          "nutrient_nbr": "406",
+          "group": "Vitamins",
+          "amount": 0.1688,
+          "dataPoints": 8,
+          "min": 0.1,
+          "max": 0.31,
+          "median": 0.155,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "unit": "MG",
+          "nutrient_nbr": "415",
+          "group": "Vitamins",
+          "amount": 0.02888,
+          "dataPoints": 8,
+          "min": 0.023,
+          "max": 0.037,
+          "median": 0.028,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1177,
+          "name": "Folate, total",
+          "unit": "UG",
+          "nutrient_nbr": "417",
+          "group": "Vitamins",
+          "amount": 29.68,
+          "dataPoints": 8,
+          "min": 11.14,
+          "max": 79.55,
+          "median": 16.79,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    }
+  ]
+}

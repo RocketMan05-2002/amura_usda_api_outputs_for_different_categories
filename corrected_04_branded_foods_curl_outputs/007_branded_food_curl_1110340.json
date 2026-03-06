@@ -1,0 +1,430 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 1009361,
+      "value": 5,
+      "name": "Nutrient Added"
+    },
+    {
+      "id": 1009360,
+      "value": 4,
+      "name": "Nutrient Updated"
+    }
+  ],
+  "foodPortions": [],
+  "fdcId": 1110340,
+  "description": "SWEET & SOUR DRESSING, SWEET & SOUR",
+  "publicationDate": "11/13/2020",
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "4/8/2020",
+  "availableDate": "4/8/2020",
+  "brandOwner": "T. Marzetti Company",
+  "dataSource": "LI",
+  "brandedFoodCategory": "Salad Dressing & Mayonnaise",
+  "gtinUpc": "070200200920",
+  "householdServingFullText": "2 Tbsp",
+  "ingredients": "HIGH FRUCTOSE CORN SYRUP, SOYBEAN OIL, CORN-CIDER VINEGAR, WATER, SUGAR, SALT, CUCUMBER JUICE, DEHYDRATED ONION, VINEGAR, CELERY SEED, XANTHAN GUM, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, NATURAL FLAVORS, YELLOW #5.",
+  "marketCountry": "United States",
+  "servingSize": 33.0,
+  "servingSizeUnit": "g",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2038486,
+      "description": "SWEET & SOUR DRESSING, SWEET & SOUR",
+      "publicationDate": "10/28/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "T. Marzetti Company",
+      "brandName": "MARZETTI",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Salad Dressing & Mayonnaise",
+      "gtinUpc": "070200200920",
+      "householdServingFullText": "2 Tbsp",
+      "ingredients": "HIGH FRUCTOSE CORN SYRUP, SOYBEAN OIL, CORN-CIDER VINEGAR, WATER, SUGAR, SALT, CUCUMBER JUICE, DEHYDRATED ONION, VINEGAR, CELERY SEED, XANTHAN GUM, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, NATURAL FLAVORS, YELLOW #5.",
+      "marketCountry": "United States",
+      "servingSize": 33.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "16 fl oz/473 mL"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1511052,
+      "description": "SWEET & SOUR DRESSING, SWEET & SOUR",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "T. Marzetti Company",
+      "brandName": "MARZETTI",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Salad Dressing & Mayonnaise",
+      "gtinUpc": "070200200920",
+      "householdServingFullText": "2 Tbsp",
+      "ingredients": "HIGH FRUCTOSE CORN SYRUP, SOYBEAN OIL, CORN-CIDER VINEGAR, WATER, SUGAR, SALT, CUCUMBER JUICE, DEHYDRATED ONION, VINEGAR, CELERY SEED, XANTHAN GUM, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, NATURAL FLAVORS, YELLOW #5.",
+      "marketCountry": "United States",
+      "servingSize": 33.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1218991,
+      "description": "SWEET & SOUR DRESSING, SWEET & SOUR",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "T. Marzetti Company",
+      "brandName": "MARZETTI",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Salad Dressing & Mayonnaise",
+      "gtinUpc": "070200200920",
+      "householdServingFullText": "2 Tbsp",
+      "ingredients": "HIGH FRUCTOSE CORN SYRUP, SOYBEAN OIL, CORN-CIDER VINEGAR, WATER, SUGAR, SALT, CUCUMBER JUICE, DEHYDRATED ONION, VINEGAR, CELERY SEED, XANTHAN GUM, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, NATURAL FLAVORS, YELLOW #5.",
+      "marketCountry": "United States",
+      "servingSize": 33.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1110340,
+      "description": "SWEET & SOUR DRESSING, SWEET & SOUR",
+      "publicationDate": "11/13/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "T. Marzetti Company",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Salad Dressing & Mayonnaise",
+      "gtinUpc": "070200200920",
+      "householdServingFullText": "2 Tbsp",
+      "ingredients": "HIGH FRUCTOSE CORN SYRUP, SOYBEAN OIL, CORN-CIDER VINEGAR, WATER, SUGAR, SALT, CUCUMBER JUICE, DEHYDRATED ONION, VINEGAR, CELERY SEED, XANTHAN GUM, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, NATURAL FLAVORS, YELLOW #5.",
+      "marketCountry": "United States",
+      "servingSize": 33.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 829624,
+      "description": "SWEET & SOUR DRESSING, SWEET & SOUR",
+      "publicationDate": "5/28/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/8/2020",
+      "availableDate": "4/8/2020",
+      "brandOwner": "T. Marzetti Company",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Salad Dressing & Mayonnaise",
+      "gtinUpc": "070200200920",
+      "householdServingFullText": "2 Tbsp",
+      "ingredients": "HIGH FRUCTOSE CORN SYRUP, SOYBEAN OIL, CORN-CIDER VINEGAR, WATER, SUGAR, SALT, CUCUMBER JUICE, DEHYDRATED ONION, VINEGAR, CELERY SEED, XANTHAN GUM, LEMON JUICE CONCENTRATE, CALCIUM DISODIUM EDTA ADDED TO PROTECT FLAVOR, NATURAL FLAVORS, YELLOW #5.",
+      "marketCountry": "United States",
+      "servingSize": 33.0,
+      "servingSizeUnit": "g"
+    }
+  ],
+  "labelNutrients": {
+    "fat": {
+      "value": 12.0
+    },
+    "saturatedFat": {
+      "value": 2.0
+    },
+    "transFat": {
+      "value": 0.0
+    },
+    "cholesterol": {
+      "value": 0.0
+    },
+    "sodium": {
+      "value": 230
+    },
+    "carbohydrates": {
+      "value": 11.0
+    },
+    "fiber": {
+      "value": 0.0
+    },
+    "sugars": {
+      "value": 11.0
+    },
+    "protein": {
+      "value": 0.0
+    },
+    "calcium": {
+      "value": 0.0
+    },
+    "iron": {
+      "value": 0.0
+    },
+    "potassium": {
+      "value": 0.0
+    },
+    "addedSugar": {
+      "value": 11.0
+    },
+    "calories": {
+      "value": 150
+    }
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 455.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 0.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 36.36,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 33.33,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 0.0,
+              "derivation": {
+                "id": 75,
+                "code": "LCCD",
+                "description": "Calculated from a daily value percentage per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 33.33,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              },
+              "nutrients": [
+                {
+                  "nutrient_id": 1235,
+                  "name": "Sugars, added",
+                  "unit": "G",
+                  "nutrient_nbr": "539",
+                  "group": "Carbohydrates",
+                  "amount": 33.3,
+                  "derivation": {
+                    "id": 70,
+                    "code": "LCCS",
+                    "description": "Calculated from value per serving size measure"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 697.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1110,
+          "name": "Vitamin D (D2 + D3), International Units",
+          "unit": "IU",
+          "nutrient_nbr": "324",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 6.06,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "unit": "G",
+          "nutrient_nbr": "605",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    }
+  ]
+}

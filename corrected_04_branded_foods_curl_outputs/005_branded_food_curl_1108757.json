@@ -1,0 +1,518 @@
+{
+  "discontinuedDate": "",
+  "foodComponents": [],
+  "foodAttributes": [
+    {
+      "id": 1005908,
+      "value": 4,
+      "name": "Nutrient Updated"
+    },
+    {
+      "id": 1005909,
+      "value": 5,
+      "name": "Nutrient Added"
+    }
+  ],
+  "foodPortions": [],
+  "fdcId": 1108757,
+  "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+  "publicationDate": "11/13/2020",
+  "dataType": "Branded",
+  "foodClass": "Branded",
+  "modifiedDate": "4/9/2020",
+  "availableDate": "4/9/2020",
+  "brandOwner": "Sargento Foods Inc",
+  "dataSource": "LI",
+  "brandedFoodCategory": "Cheese",
+  "gtinUpc": "046100007389",
+  "householdServingFullText": "1 PIECE",
+  "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+  "marketCountry": "United States",
+  "servingSize": 21.0,
+  "servingSizeUnit": "g",
+  "foodUpdateLog": [
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2471365,
+      "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "2/16/2023",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "4/9/2020",
+      "availableDate": "4/9/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "brandName": "SARGENTO",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "9 oz/255 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 2402535,
+      "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "12/22/2022",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "shortDescription": "",
+      "modifiedDate": "4/9/2020",
+      "availableDate": "4/9/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "brandName": "SARGENTO",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "9 oz/255 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1865025,
+      "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "7/29/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/9/2020",
+      "availableDate": "4/9/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "brandName": "SARGENTO",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "9 oz/255 g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1495823,
+      "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "3/19/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/9/2020",
+      "availableDate": "4/9/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "brandName": "SARGENTO",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1203774,
+      "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "2/26/2021",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/9/2020",
+      "availableDate": "4/9/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "brandName": "SARGENTO",
+      "subbrandName": "",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g",
+      "packageWeight": "",
+      "notaSignificantSourceOf": ""
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 1108757,
+      "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "11/13/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/9/2020",
+      "availableDate": "4/9/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 822840,
+      "description": "SHARP CHEDDAR REDUCED FAT NATURAL CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "5/28/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "4/9/2020",
+      "availableDate": "4/9/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 794087,
+      "description": "SHARP CHEDDAR NATURAL REDUCED FAT CHEDDAR CHEESE STICKS",
+      "publicationDate": "4/1/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "2/8/2020",
+      "availableDate": "2/8/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 772862,
+      "description": "SHARP CHEDDAR NATURAL REDUCED FAT CHEDDAR CHEESE STICKS",
+      "publicationDate": "2/27/2020",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "2/8/2020",
+      "availableDate": "2/8/2020",
+      "brandOwner": "Sargento Foods Inc",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g"
+    },
+    {
+      "discontinuedDate": "",
+      "foodAttributes": [],
+      "fdcId": 625214,
+      "description": "SHARP CHEDDAR NATURAL REDUCED FAT SHARP CHEDDAR CHEESE STICKS, SHARP CHEDDAR",
+      "publicationDate": "12/6/2019",
+      "dataType": "Branded",
+      "foodClass": "Branded",
+      "modifiedDate": "1/31/2019",
+      "availableDate": "1/31/2019",
+      "brandOwner": "Sargento Foods Inc",
+      "dataSource": "LI",
+      "brandedFoodCategory": "Cheese",
+      "gtinUpc": "046100007389",
+      "householdServingFullText": "1 PIECE",
+      "ingredients": "PASTEURIZED REDUCED FAT MILK, CHEESE CULTURE, SALT, ENZYMES, ANNATTO (VEGETABLE COLOR), VITAMIN A PALMITATE.",
+      "marketCountry": "United States",
+      "servingSize": 21.0,
+      "servingSizeUnit": "g"
+    }
+  ],
+  "labelNutrients": {
+    "fat": {
+      "value": 4.5
+    },
+    "saturatedFat": {
+      "value": 2.5
+    },
+    "transFat": {
+      "value": 0.0
+    },
+    "cholesterol": {
+      "value": 14.9
+    },
+    "sodium": {
+      "value": 140
+    },
+    "carbohydrates": {
+      "value": 0.0
+    },
+    "fiber": {
+      "value": 0.0
+    },
+    "sugars": {
+      "value": 0.0
+    },
+    "protein": {
+      "value": 6.0
+    },
+    "calcium": {
+      "value": 188
+    },
+    "iron": {
+      "value": 0.0
+    },
+    "potassium": {
+      "value": 18.9
+    },
+    "calories": {
+      "value": 60.1
+    }
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 286.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 28.57,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 21.43,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 0.0,
+              "derivation": {
+                "id": 75,
+                "code": "LCCD",
+                "description": "Calculated from a daily value percentage per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 0.0,
+              "derivation": {
+                "id": 75,
+                "code": "LCCD",
+                "description": "Calculated from a daily value percentage per serving size measure"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 0.0,
+              "derivation": {
+                "id": 70,
+                "code": "LCCS",
+                "description": "Calculated from value per serving size measure"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 895.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 90.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 667.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1110,
+          "name": "Vitamin D (D2 + D3), International Units",
+          "unit": "IU",
+          "nutrient_nbr": "324",
+          "group": "Vitamins",
+          "amount": 0.0,
+          "derivation": {
+            "id": 75,
+            "code": "LCCD",
+            "description": "Calculated from a daily value percentage per serving size measure"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 11.9,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "unit": "G",
+          "nutrient_nbr": "605",
+          "group": "Lipids",
+          "amount": 0.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 71.0,
+          "derivation": {
+            "id": 70,
+            "code": "LCCS",
+            "description": "Calculated from value per serving size measure"
+          }
+        }
+      ]
+    }
+  ]
+}

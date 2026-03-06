@@ -1,0 +1,647 @@
+{
+  "fdcId": 2685580,
+  "description": "Tomato, paste, canned, without salt added",
+  "publicationDate": "4/18/2024",
+  "foodPortions": [
+    {
+      "id": 312768,
+      "dataPoints": 0,
+      "gramWeight": 30.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "measureUnit": {
+        "id": 1121,
+        "name": "RACC",
+        "abbreviation": "RACC"
+      }
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 124264,
+      "foodDescription": "tomato, paste, canned, without salt added",
+      "inputFood": {
+        "fdcId": 2685788,
+        "description": "tomato, paste, canned, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 124262,
+      "foodDescription": "tomato, paste, canned, without salt added",
+      "inputFood": {
+        "fdcId": 2685786,
+        "description": "tomato, paste, canned, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 124258,
+      "foodDescription": "tomato, paste, canned, without salt added",
+      "inputFood": {
+        "fdcId": 2685790,
+        "description": "tomato, paste, canned, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 124166,
+      "foodDescription": "tomato, paste, canned, without salt added",
+      "inputFood": {
+        "fdcId": 2685780,
+        "description": "tomato, paste, canned, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 124164,
+      "foodDescription": "tomato, paste, canned, double- concentrated, without salt added",
+      "inputFood": {
+        "fdcId": 2685778,
+        "description": "tomato, paste, canned, double- concentrated, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 124162,
+      "foodDescription": "tomato, paste, canned, without salt added",
+      "inputFood": {
+        "fdcId": 2685784,
+        "description": "tomato, paste, canned, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 124160,
+      "foodDescription": "tomato, paste, canned, without salt added",
+      "inputFood": {
+        "fdcId": 2685782,
+        "description": "tomato, paste, canned, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    },
+    {
+      "id": 124156,
+      "foodDescription": "tomato, paste, canned, without salt added",
+      "inputFood": {
+        "fdcId": 2685776,
+        "description": "tomato, paste, canned, without salt added",
+        "publicationDate": "4/18/2024",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 11,
+          "code": "1100",
+          "description": "Vegetables and Vegetable Products"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 23119,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    },
+    {
+      "id": 23104,
+      "proteinValue": 2.44,
+      "fatValue": 8.37,
+      "carbohydrateValue": 3.57,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    }
+  ],
+  "ndbNumber": 11546,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 11,
+    "code": "1100",
+    "description": "Vegetables and Vegetable Products"
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 71.93,
+          "dataPoints": 8,
+          "min": 67.82,
+          "max": 73.43,
+          "median": 72.4,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "unit": "KCAL",
+          "nutrient_nbr": "957",
+          "group": "Proximates",
+          "amount": 104.2825,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "unit": "KCAL",
+          "nutrient_nbr": "958",
+          "group": "Proximates",
+          "amount": 88.53450625,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "unit": "G",
+          "nutrient_nbr": "202",
+          "group": "Proximates",
+          "amount": 0.6775,
+          "dataPoints": 8,
+          "min": 0.62,
+          "max": 0.8,
+          "median": 0.665,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 4.234375,
+          "min": 3.875,
+          "max": 5.0,
+          "median": 4.15625,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 0.7325,
+          "dataPoints": 8,
+          "min": 0.59,
+          "max": 1.01,
+          "median": 0.705,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "unit": "G",
+          "nutrient_nbr": "207",
+          "group": "Proximates",
+          "amount": 2.915,
+          "dataPoints": 8,
+          "min": 1.97,
+          "max": 5.14,
+          "median": 2.635,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 20.188125,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 4.704,
+              "dataPoints": 8,
+              "min": 4.25,
+              "max": 5.36,
+              "median": 4.6,
+              "derivation": {
+                "id": 1,
+                "code": "A",
+                "description": "Analytical"
+              }
+            },
+            {
+              "nutrient_id": 1063,
+              "name": "Sugars, Total",
+              "unit": "G",
+              "nutrient_nbr": "269.3",
+              "group": "Carbohydrates",
+              "amount": 11.693,
+              "derivation": {
+                "id": 4,
+                "code": "AS",
+                "description": "Summed"
+              }
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "nutrients": [
+                {
+                  "nutrient_id": 1010,
+                  "name": "Sucrose",
+                  "unit": "G",
+                  "nutrient_nbr": "210",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 8,
+                  "min": 0.0,
+                  "max": 0.0,
+                  "median": 0.0,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1011,
+                  "name": "Glucose",
+                  "unit": "G",
+                  "nutrient_nbr": "211",
+                  "group": "Carbohydrates",
+                  "amount": 5.685,
+                  "dataPoints": 8,
+                  "min": 5.29,
+                  "max": 6.62,
+                  "median": 5.585,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1012,
+                  "name": "Fructose",
+                  "unit": "G",
+                  "nutrient_nbr": "212",
+                  "group": "Carbohydrates",
+                  "amount": 6.008,
+                  "dataPoints": 8,
+                  "min": 5.56,
+                  "max": 7.06,
+                  "median": 5.875,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1013,
+                  "name": "Lactose",
+                  "unit": "G",
+                  "nutrient_nbr": "213",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 8,
+                  "min": 0.0,
+                  "max": 0.0,
+                  "median": 0.0,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                },
+                {
+                  "nutrient_id": 1014,
+                  "name": "Maltose",
+                  "unit": "G",
+                  "nutrient_nbr": "214",
+                  "group": "Carbohydrates",
+                  "amount": 0.0,
+                  "dataPoints": 8,
+                  "min": 0.0,
+                  "max": 0.0,
+                  "median": 0.0,
+                  "derivation": {
+                    "id": 1,
+                    "code": "A",
+                    "description": "Analytical"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 36.85,
+          "dataPoints": 8,
+          "min": 29.5,
+          "max": 55.2,
+          "median": 33.65,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 3.185,
+          "dataPoints": 8,
+          "min": 1.16,
+          "max": 5.3,
+          "median": 3.285,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "unit": "MG",
+          "nutrient_nbr": "304",
+          "group": "Minerals",
+          "amount": 49.61,
+          "dataPoints": 8,
+          "min": 46.7,
+          "max": 52.9,
+          "median": 49.15,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 91.16,
+          "dataPoints": 8,
+          "min": 83.7,
+          "max": 102.0,
+          "median": 89.45,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 971.6,
+          "dataPoints": 8,
+          "min": 816.0,
+          "max": 1230.0,
+          "median": 933.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 61.15,
+          "dataPoints": 8,
+          "min": 43.1,
+          "max": 79.9,
+          "median": 59.85,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "unit": "MG",
+          "nutrient_nbr": "309",
+          "group": "Minerals",
+          "amount": 0.5113,
+          "dataPoints": 8,
+          "min": 0.426,
+          "max": 0.668,
+          "median": 0.4925,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "unit": "MG",
+          "nutrient_nbr": "312",
+          "group": "Minerals",
+          "amount": 0.295,
+          "dataPoints": 8,
+          "min": 0.256,
+          "max": 0.428,
+          "median": 0.28,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "unit": "MG",
+          "nutrient_nbr": "315",
+          "group": "Minerals",
+          "amount": 0.3315,
+          "dataPoints": 8,
+          "min": 0.275,
+          "max": 0.378,
+          "median": 0.3295,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "unit": "MG",
+          "nutrient_nbr": "401",
+          "group": "Vitamins",
+          "amount": 18.4,
+          "dataPoints": 8,
+          "min": 3.7,
+          "max": 40.9,
+          "median": 18.1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    }
+  ]
+}

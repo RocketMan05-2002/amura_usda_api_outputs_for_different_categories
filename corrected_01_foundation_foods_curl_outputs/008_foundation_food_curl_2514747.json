@@ -1,0 +1,592 @@
+{
+  "fdcId": 2514747,
+  "footnote": "Fatty acids, total trans and total saturated and total monounsaturated and total polyunsaturated median values corrected on 4/18/2024.",
+  "description": "Turkey, ground, 93% lean/ 7% fat, raw",
+  "publicationDate": "4/20/2023",
+  "foodPortions": [
+    {
+      "id": 312732,
+      "dataPoints": 0,
+      "gramWeight": 114.0,
+      "sequenceNumber": 1,
+      "amount": 1.0,
+      "measureUnit": {
+        "id": 1121,
+        "name": "RACC",
+        "abbreviation": "RACC"
+      }
+    }
+  ],
+  "dataType": "Foundation",
+  "foodClass": "FinalFood",
+  "inputFoods": [
+    {
+      "id": 123772,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514821,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    },
+    {
+      "id": 123771,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514819,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    },
+    {
+      "id": 123770,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514825,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    },
+    {
+      "id": 123769,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514823,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    },
+    {
+      "id": 123768,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514813,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    },
+    {
+      "id": 123767,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514811,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    },
+    {
+      "id": 123766,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514817,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    },
+    {
+      "id": 123765,
+      "foodDescription": "Turkey, ground, 93% lean, 7% fat, raw",
+      "inputFood": {
+        "fdcId": 2514815,
+        "description": "Turkey, ground, 93% lean, 7% fat, raw",
+        "publicationDate": "4/20/2023",
+        "foodAttributeTypes": [],
+        "foodClass": "Composite",
+        "totalRefuse": 0,
+        "dataType": "Sample",
+        "foodGroup": {
+          "id": 5,
+          "code": "0500",
+          "description": "Poultry Products"
+        }
+      }
+    }
+  ],
+  "foodComponents": [],
+  "foodAttributes": [],
+  "nutrientConversionFactors": [
+    {
+      "id": 22999,
+      "value": 6.25,
+      "type": ".ProteinConversionFactor",
+      "name": "Protein From Nitrogen"
+    },
+    {
+      "id": 22994,
+      "proteinValue": 4.27,
+      "fatValue": 9.02,
+      "carbohydrateValue": 3.87,
+      "type": ".CalorieConversionFactor",
+      "name": "Calories From Proximates"
+    }
+  ],
+  "ndbNumber": 5665,
+  "isHistoricalReference": false,
+  "foodCategory": {
+    "id": 5,
+    "code": "0500",
+    "description": "Poultry Products"
+  },
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 72.89,
+          "dataPoints": 8,
+          "min": 68.74,
+          "max": 74.6,
+          "median": 73.64,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2047,
+          "name": "Energy (Atwater General Factors)",
+          "unit": "KCAL",
+          "nutrient_nbr": "957",
+          "group": "Proximates",
+          "amount": 152.615,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 2048,
+          "name": "Energy (Atwater Specific Factors)",
+          "unit": "KCAL",
+          "nutrient_nbr": "958",
+          "group": "Proximates",
+          "amount": 157.5897,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1002,
+          "name": "Nitrogen",
+          "unit": "G",
+          "nutrient_nbr": "202",
+          "group": "Proximates",
+          "amount": 2.775,
+          "dataPoints": 8,
+          "min": 2.65,
+          "max": 2.91,
+          "median": 2.78,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 17.34375,
+          "min": 16.5625,
+          "max": 18.1875,
+          "median": 17.375,
+          "derivation": {
+            "id": 49,
+            "code": "NC",
+            "description": "Calculated"
+          }
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 9.591,
+          "dataPoints": 8,
+          "min": 7.75,
+          "max": 14.58,
+          "median": 8.74,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1007,
+          "name": "Ash",
+          "unit": "G",
+          "nutrient_nbr": "207",
+          "group": "Proximates",
+          "amount": 0.945,
+          "dataPoints": 8,
+          "min": 0.88,
+          "max": 1.01,
+          "median": 0.945,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 0,
+              "derivation": {
+                "id": 49,
+                "code": "NC",
+                "description": "Calculated"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 23.63,
+          "dataPoints": 8,
+          "min": 13.0,
+          "max": 46.3,
+          "median": 17.1,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 1.087,
+          "dataPoints": 8,
+          "min": 0.972,
+          "max": 1.33,
+          "median": 1.045,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "unit": "MG",
+          "nutrient_nbr": "304",
+          "group": "Minerals",
+          "amount": 17.3,
+          "dataPoints": 8,
+          "min": 16.2,
+          "max": 18.3,
+          "median": 17.25,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 162.0,
+          "dataPoints": 8,
+          "min": 147.5,
+          "max": 174.0,
+          "median": 162.0,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 246.3,
+          "dataPoints": 8,
+          "min": 226.5,
+          "max": 266.0,
+          "median": 245.5,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 80.18,
+          "dataPoints": 8,
+          "min": 69.4,
+          "max": 94.6,
+          "median": 79.05,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "unit": "MG",
+          "nutrient_nbr": "309",
+          "group": "Minerals",
+          "amount": 2.95,
+          "dataPoints": 8,
+          "min": 2.43,
+          "max": 3.37,
+          "median": 3.03,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "unit": "MG",
+          "nutrient_nbr": "312",
+          "group": "Minerals",
+          "amount": 0.07624,
+          "dataPoints": 8,
+          "min": 0.0634,
+          "max": 0.086,
+          "median": 0.0764,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1101,
+          "name": "Manganese, Mn",
+          "unit": "MG",
+          "nutrient_nbr": "315",
+          "group": "Minerals",
+          "amount": 0.01581,
+          "dataPoints": 8,
+          "min": 0.0139,
+          "max": 0.019,
+          "median": 0.01565,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 2.264,
+          "dataPoints": 8,
+          "min": 1.34,
+          "max": 3.89,
+          "median": 2.015,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "unit": "G",
+          "nutrient_nbr": "645",
+          "group": "Lipids",
+          "amount": 2.874,
+          "dataPoints": 8,
+          "min": 1.64,
+          "max": 5.04,
+          "median": 2.585,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "unit": "G",
+          "nutrient_nbr": "646",
+          "group": "Lipids",
+          "amount": 2.59,
+          "dataPoints": 8,
+          "min": 1.95,
+          "max": 3.78,
+          "median": 2.245,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1257,
+          "name": "Fatty acids, total trans",
+          "unit": "G",
+          "nutrient_nbr": "605",
+          "group": "Lipids",
+          "amount": 0.081,
+          "dataPoints": 8,
+          "min": 0.02,
+          "max": 0.19,
+          "median": 0.06,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 82.26,
+          "dataPoints": 8,
+          "min": 78.0,
+          "max": 94.2,
+          "median": 81.75,
+          "derivation": {
+            "id": 1,
+            "code": "A",
+            "description": "Analytical"
+          }
+        }
+      ]
+    }
+  ]
+}

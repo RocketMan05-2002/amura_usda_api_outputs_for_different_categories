@@ -1,0 +1,77 @@
+{
+  "foodClass": "Survey",
+  "description": "Milk, human",
+  "footnote": "FNDDS 2021-2023 includes the food code 11000000 Milk, human; it does not provide any nutrient values. The data were 50 years old, the source was unverifiable, and some values were based on cow’s milk. This profile was determined to be unsuitable and not a relevant profile for human milk to calculate population estimates of nutrients (Casavale KO, et al 2023).",
+  "foodAttributes": [
+    {
+      "id": 3298313,
+      "name": "WWEIA Category number",
+      "value": "9602",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3298314,
+      "name": "WWEIA Category description",
+      "value": "Human milk",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "foodCode": "11000000",
+  "startDate": "1/1/2021",
+  "endDate": "12/31/2023",
+  "wweiaFoodCategory": {
+    "wweiaFoodCategoryDescription": "Human milk",
+    "wweiaFoodCategoryCode": 3298314
+  },
+  "fdcId": 2705383,
+  "dataType": "Survey (FNDDS)",
+  "foodPortions": [
+    {
+      "id": 290507,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "90000",
+      "gramWeight": 0,
+      "portionDescription": "Quantity not specified",
+      "sequenceNumber": 2
+    },
+    {
+      "id": 290506,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "10205",
+      "gramWeight": 246,
+      "portionDescription": "1 cup",
+      "sequenceNumber": 1
+    },
+    {
+      "id": 290508,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "30000",
+      "gramWeight": 30.8,
+      "portionDescription": "1 fl oz",
+      "sequenceNumber": 3
+    }
+  ],
+  "publicationDate": "10/31/2024",
+  "inputFoods": [],
+  "foodNutrients": []
+}

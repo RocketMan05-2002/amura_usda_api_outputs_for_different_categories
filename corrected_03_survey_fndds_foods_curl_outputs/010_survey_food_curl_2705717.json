@@ -1,0 +1,762 @@
+{
+  "foodClass": "Survey",
+  "description": "Cheese, Gouda or Edam",
+  "foodAttributes": [
+    {
+      "id": 3309773,
+      "value": "Caciocavallo",
+      "foodAttributeType": {
+        "id": 1001,
+        "name": "Additional Description",
+        "description": "Additional descriptions for the food."
+      },
+      "rank": 1
+    },
+    {
+      "id": 3309774,
+      "value": "Delft",
+      "foodAttributeType": {
+        "id": 1001,
+        "name": "Additional Description",
+        "description": "Additional descriptions for the food."
+      },
+      "rank": 2
+    },
+    {
+      "id": 3319157,
+      "value": "Moisture change: 0%",
+      "foodAttributeType": {
+        "id": 1002,
+        "name": "Adjustments",
+        "description": "Adjustments made to foods, including moisture changes"
+      }
+    },
+    {
+      "id": 3298981,
+      "name": "WWEIA Category number",
+      "value": "1602",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    },
+    {
+      "id": 3298982,
+      "name": "WWEIA Category description",
+      "value": "Cheese",
+      "foodAttributeType": {
+        "id": 999,
+        "name": "Attribute",
+        "description": "Generic attributes"
+      }
+    }
+  ],
+  "foodCode": "14105010",
+  "startDate": "1/1/2021",
+  "endDate": "12/31/2023",
+  "wweiaFoodCategory": {
+    "wweiaFoodCategoryDescription": "Cheese",
+    "wweiaFoodCategoryCode": 3298982
+  },
+  "dataType": "Survey (FNDDS)",
+  "fdcId": 2705717,
+  "foodPortions": [
+    {
+      "id": 291621,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "61935",
+      "gramWeight": 21,
+      "portionDescription": "1 slice",
+      "sequenceNumber": 2
+    },
+    {
+      "id": 291624,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "51000",
+      "gramWeight": 17,
+      "portionDescription": "1 cubic inch",
+      "sequenceNumber": 5
+    },
+    {
+      "id": 291625,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "90000",
+      "gramWeight": 21,
+      "portionDescription": "Quantity not specified",
+      "sequenceNumber": 6
+    },
+    {
+      "id": 291623,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "10066",
+      "gramWeight": 132,
+      "portionDescription": "1 cup, diced",
+      "sequenceNumber": 4
+    },
+    {
+      "id": 291622,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "61565",
+      "gramWeight": 198,
+      "portionDescription": "1 package (7 oz)",
+      "sequenceNumber": 3
+    },
+    {
+      "id": 291620,
+      "measureUnit": {
+        "id": 9999,
+        "name": "undetermined",
+        "abbreviation": "undetermined"
+      },
+      "modifier": "64017",
+      "gramWeight": 9,
+      "portionDescription": "1 cracker-size slice",
+      "sequenceNumber": 1
+    }
+  ],
+  "publicationDate": "10/31/2024",
+  "inputFoods": [
+    {
+      "id": 124986,
+      "unit": "GM",
+      "portionDescription": "NONE",
+      "portionCode": "0",
+      "foodDescription": "Cheese, gouda",
+      "retentionCode": 0,
+      "ingredientCode": 1022,
+      "ingredientDescription": "Cheese, gouda",
+      "ingredientWeight": 100,
+      "amount": 100,
+      "sequenceNumber": 1
+    }
+  ],
+  "foodNutrients": [
+    {
+      "nutrient_id": 2045,
+      "name": "Proximates",
+      "unit": "G",
+      "nutrient_nbr": "951",
+      "group": "Proximates",
+      "nutrients": [
+        {
+          "nutrient_id": 1051,
+          "name": "Water",
+          "unit": "G",
+          "nutrient_nbr": "255",
+          "group": "Proximates",
+          "amount": 41.5
+        },
+        {
+          "nutrient_id": 1008,
+          "name": "Energy",
+          "unit": "KCAL",
+          "nutrient_nbr": "208",
+          "group": "Proximates",
+          "amount": 356
+        },
+        {
+          "nutrient_id": 1003,
+          "name": "Protein",
+          "unit": "G",
+          "nutrient_nbr": "203",
+          "group": "Proximates",
+          "amount": 24.9
+        },
+        {
+          "nutrient_id": 1004,
+          "name": "Total lipid (fat)",
+          "unit": "G",
+          "nutrient_nbr": "204",
+          "group": "Proximates",
+          "amount": 27.4
+        },
+        {
+          "nutrient_id": 2039,
+          "name": "Carbohydrates",
+          "unit": "G",
+          "nutrient_nbr": "956",
+          "group": "Carbohydrates",
+          "nutrients": [
+            {
+              "nutrient_id": 1005,
+              "name": "Carbohydrate, by difference",
+              "unit": "G",
+              "nutrient_nbr": "205",
+              "group": "Carbohydrates",
+              "amount": 2.22
+            },
+            {
+              "nutrient_id": 1079,
+              "name": "Fiber, total dietary",
+              "unit": "G",
+              "nutrient_nbr": "291",
+              "group": "Carbohydrates",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 2000,
+              "name": "Total Sugars",
+              "unit": "G",
+              "nutrient_nbr": "269",
+              "group": "Carbohydrates",
+              "amount": 2.22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2043,
+      "name": "Minerals",
+      "unit": "G",
+      "nutrient_nbr": "300",
+      "group": "Minerals",
+      "nutrients": [
+        {
+          "nutrient_id": 1087,
+          "name": "Calcium, Ca",
+          "unit": "MG",
+          "nutrient_nbr": "301",
+          "group": "Minerals",
+          "amount": 700
+        },
+        {
+          "nutrient_id": 1089,
+          "name": "Iron, Fe",
+          "unit": "MG",
+          "nutrient_nbr": "303",
+          "group": "Minerals",
+          "amount": 0.24
+        },
+        {
+          "nutrient_id": 1090,
+          "name": "Magnesium, Mg",
+          "unit": "MG",
+          "nutrient_nbr": "304",
+          "group": "Minerals",
+          "amount": 29.0
+        },
+        {
+          "nutrient_id": 1091,
+          "name": "Phosphorus, P",
+          "unit": "MG",
+          "nutrient_nbr": "305",
+          "group": "Minerals",
+          "amount": 546
+        },
+        {
+          "nutrient_id": 1092,
+          "name": "Potassium, K",
+          "unit": "MG",
+          "nutrient_nbr": "306",
+          "group": "Minerals",
+          "amount": 121
+        },
+        {
+          "nutrient_id": 1093,
+          "name": "Sodium, Na",
+          "unit": "MG",
+          "nutrient_nbr": "307",
+          "group": "Minerals",
+          "amount": 819
+        },
+        {
+          "nutrient_id": 1095,
+          "name": "Zinc, Zn",
+          "unit": "MG",
+          "nutrient_nbr": "309",
+          "group": "Minerals",
+          "amount": 3.9
+        },
+        {
+          "nutrient_id": 1098,
+          "name": "Copper, Cu",
+          "unit": "MG",
+          "nutrient_nbr": "312",
+          "group": "Minerals",
+          "amount": 0.036
+        },
+        {
+          "nutrient_id": 1103,
+          "name": "Selenium, Se",
+          "unit": "UG",
+          "nutrient_nbr": "317",
+          "group": "Minerals",
+          "amount": 14.5
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2046,
+      "name": "Vitamins and Other Components",
+      "unit": "G",
+      "nutrient_nbr": "952",
+      "group": "Vitamins",
+      "nutrients": [
+        {
+          "nutrient_id": 1162,
+          "name": "Vitamin C, total ascorbic acid",
+          "unit": "MG",
+          "nutrient_nbr": "401",
+          "group": "Vitamins",
+          "amount": 0.0
+        },
+        {
+          "nutrient_id": 1165,
+          "name": "Thiamin",
+          "unit": "MG",
+          "nutrient_nbr": "404",
+          "group": "Vitamins",
+          "amount": 0.03
+        },
+        {
+          "nutrient_id": 1166,
+          "name": "Riboflavin",
+          "unit": "MG",
+          "nutrient_nbr": "405",
+          "group": "Vitamins",
+          "amount": 0.334
+        },
+        {
+          "nutrient_id": 1167,
+          "name": "Niacin",
+          "unit": "MG",
+          "nutrient_nbr": "406",
+          "group": "Vitamins",
+          "amount": 0.063
+        },
+        {
+          "nutrient_id": 1175,
+          "name": "Vitamin B-6",
+          "unit": "MG",
+          "nutrient_nbr": "415",
+          "group": "Vitamins",
+          "amount": 0.08
+        },
+        {
+          "nutrient_id": 1177,
+          "name": "Folate, total",
+          "unit": "UG",
+          "nutrient_nbr": "417",
+          "group": "Vitamins",
+          "amount": 21.0,
+          "nutrients": [
+            {
+              "nutrient_id": 1186,
+              "name": "Folic acid",
+              "unit": "UG",
+              "nutrient_nbr": "431",
+              "group": "Vitamins",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1187,
+              "name": "Folate, food",
+              "unit": "UG",
+              "nutrient_nbr": "432",
+              "group": "Vitamins",
+              "amount": 21.0
+            },
+            {
+              "nutrient_id": 1190,
+              "name": "Folate, DFE",
+              "unit": "UG",
+              "nutrient_nbr": "435",
+              "group": "Vitamins",
+              "amount": 21.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1180,
+          "name": "Choline, total",
+          "unit": "MG",
+          "nutrient_nbr": "421",
+          "group": "Vitamins",
+          "amount": 15.4
+        },
+        {
+          "nutrient_id": 1178,
+          "name": "Vitamin B-12",
+          "unit": "UG",
+          "nutrient_nbr": "418",
+          "group": "Vitamins",
+          "amount": 1.54,
+          "nutrients": [
+            {
+              "nutrient_id": 1246,
+              "name": "Vitamin B-12, added",
+              "unit": "UG",
+              "nutrient_nbr": "578",
+              "group": "Vitamins",
+              "amount": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1106,
+          "name": "Vitamin A, RAE",
+          "unit": "UG",
+          "nutrient_nbr": "320",
+          "group": "Vitamins",
+          "amount": 165,
+          "nutrients": [
+            {
+              "nutrient_id": 1105,
+              "name": "Retinol",
+              "unit": "UG",
+              "nutrient_nbr": "319",
+              "group": "Vitamins",
+              "amount": 164
+            },
+            {
+              "nutrient_id": 1107,
+              "name": "Carotene, beta",
+              "unit": "UG",
+              "nutrient_nbr": "321",
+              "group": "Vitamins",
+              "amount": 10.0
+            },
+            {
+              "nutrient_id": 1108,
+              "name": "Carotene, alpha",
+              "unit": "UG",
+              "nutrient_nbr": "322",
+              "group": "Vitamins",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1120,
+              "name": "Cryptoxanthin, beta",
+              "unit": "UG",
+              "nutrient_nbr": "334",
+              "group": "Vitamins",
+              "amount": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 2040,
+          "name": "Other carotenoids",
+          "unit": "UG",
+          "nutrient_nbr": "955",
+          "group": "Vitamins",
+          "nutrients": [
+            {
+              "nutrient_id": 1122,
+              "name": "Lycopene",
+              "unit": "UG",
+              "nutrient_nbr": "337",
+              "group": "Vitamins",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1123,
+              "name": "Lutein + zeaxanthin",
+              "unit": "UG",
+              "nutrient_nbr": "338",
+              "group": "Vitamins",
+              "amount": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 2041,
+          "name": "Tocopherols and tocotrienols",
+          "unit": "MG",
+          "nutrient_nbr": "323.99",
+          "group": "Vitamins",
+          "nutrients": [
+            {
+              "nutrient_id": 2055,
+              "name": "Total Tocopherols",
+              "unit": "MG",
+              "nutrient_nbr": "",
+              "group": "Vitamins",
+              "nutrients": [
+                {
+                  "nutrient_id": 1109,
+                  "name": "Vitamin E (alpha-tocopherol)",
+                  "unit": "MG",
+                  "nutrient_nbr": "323",
+                  "group": "Vitamins",
+                  "amount": 0.24,
+                  "nutrients": [
+                    {
+                      "nutrient_id": 1242,
+                      "name": "Vitamin E, added",
+                      "unit": "MG",
+                      "nutrient_nbr": "573",
+                      "group": "Vitamins",
+                      "amount": 0.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1114,
+          "name": "Vitamin D (D2 + D3)",
+          "unit": "UG",
+          "nutrient_nbr": "328",
+          "group": "Vitamins",
+          "amount": 0.5
+        },
+        {
+          "nutrient_id": 1185,
+          "name": "Vitamin K (phylloquinone)",
+          "unit": "UG",
+          "nutrient_nbr": "430",
+          "group": "Vitamins",
+          "amount": 2.3
+        }
+      ]
+    },
+    {
+      "nutrient_id": 2044,
+      "name": "Lipids",
+      "unit": "G",
+      "nutrient_nbr": "950",
+      "group": "Lipids",
+      "nutrients": [
+        {
+          "nutrient_id": 1258,
+          "name": "Fatty acids, total saturated",
+          "unit": "G",
+          "nutrient_nbr": "606",
+          "group": "Lipids",
+          "amount": 17.6,
+          "nutrients": [
+            {
+              "nutrient_id": 1259,
+              "name": "SFA 4:0",
+              "unit": "G",
+              "nutrient_nbr": "607",
+              "group": "Lipids",
+              "amount": 0.999
+            },
+            {
+              "nutrient_id": 1260,
+              "name": "SFA 6:0",
+              "unit": "G",
+              "nutrient_nbr": "608",
+              "group": "Lipids",
+              "amount": 0.64
+            },
+            {
+              "nutrient_id": 1261,
+              "name": "SFA 8:0",
+              "unit": "G",
+              "nutrient_nbr": "609",
+              "group": "Lipids",
+              "amount": 0.427
+            },
+            {
+              "nutrient_id": 1262,
+              "name": "SFA 10:0",
+              "unit": "G",
+              "nutrient_nbr": "610",
+              "group": "Lipids",
+              "amount": 0.918
+            },
+            {
+              "nutrient_id": 1263,
+              "name": "SFA 12:0",
+              "unit": "G",
+              "nutrient_nbr": "611",
+              "group": "Lipids",
+              "amount": 1.21
+            },
+            {
+              "nutrient_id": 1264,
+              "name": "SFA 14:0",
+              "unit": "G",
+              "nutrient_nbr": "612",
+              "group": "Lipids",
+              "amount": 3.04
+            },
+            {
+              "nutrient_id": 1265,
+              "name": "SFA 16:0",
+              "unit": "G",
+              "nutrient_nbr": "613",
+              "group": "Lipids",
+              "amount": 6.85
+            },
+            {
+              "nutrient_id": 1266,
+              "name": "SFA 18:0",
+              "unit": "G",
+              "nutrient_nbr": "614",
+              "group": "Lipids",
+              "amount": 2.92
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1292,
+          "name": "Fatty acids, total monounsaturated",
+          "unit": "G",
+          "nutrient_nbr": "645",
+          "group": "Lipids",
+          "amount": 7.75,
+          "nutrients": [
+            {
+              "nutrient_id": 1275,
+              "name": "MUFA 16:1",
+              "unit": "G",
+              "nutrient_nbr": "626",
+              "group": "Lipids",
+              "amount": 0.889
+            },
+            {
+              "nutrient_id": 1268,
+              "name": "MUFA 18:1",
+              "unit": "G",
+              "nutrient_nbr": "617",
+              "group": "Lipids",
+              "amount": 6.39
+            },
+            {
+              "nutrient_id": 1277,
+              "name": "MUFA 20:1",
+              "unit": "G",
+              "nutrient_nbr": "628",
+              "group": "Lipids",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1279,
+              "name": "MUFA 22:1",
+              "unit": "G",
+              "nutrient_nbr": "630",
+              "group": "Lipids",
+              "amount": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1293,
+          "name": "Fatty acids, total polyunsaturated",
+          "unit": "G",
+          "nutrient_nbr": "646",
+          "group": "Lipids",
+          "amount": 0.657,
+          "nutrients": [
+            {
+              "nutrient_id": 1269,
+              "name": "PUFA 18:2",
+              "unit": "G",
+              "nutrient_nbr": "618",
+              "group": "Lipids",
+              "amount": 0.263
+            },
+            {
+              "nutrient_id": 1270,
+              "name": "PUFA 18:3",
+              "unit": "G",
+              "nutrient_nbr": "619",
+              "group": "Lipids",
+              "amount": 0.394
+            },
+            {
+              "nutrient_id": 1276,
+              "name": "PUFA 18:4",
+              "unit": "G",
+              "nutrient_nbr": "627",
+              "group": "Lipids",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1271,
+              "name": "PUFA 20:4",
+              "unit": "G",
+              "nutrient_nbr": "620",
+              "group": "Lipids",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1278,
+              "name": "PUFA 20:5 n-3 (EPA)",
+              "unit": "G",
+              "nutrient_nbr": "629",
+              "group": "Lipids",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1280,
+              "name": "PUFA 22:5 n-3 (DPA)",
+              "unit": "G",
+              "nutrient_nbr": "631",
+              "group": "Lipids",
+              "amount": 0.0
+            },
+            {
+              "nutrient_id": 1272,
+              "name": "PUFA 22:6 n-3 (DHA)",
+              "unit": "G",
+              "nutrient_nbr": "621",
+              "group": "Lipids",
+              "amount": 0.0
+            }
+          ]
+        },
+        {
+          "nutrient_id": 1253,
+          "name": "Cholesterol",
+          "unit": "MG",
+          "nutrient_nbr": "601",
+          "group": "Lipids",
+          "amount": 114
+        }
+      ]
+    },
+    {
+      "nutrient_id": 1018,
+      "name": "Alcohol, ethyl",
+      "unit": "G",
+      "nutrient_nbr": "221",
+      "group": "Other",
+      "amount": 0.0
+    },
+    {
+      "nutrient_id": 1057,
+      "name": "Caffeine",
+      "unit": "MG",
+      "nutrient_nbr": "262",
+      "group": "Other",
+      "amount": 0.0
+    },
+    {
+      "nutrient_id": 1058,
+      "name": "Theobromine",
+      "unit": "MG",
+      "nutrient_nbr": "263",
+      "group": "Other",
+      "amount": 0.0
+    }
+  ]
+}
