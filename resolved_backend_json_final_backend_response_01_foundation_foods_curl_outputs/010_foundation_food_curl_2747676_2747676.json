@@ -1,0 +1,265 @@
+{
+  "fdcId": 2747676,
+  "description": "Watermelon, seedless, rind only, raw",
+  "proximates": {
+    "nutrient_id": 2045,
+    "name": "Proximates",
+    "unit": "G"
+  },
+  "water": {
+    "nutrient_id": 1051,
+    "name": "Water",
+    "unit": "G",
+    "value": 94.66,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "energy (atwater general factors)": {
+    "nutrient_id": 2047,
+    "name": "Energy (Atwater General Factors)",
+    "unit": "KCAL",
+    "value": 23.8993,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "nitrogen": {
+    "nutrient_id": 1002,
+    "name": "Nitrogen",
+    "unit": "G",
+    "value": 0.085,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "protein": {
+    "nutrient_id": 1003,
+    "name": "Protein",
+    "unit": "G",
+    "value": 0.53125,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "total lipid (fat)": {
+    "nutrient_id": 1004,
+    "name": "Total lipid (fat)",
+    "unit": "G",
+    "value": 0.9657,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "ash": {
+    "nutrient_id": 1007,
+    "name": "Ash",
+    "unit": "G",
+    "value": 0.5723,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "carbohydrates": {
+    "nutrient_id": 2039,
+    "name": "Carbohydrates",
+    "unit": "G",
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "carbohydrate, by difference": {
+    "nutrient_id": 1005,
+    "name": "Carbohydrate, by difference",
+    "unit": "G",
+    "value": 3.27075,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "fiber, total dietary": {
+    "nutrient_id": 1079,
+    "name": "Fiber, total dietary",
+    "unit": "G",
+    "value": 1.535,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "sugars, total": {
+    "nutrient_id": 1063,
+    "name": "Sugars, Total",
+    "unit": "G",
+    "value": 2.218,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "total sugars": {
+    "nutrient_id": 2000,
+    "name": "Total Sugars",
+    "unit": "G",
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "sucrose": {
+    "nutrient_id": 1010,
+    "name": "Sucrose",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2000,
+    "parent_nutrient_name": "Total Sugars"
+  },
+  "glucose": {
+    "nutrient_id": 1011,
+    "name": "Glucose",
+    "unit": "G",
+    "value": 0.7556,
+    "parent_nutrient_id": 2000,
+    "parent_nutrient_name": "Total Sugars"
+  },
+  "fructose": {
+    "nutrient_id": 1012,
+    "name": "Fructose",
+    "unit": "G",
+    "value": 1.463,
+    "parent_nutrient_id": 2000,
+    "parent_nutrient_name": "Total Sugars"
+  },
+  "lactose": {
+    "nutrient_id": 1013,
+    "name": "Lactose",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2000,
+    "parent_nutrient_name": "Total Sugars"
+  },
+  "maltose": {
+    "nutrient_id": 1014,
+    "name": "Maltose",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2000,
+    "parent_nutrient_name": "Total Sugars"
+  },
+  "minerals": {
+    "nutrient_id": 2043,
+    "name": "Minerals",
+    "unit": "G"
+  },
+  "calcium, ca": {
+    "nutrient_id": 1087,
+    "name": "Calcium, Ca",
+    "unit": "MG",
+    "value": 16.93,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "iron, fe": {
+    "nutrient_id": 1089,
+    "name": "Iron, Fe",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "magnesium, mg": {
+    "nutrient_id": 1090,
+    "name": "Magnesium, Mg",
+    "unit": "MG",
+    "value": 9.673,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "phosphorus, p": {
+    "nutrient_id": 1091,
+    "name": "Phosphorus, P",
+    "unit": "MG",
+    "value": 20.73,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "potassium, k": {
+    "nutrient_id": 1092,
+    "name": "Potassium, K",
+    "unit": "MG",
+    "value": 272.5,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "sodium, na": {
+    "nutrient_id": 1093,
+    "name": "Sodium, Na",
+    "unit": "MG",
+    "value": 3.763,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "zinc, zn": {
+    "nutrient_id": 1095,
+    "name": "Zinc, Zn",
+    "unit": "MG",
+    "value": 0.121,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "copper, cu": {
+    "nutrient_id": 1098,
+    "name": "Copper, Cu",
+    "unit": "MG",
+    "value": 0.00735,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "manganese, mn": {
+    "nutrient_id": 1101,
+    "name": "Manganese, Mn",
+    "unit": "MG",
+    "value": 0.07054,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "vitamins and other components": {
+    "nutrient_id": 2046,
+    "name": "Vitamins and Other Components",
+    "unit": "G"
+  },
+  "vitamin c, total ascorbic acid": {
+    "nutrient_id": 1162,
+    "name": "Vitamin C, total ascorbic acid",
+    "unit": "MG",
+    "value": 7.094,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "thiamin": {
+    "nutrient_id": 1165,
+    "name": "Thiamin",
+    "unit": "MG",
+    "value": 0.0325,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "riboflavin": {
+    "nutrient_id": 1166,
+    "name": "Riboflavin",
+    "unit": "MG",
+    "value": 0.07188,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "niacin": {
+    "nutrient_id": 1167,
+    "name": "Niacin",
+    "unit": "MG",
+    "value": 0.1688,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "vitamin b-6": {
+    "nutrient_id": 1175,
+    "name": "Vitamin B-6",
+    "unit": "MG",
+    "value": 0.02888,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "folate, total": {
+    "nutrient_id": 1177,
+    "name": "Folate, total",
+    "unit": "UG",
+    "value": 29.68,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  }
+}

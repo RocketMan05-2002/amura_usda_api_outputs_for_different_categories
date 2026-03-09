@@ -1,0 +1,143 @@
+{
+  "fdcId": 1106084,
+  "description": "LEMON FLAVORED SALTED PLUM, LEMON, LEMON",
+  "proximates": {
+    "nutrient_id": 2045,
+    "name": "Proximates",
+    "unit": "G"
+  },
+  "energy": {
+    "nutrient_id": 1008,
+    "name": "Energy",
+    "unit": "KCAL",
+    "value": 166.0,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "protein": {
+    "nutrient_id": 1003,
+    "name": "Protein",
+    "unit": "G",
+    "value": 2.17,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "total lipid (fat)": {
+    "nutrient_id": 1004,
+    "name": "Total lipid (fat)",
+    "unit": "G",
+    "value": 0.4,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "carbohydrates": {
+    "nutrient_id": 2039,
+    "name": "Carbohydrates",
+    "unit": "G",
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "carbohydrate, by difference": {
+    "nutrient_id": 1005,
+    "name": "Carbohydrate, by difference",
+    "unit": "G",
+    "value": 33.14,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "fiber, total dietary": {
+    "nutrient_id": 1079,
+    "name": "Fiber, total dietary",
+    "unit": "G",
+    "value": 8.3,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "total sugars": {
+    "nutrient_id": 2000,
+    "name": "Total Sugars",
+    "unit": "G",
+    "value": 16.57,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "minerals": {
+    "nutrient_id": 2043,
+    "name": "Minerals",
+    "unit": "G"
+  },
+  "calcium, ca": {
+    "nutrient_id": 1087,
+    "name": "Calcium, Ca",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "iron, fe": {
+    "nutrient_id": 1089,
+    "name": "Iron, Fe",
+    "unit": "MG",
+    "value": 4.11,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "sodium, na": {
+    "nutrient_id": 1093,
+    "name": "Sodium, Na",
+    "unit": "MG",
+    "value": 5166.0,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "vitamins and other components": {
+    "nutrient_id": 2046,
+    "name": "Vitamins and Other Components",
+    "unit": "G"
+  },
+  "vitamin c, total ascorbic acid": {
+    "nutrient_id": 1162,
+    "name": "Vitamin C, total ascorbic acid",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "vitamin a, iu": {
+    "nutrient_id": 1104,
+    "name": "Vitamin A, IU",
+    "unit": "IU",
+    "value": 0.0,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "lipids": {
+    "nutrient_id": 2044,
+    "name": "Lipids",
+    "unit": "G"
+  },
+  "fatty acids, total saturated": {
+    "nutrient_id": 1258,
+    "name": "Fatty acids, total saturated",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2044,
+    "parent_nutrient_name": "Lipids"
+  },
+  "fatty acids, total trans": {
+    "nutrient_id": 1257,
+    "name": "Fatty acids, total trans",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2044,
+    "parent_nutrient_name": "Lipids"
+  },
+  "cholesterol": {
+    "nutrient_id": 1253,
+    "name": "Cholesterol",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2044,
+    "parent_nutrient_name": "Lipids"
+  }
+}

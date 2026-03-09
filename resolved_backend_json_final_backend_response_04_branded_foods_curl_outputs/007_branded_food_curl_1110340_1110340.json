@@ -1,0 +1,151 @@
+{
+  "fdcId": 1110340,
+  "description": "SWEET & SOUR DRESSING, SWEET & SOUR",
+  "proximates": {
+    "nutrient_id": 2045,
+    "name": "Proximates",
+    "unit": "G"
+  },
+  "energy": {
+    "nutrient_id": 1008,
+    "name": "Energy",
+    "unit": "KCAL",
+    "value": 455.0,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "protein": {
+    "nutrient_id": 1003,
+    "name": "Protein",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "total lipid (fat)": {
+    "nutrient_id": 1004,
+    "name": "Total lipid (fat)",
+    "unit": "G",
+    "value": 36.36,
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "carbohydrates": {
+    "nutrient_id": 2039,
+    "name": "Carbohydrates",
+    "unit": "G",
+    "parent_nutrient_id": 2045,
+    "parent_nutrient_name": "Proximates"
+  },
+  "carbohydrate, by difference": {
+    "nutrient_id": 1005,
+    "name": "Carbohydrate, by difference",
+    "unit": "G",
+    "value": 33.33,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "fiber, total dietary": {
+    "nutrient_id": 1079,
+    "name": "Fiber, total dietary",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "total sugars": {
+    "nutrient_id": 2000,
+    "name": "Total Sugars",
+    "unit": "G",
+    "value": 33.33,
+    "parent_nutrient_id": 2039,
+    "parent_nutrient_name": "Carbohydrates"
+  },
+  "sugars, added": {
+    "nutrient_id": 1235,
+    "name": "Sugars, added",
+    "unit": "G",
+    "value": 33.3,
+    "parent_nutrient_id": 2000,
+    "parent_nutrient_name": "Total Sugars"
+  },
+  "minerals": {
+    "nutrient_id": 2043,
+    "name": "Minerals",
+    "unit": "G"
+  },
+  "calcium, ca": {
+    "nutrient_id": 1087,
+    "name": "Calcium, Ca",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "iron, fe": {
+    "nutrient_id": 1089,
+    "name": "Iron, Fe",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "potassium, k": {
+    "nutrient_id": 1092,
+    "name": "Potassium, K",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "sodium, na": {
+    "nutrient_id": 1093,
+    "name": "Sodium, Na",
+    "unit": "MG",
+    "value": 697.0,
+    "parent_nutrient_id": 2043,
+    "parent_nutrient_name": "Minerals"
+  },
+  "vitamins and other components": {
+    "nutrient_id": 2046,
+    "name": "Vitamins and Other Components",
+    "unit": "G"
+  },
+  "vitamin d (d2 + d3), international units": {
+    "nutrient_id": 1110,
+    "name": "Vitamin D (D2 + D3), International Units",
+    "unit": "IU",
+    "value": 0.0,
+    "parent_nutrient_id": 2046,
+    "parent_nutrient_name": "Vitamins and Other Components"
+  },
+  "lipids": {
+    "nutrient_id": 2044,
+    "name": "Lipids",
+    "unit": "G"
+  },
+  "fatty acids, total saturated": {
+    "nutrient_id": 1258,
+    "name": "Fatty acids, total saturated",
+    "unit": "G",
+    "value": 6.06,
+    "parent_nutrient_id": 2044,
+    "parent_nutrient_name": "Lipids"
+  },
+  "fatty acids, total trans": {
+    "nutrient_id": 1257,
+    "name": "Fatty acids, total trans",
+    "unit": "G",
+    "value": 0.0,
+    "parent_nutrient_id": 2044,
+    "parent_nutrient_name": "Lipids"
+  },
+  "cholesterol": {
+    "nutrient_id": 1253,
+    "name": "Cholesterol",
+    "unit": "MG",
+    "value": 0.0,
+    "parent_nutrient_id": 2044,
+    "parent_nutrient_name": "Lipids"
+  }
+}
