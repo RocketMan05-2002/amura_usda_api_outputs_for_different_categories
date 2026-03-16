@@ -1,0 +1,5265 @@
+{
+  "2045": {
+    "nid": 2045,
+    "name": "Proximates",
+    "unit": "G",
+    "key": "proximates",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1051",
+      "1001",
+      "1049",
+      "1064",
+      "2047",
+      "2048",
+      "1008",
+      "1062",
+      "1002",
+      "1052",
+      "1003",
+      "1053",
+      "1004",
+      "1085",
+      "1007",
+      "2027",
+      "1023",
+      "1024",
+      "2039",
+      "1005",
+      "1050",
+      "1072",
+      "1079",
+      "1082",
+      "1084",
+      "2033",
+      "2038",
+      "2065",
+      "2034",
+      "2035",
+      "2036",
+      "2037",
+      "2058",
+      "1006",
+      "1066",
+      "1009",
+      "1071",
+      "1065",
+      "1015",
+      "1016",
+      "1403",
+      "1017",
+      "1070",
+      "1080",
+      "1063",
+      "2000",
+      "1236",
+      "1235",
+      "1067",
+      "1010",
+      "1011",
+      "1012",
+      "1013",
+      "1014",
+      "1075",
+      "1399",
+      "1400",
+      "1401",
+      "1402",
+      "2064",
+      "1076",
+      "1077",
+      "2063",
+      "1069",
+      "1086",
+      "1055",
+      "1056",
+      "1078",
+      "1181",
+      "1019",
+      "1020",
+      "1073",
+      "1074",
+      "1081",
+      "1021",
+      "1022",
+      "1068",
+      "1025",
+      "1026",
+      "1027",
+      "1028",
+      "1029",
+      "1030",
+      "1031",
+      "1032",
+      "1033",
+      "1034",
+      "1035",
+      "1036",
+      "1037",
+      "1038",
+      "1039",
+      "1040",
+      "1041",
+      "1042",
+      "1043",
+      "1044",
+      "1045",
+      "1046",
+      "1047",
+      "1048"
+    ]
+  },
+  "1051": {
+    "nid": 1051,
+    "name": "Water",
+    "unit": "G",
+    "key": "water",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1001": {
+    "nid": 1001,
+    "name": "Solids",
+    "unit": "G",
+    "key": "solids",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": [
+      "1049",
+      "1064"
+    ]
+  },
+  "1049": {
+    "nid": 1049,
+    "name": "Solids, non-fat",
+    "unit": "G",
+    "key": "solids, non-fat",
+    "parent_id": 1001,
+    "parent_name": "Solids",
+    "descendants": []
+  },
+  "1064": {
+    "nid": 1064,
+    "name": "Solids, soluble",
+    "unit": "G",
+    "key": "solids, soluble",
+    "parent_id": 1001,
+    "parent_name": "Solids",
+    "descendants": []
+  },
+  "2047": {
+    "nid": 2047,
+    "name": "Energy (Atwater General Factors)",
+    "unit": "KCAL",
+    "key": "energy (atwater general factors)",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "2048": {
+    "nid": 2048,
+    "name": "Energy (Atwater Specific Factors)",
+    "unit": "KCAL",
+    "key": "energy (atwater specific factors)",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1008": {
+    "nid": 1008,
+    "name": "Energy",
+    "unit": "KCAL",
+    "key": "energy",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1062": {
+    "nid": 1062,
+    "name": "Energy",
+    "unit": "kJ",
+    "key": "energy",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1002": {
+    "nid": 1002,
+    "name": "Nitrogen",
+    "unit": "G",
+    "key": "nitrogen",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": [
+      "1052"
+    ]
+  },
+  "1052": {
+    "nid": 1052,
+    "name": "Adjusted Nitrogen",
+    "unit": "G",
+    "key": "adjusted nitrogen",
+    "parent_id": 1002,
+    "parent_name": "Nitrogen",
+    "descendants": []
+  },
+  "1003": {
+    "nid": 1003,
+    "name": "Protein",
+    "unit": "G",
+    "key": "protein",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1053": {
+    "nid": 1053,
+    "name": "Adjusted Protein",
+    "unit": "G",
+    "key": "adjusted protein",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1004": {
+    "nid": 1004,
+    "name": "Total lipid (fat)",
+    "unit": "G",
+    "key": "total lipid (fat)",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1085": {
+    "nid": 1085,
+    "name": "Total fat (NLEA)",
+    "unit": "G",
+    "key": "total fat (nlea)",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1007": {
+    "nid": 1007,
+    "name": "Ash",
+    "unit": "G",
+    "key": "ash",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "2027": {
+    "nid": 2027,
+    "name": "Proximate",
+    "unit": "G",
+    "key": "proximate",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1023": {
+    "nid": 1023,
+    "name": "pH",
+    "unit": "PH",
+    "key": "ph",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "1024": {
+    "nid": 1024,
+    "name": "Specific Gravity",
+    "unit": "SP_GR",
+    "key": "specific gravity",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": []
+  },
+  "2039": {
+    "nid": 2039,
+    "name": "Carbohydrates",
+    "unit": "G",
+    "key": "carbohydrates",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": [
+      "1005",
+      "1050",
+      "1072",
+      "1079",
+      "1082",
+      "1084",
+      "2033",
+      "2038",
+      "2065",
+      "2034",
+      "2035",
+      "2036",
+      "2037",
+      "2058",
+      "1006",
+      "1066",
+      "1009",
+      "1071",
+      "1065",
+      "1015",
+      "1016",
+      "1403",
+      "1017",
+      "1070",
+      "1080",
+      "1063",
+      "2000",
+      "1236",
+      "1235",
+      "1067",
+      "1010",
+      "1011",
+      "1012",
+      "1013",
+      "1014",
+      "1075",
+      "1399",
+      "1400",
+      "1401",
+      "1402",
+      "2064",
+      "1076",
+      "1077",
+      "2063",
+      "1069",
+      "1086",
+      "1055",
+      "1056",
+      "1078",
+      "1181",
+      "1019",
+      "1020",
+      "1073",
+      "1074",
+      "1081",
+      "1021",
+      "1022",
+      "1068"
+    ]
+  },
+  "1005": {
+    "nid": 1005,
+    "name": "Carbohydrate, by difference",
+    "unit": "G",
+    "key": "carbohydrate, by difference",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1050": {
+    "nid": 1050,
+    "name": "Carbohydrate, by summation",
+    "unit": "G",
+    "key": "carbohydrate, by summation",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1072": {
+    "nid": 1072,
+    "name": "Carbohydrate, other",
+    "unit": "G",
+    "key": "carbohydrate, other",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1079": {
+    "nid": 1079,
+    "name": "Fiber, total dietary",
+    "unit": "G",
+    "key": "fiber, total dietary",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": [
+      "1082",
+      "1084",
+      "2033",
+      "2038",
+      "2065",
+      "2034",
+      "2035",
+      "2036",
+      "2037",
+      "2058",
+      "1006",
+      "1066"
+    ]
+  },
+  "1082": {
+    "nid": 1082,
+    "name": "Fiber, soluble",
+    "unit": "G",
+    "key": "fiber, soluble",
+    "parent_id": 1079,
+    "parent_name": "Fiber, total dietary",
+    "descendants": []
+  },
+  "1084": {
+    "nid": 1084,
+    "name": "Fiber, insoluble",
+    "unit": "G",
+    "key": "fiber, insoluble",
+    "parent_id": 1079,
+    "parent_name": "Fiber, total dietary",
+    "descendants": []
+  },
+  "2033": {
+    "nid": 2033,
+    "name": "Total dietary fiber (AOAC 2011.25)",
+    "unit": "G",
+    "key": "total dietary fiber (aoac 2011.25)",
+    "parent_id": 1079,
+    "parent_name": "Fiber, total dietary",
+    "descendants": [
+      "2038",
+      "2065",
+      "2034",
+      "2035",
+      "2036",
+      "2037"
+    ]
+  },
+  "2038": {
+    "nid": 2038,
+    "name": "High Molecular Weight Dietary Fiber (HMWDF)",
+    "unit": "G",
+    "key": "high molecular weight dietary fiber (hmwdf)",
+    "parent_id": 2033,
+    "parent_name": "Total dietary fiber (AOAC 2011.25)",
+    "descendants": []
+  },
+  "2065": {
+    "nid": 2065,
+    "name": "Low Molecular Weight Dietary Fiber (LMWDF)",
+    "unit": "G",
+    "key": "low molecular weight dietary fiber (lmwdf)",
+    "parent_id": 2033,
+    "parent_name": "Total dietary fiber (AOAC 2011.25)",
+    "descendants": []
+  },
+  "2034": {
+    "nid": 2034,
+    "name": "Insoluble dietary fiber (IDF)",
+    "unit": "G",
+    "key": "insoluble dietary fiber (idf)",
+    "parent_id": 2033,
+    "parent_name": "Total dietary fiber (AOAC 2011.25)",
+    "descendants": []
+  },
+  "2035": {
+    "nid": 2035,
+    "name": "Soluble dietary fiber (SDFP+SDFS)",
+    "unit": "G",
+    "key": "soluble dietary fiber (sdfp+sdfs)",
+    "parent_id": 2033,
+    "parent_name": "Total dietary fiber (AOAC 2011.25)",
+    "descendants": [
+      "2036",
+      "2037"
+    ]
+  },
+  "2036": {
+    "nid": 2036,
+    "name": "Soluble dietary fiber (SDFP)",
+    "unit": "G",
+    "key": "soluble dietary fiber (sdfp)",
+    "parent_id": 2035,
+    "parent_name": "Soluble dietary fiber (SDFP+SDFS)",
+    "descendants": []
+  },
+  "2037": {
+    "nid": 2037,
+    "name": "Soluble dietary fiber (SDFS)",
+    "unit": "G",
+    "key": "soluble dietary fiber (sdfs)",
+    "parent_id": 2035,
+    "parent_name": "Soluble dietary fiber (SDFP+SDFS)",
+    "descendants": []
+  },
+  "2058": {
+    "nid": 2058,
+    "name": "Beta-glucan",
+    "unit": "G",
+    "key": "beta-glucan",
+    "parent_id": 1079,
+    "parent_name": "Fiber, total dietary",
+    "descendants": []
+  },
+  "1006": {
+    "nid": 1006,
+    "name": "Fiber, crude (DO NOT USE - Archived)",
+    "unit": "G",
+    "key": "fiber, crude (do not use - archived)",
+    "parent_id": 1079,
+    "parent_name": "Fiber, total dietary",
+    "descendants": []
+  },
+  "1066": {
+    "nid": 1066,
+    "name": "Fiber, neutral detergent (DO NOT USE - Archived)",
+    "unit": "G",
+    "key": "fiber, neutral detergent (do not use - archived)",
+    "parent_id": 1079,
+    "parent_name": "Fiber, total dietary",
+    "descendants": []
+  },
+  "1009": {
+    "nid": 1009,
+    "name": "Starch",
+    "unit": "G",
+    "key": "starch",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": [
+      "1071",
+      "1065",
+      "1015",
+      "1016"
+    ]
+  },
+  "1071": {
+    "nid": 1071,
+    "name": "Resistant starch",
+    "unit": "G",
+    "key": "resistant starch",
+    "parent_id": 1009,
+    "parent_name": "Starch",
+    "descendants": []
+  },
+  "1065": {
+    "nid": 1065,
+    "name": "Glycogen",
+    "unit": "G",
+    "key": "glycogen",
+    "parent_id": 1009,
+    "parent_name": "Starch",
+    "descendants": []
+  },
+  "1015": {
+    "nid": 1015,
+    "name": "Amylose",
+    "unit": "G",
+    "key": "amylose",
+    "parent_id": 1009,
+    "parent_name": "Starch",
+    "descendants": []
+  },
+  "1016": {
+    "nid": 1016,
+    "name": "Amylopectin",
+    "unit": "G",
+    "key": "amylopectin",
+    "parent_id": 1009,
+    "parent_name": "Starch",
+    "descendants": []
+  },
+  "1403": {
+    "nid": 1403,
+    "name": "Inulin",
+    "unit": "G",
+    "key": "inulin",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1017": {
+    "nid": 1017,
+    "name": "Pectin",
+    "unit": "G",
+    "key": "pectin",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1070": {
+    "nid": 1070,
+    "name": "Nonstarch polysaccharides",
+    "unit": "G",
+    "key": "nonstarch polysaccharides",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1080": {
+    "nid": 1080,
+    "name": "Lignin",
+    "unit": "G",
+    "key": "lignin",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1063": {
+    "nid": 1063,
+    "name": "Sugars, Total",
+    "unit": "G",
+    "key": "sugars, total",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "2000": {
+    "nid": 2000,
+    "name": "Total Sugars",
+    "unit": "G",
+    "key": "total sugars",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": [
+      "1236",
+      "1235",
+      "1067",
+      "1010",
+      "1011",
+      "1012",
+      "1013",
+      "1014",
+      "1075",
+      "1399",
+      "1400",
+      "1401",
+      "1402"
+    ]
+  },
+  "1236": {
+    "nid": 1236,
+    "name": "Sugars, intrinsic",
+    "unit": "G",
+    "key": "sugars, intrinsic",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1235": {
+    "nid": 1235,
+    "name": "Sugars, added",
+    "unit": "G",
+    "key": "sugars, added",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1067": {
+    "nid": 1067,
+    "name": "Reducing sugars",
+    "unit": "G",
+    "key": "reducing sugars",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1010": {
+    "nid": 1010,
+    "name": "Sucrose",
+    "unit": "G",
+    "key": "sucrose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1011": {
+    "nid": 1011,
+    "name": "Glucose",
+    "unit": "G",
+    "key": "glucose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1012": {
+    "nid": 1012,
+    "name": "Fructose",
+    "unit": "G",
+    "key": "fructose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1013": {
+    "nid": 1013,
+    "name": "Lactose",
+    "unit": "G",
+    "key": "lactose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1014": {
+    "nid": 1014,
+    "name": "Maltose",
+    "unit": "G",
+    "key": "maltose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1075": {
+    "nid": 1075,
+    "name": "Galactose",
+    "unit": "G",
+    "key": "galactose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1399": {
+    "nid": 1399,
+    "name": "Mannose",
+    "unit": "G",
+    "key": "mannose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1400": {
+    "nid": 1400,
+    "name": "Triose",
+    "unit": "G",
+    "key": "triose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1401": {
+    "nid": 1401,
+    "name": "Tetrose",
+    "unit": "G",
+    "key": "tetrose",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "1402": {
+    "nid": 1402,
+    "name": "Other Saccharides",
+    "unit": "G",
+    "key": "other saccharides",
+    "parent_id": 2000,
+    "parent_name": "Total Sugars",
+    "descendants": []
+  },
+  "2064": {
+    "nid": 2064,
+    "name": "Oligosaccharides",
+    "unit": "MG",
+    "key": "oligosaccharides",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": [
+      "1076",
+      "1077",
+      "2063",
+      "1069"
+    ]
+  },
+  "1076": {
+    "nid": 1076,
+    "name": "Raffinose",
+    "unit": "G",
+    "key": "raffinose",
+    "parent_id": 2064,
+    "parent_name": "Oligosaccharides",
+    "descendants": []
+  },
+  "1077": {
+    "nid": 1077,
+    "name": "Stachyose",
+    "unit": "G",
+    "key": "stachyose",
+    "parent_id": 2064,
+    "parent_name": "Oligosaccharides",
+    "descendants": []
+  },
+  "2063": {
+    "nid": 2063,
+    "name": "Verbascose",
+    "unit": "G",
+    "key": "verbascose",
+    "parent_id": 2064,
+    "parent_name": "Oligosaccharides",
+    "descendants": []
+  },
+  "1069": {
+    "nid": 1069,
+    "name": "Oligosaccharides",
+    "unit": "G",
+    "key": "oligosaccharides",
+    "parent_id": 2064,
+    "parent_name": "Oligosaccharides",
+    "descendants": []
+  },
+  "1086": {
+    "nid": 1086,
+    "name": "Total sugar alcohols",
+    "unit": "G",
+    "key": "total sugar alcohols",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": [
+      "1055",
+      "1056",
+      "1078",
+      "1181"
+    ]
+  },
+  "1055": {
+    "nid": 1055,
+    "name": "Mannitol",
+    "unit": "G",
+    "key": "mannitol",
+    "parent_id": 1086,
+    "parent_name": "Total sugar alcohols",
+    "descendants": []
+  },
+  "1056": {
+    "nid": 1056,
+    "name": "Sorbitol",
+    "unit": "G",
+    "key": "sorbitol",
+    "parent_id": 1086,
+    "parent_name": "Total sugar alcohols",
+    "descendants": []
+  },
+  "1078": {
+    "nid": 1078,
+    "name": "Xylitol",
+    "unit": "G",
+    "key": "xylitol",
+    "parent_id": 1086,
+    "parent_name": "Total sugar alcohols",
+    "descendants": []
+  },
+  "1181": {
+    "nid": 1181,
+    "name": "Inositol",
+    "unit": "MG",
+    "key": "inositol",
+    "parent_id": 1086,
+    "parent_name": "Total sugar alcohols",
+    "descendants": []
+  },
+  "1019": {
+    "nid": 1019,
+    "name": "Pentosan",
+    "unit": "G",
+    "key": "pentosan",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1020": {
+    "nid": 1020,
+    "name": "Pentoses",
+    "unit": "G",
+    "key": "pentoses",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": [
+      "1073",
+      "1074",
+      "1081"
+    ]
+  },
+  "1073": {
+    "nid": 1073,
+    "name": "Arabinose",
+    "unit": "G",
+    "key": "arabinose",
+    "parent_id": 1020,
+    "parent_name": "Pentoses",
+    "descendants": []
+  },
+  "1074": {
+    "nid": 1074,
+    "name": "Xylose",
+    "unit": "G",
+    "key": "xylose",
+    "parent_id": 1020,
+    "parent_name": "Pentoses",
+    "descendants": []
+  },
+  "1081": {
+    "nid": 1081,
+    "name": "Ribose",
+    "unit": "G",
+    "key": "ribose",
+    "parent_id": 1020,
+    "parent_name": "Pentoses",
+    "descendants": []
+  },
+  "1021": {
+    "nid": 1021,
+    "name": "Hemicellulose",
+    "unit": "G",
+    "key": "hemicellulose",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1022": {
+    "nid": 1022,
+    "name": "Cellulose",
+    "unit": "G",
+    "key": "cellulose",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1068": {
+    "nid": 1068,
+    "name": "Beta-glucans",
+    "unit": "G",
+    "key": "beta-glucans",
+    "parent_id": 2039,
+    "parent_name": "Carbohydrates",
+    "descendants": []
+  },
+  "1025": {
+    "nid": 1025,
+    "name": "Organic acids",
+    "unit": "G",
+    "key": "organic acids",
+    "parent_id": 2045,
+    "parent_name": "Proximates",
+    "descendants": [
+      "1026",
+      "1027",
+      "1028",
+      "1029",
+      "1030",
+      "1031",
+      "1032",
+      "1033",
+      "1034",
+      "1035",
+      "1036",
+      "1037",
+      "1038",
+      "1039",
+      "1040",
+      "1041",
+      "1042",
+      "1043",
+      "1044",
+      "1045",
+      "1046",
+      "1047",
+      "1048"
+    ]
+  },
+  "1026": {
+    "nid": 1026,
+    "name": "Acetic acid",
+    "unit": "MG",
+    "key": "acetic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1027": {
+    "nid": 1027,
+    "name": "Aconitic acid",
+    "unit": "MG",
+    "key": "aconitic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1028": {
+    "nid": 1028,
+    "name": "Benzoic acid",
+    "unit": "MG",
+    "key": "benzoic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1029": {
+    "nid": 1029,
+    "name": "Chelidonic acid",
+    "unit": "MG",
+    "key": "chelidonic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1030": {
+    "nid": 1030,
+    "name": "Chlorogenic acid",
+    "unit": "MG",
+    "key": "chlorogenic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1031": {
+    "nid": 1031,
+    "name": "Cinnamic acid",
+    "unit": "MG",
+    "key": "cinnamic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1032": {
+    "nid": 1032,
+    "name": "Citric acid",
+    "unit": "MG",
+    "key": "citric acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1033": {
+    "nid": 1033,
+    "name": "Fumaric acid",
+    "unit": "MG",
+    "key": "fumaric acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1034": {
+    "nid": 1034,
+    "name": "Galacturonic acid",
+    "unit": "MG",
+    "key": "galacturonic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1035": {
+    "nid": 1035,
+    "name": "Gallic acid",
+    "unit": "MG",
+    "key": "gallic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1036": {
+    "nid": 1036,
+    "name": "Glycolic acid",
+    "unit": "MG",
+    "key": "glycolic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1037": {
+    "nid": 1037,
+    "name": "Isocitric acid",
+    "unit": "MG",
+    "key": "isocitric acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1038": {
+    "nid": 1038,
+    "name": "Lactic acid",
+    "unit": "MG",
+    "key": "lactic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1039": {
+    "nid": 1039,
+    "name": "Malic acid",
+    "unit": "MG",
+    "key": "malic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1040": {
+    "nid": 1040,
+    "name": "Oxaloacetic acid",
+    "unit": "MG",
+    "key": "oxaloacetic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1041": {
+    "nid": 1041,
+    "name": "Oxalic acid",
+    "unit": "MG",
+    "key": "oxalic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1042": {
+    "nid": 1042,
+    "name": "Phytic acid",
+    "unit": "MG",
+    "key": "phytic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1043": {
+    "nid": 1043,
+    "name": "Pyruvic acid",
+    "unit": "MG",
+    "key": "pyruvic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1044": {
+    "nid": 1044,
+    "name": "Quinic acid",
+    "unit": "MG",
+    "key": "quinic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1045": {
+    "nid": 1045,
+    "name": "Salicylic acid",
+    "unit": "MG",
+    "key": "salicylic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1046": {
+    "nid": 1046,
+    "name": "Succinic acid",
+    "unit": "MG",
+    "key": "succinic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1047": {
+    "nid": 1047,
+    "name": "Tartaric acid",
+    "unit": "MG",
+    "key": "tartaric acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "1048": {
+    "nid": 1048,
+    "name": "Ursolic acid",
+    "unit": "MG",
+    "key": "ursolic acid",
+    "parent_id": 1025,
+    "parent_name": "Organic acids",
+    "descendants": []
+  },
+  "2043": {
+    "nid": 2043,
+    "name": "Minerals",
+    "unit": "G",
+    "key": "minerals",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1087",
+      "1239",
+      "1237",
+      "1089",
+      "1141",
+      "1142",
+      "1240",
+      "1238",
+      "1090",
+      "1091",
+      "1092",
+      "1093",
+      "1149",
+      "1095",
+      "1098",
+      "1101",
+      "1100",
+      "1103",
+      "1099",
+      "1148",
+      "1094",
+      "1146",
+      "1102",
+      "1097",
+      "1137",
+      "1088",
+      "1096",
+      "1132",
+      "1133",
+      "1134",
+      "1135",
+      "1136",
+      "1138",
+      "1139",
+      "1140",
+      "1143",
+      "1144",
+      "1145",
+      "1147",
+      "1150",
+      "1151",
+      "1152",
+      "1153",
+      "1154",
+      "1155",
+      "1059",
+      "1060",
+      "1061"
+    ]
+  },
+  "1087": {
+    "nid": 1087,
+    "name": "Calcium, Ca",
+    "unit": "MG",
+    "key": "calcium, ca",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": [
+      "1239",
+      "1237"
+    ]
+  },
+  "1239": {
+    "nid": 1239,
+    "name": "Calcium, intrinsic",
+    "unit": "MG",
+    "key": "calcium, intrinsic",
+    "parent_id": 1087,
+    "parent_name": "Calcium, Ca",
+    "descendants": []
+  },
+  "1237": {
+    "nid": 1237,
+    "name": "Calcium, added",
+    "unit": "MG",
+    "key": "calcium, added",
+    "parent_id": 1087,
+    "parent_name": "Calcium, Ca",
+    "descendants": []
+  },
+  "1089": {
+    "nid": 1089,
+    "name": "Iron, Fe",
+    "unit": "MG",
+    "key": "iron, fe",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": [
+      "1141",
+      "1142",
+      "1240",
+      "1238"
+    ]
+  },
+  "1141": {
+    "nid": 1141,
+    "name": "Iron, heme",
+    "unit": "MG",
+    "key": "iron, heme",
+    "parent_id": 1089,
+    "parent_name": "Iron, Fe",
+    "descendants": []
+  },
+  "1142": {
+    "nid": 1142,
+    "name": "Iron, non-heme",
+    "unit": "MG",
+    "key": "iron, non-heme",
+    "parent_id": 1089,
+    "parent_name": "Iron, Fe",
+    "descendants": []
+  },
+  "1240": {
+    "nid": 1240,
+    "name": "Iron, intrinsic",
+    "unit": "MG",
+    "key": "iron, intrinsic",
+    "parent_id": 1089,
+    "parent_name": "Iron, Fe",
+    "descendants": []
+  },
+  "1238": {
+    "nid": 1238,
+    "name": "Iron, added",
+    "unit": "MG",
+    "key": "iron, added",
+    "parent_id": 1089,
+    "parent_name": "Iron, Fe",
+    "descendants": []
+  },
+  "1090": {
+    "nid": 1090,
+    "name": "Magnesium, Mg",
+    "unit": "MG",
+    "key": "magnesium, mg",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1091": {
+    "nid": 1091,
+    "name": "Phosphorus, P",
+    "unit": "MG",
+    "key": "phosphorus, p",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1092": {
+    "nid": 1092,
+    "name": "Potassium, K",
+    "unit": "MG",
+    "key": "potassium, k",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1093": {
+    "nid": 1093,
+    "name": "Sodium, Na",
+    "unit": "MG",
+    "key": "sodium, na",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": [
+      "1149"
+    ]
+  },
+  "1149": {
+    "nid": 1149,
+    "name": "Salt, NaCl",
+    "unit": "MG",
+    "key": "salt, nacl",
+    "parent_id": 1093,
+    "parent_name": "Sodium, Na",
+    "descendants": []
+  },
+  "1095": {
+    "nid": 1095,
+    "name": "Zinc, Zn",
+    "unit": "MG",
+    "key": "zinc, zn",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1098": {
+    "nid": 1098,
+    "name": "Copper, Cu",
+    "unit": "MG",
+    "key": "copper, cu",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1101": {
+    "nid": 1101,
+    "name": "Manganese, Mn",
+    "unit": "MG",
+    "key": "manganese, mn",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1100": {
+    "nid": 1100,
+    "name": "Iodine, I",
+    "unit": "UG",
+    "key": "iodine, i",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1103": {
+    "nid": 1103,
+    "name": "Selenium, Se",
+    "unit": "UG",
+    "key": "selenium, se",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1099": {
+    "nid": 1099,
+    "name": "Fluoride, F",
+    "unit": "UG",
+    "key": "fluoride, f",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": [
+      "1148"
+    ]
+  },
+  "1148": {
+    "nid": 1148,
+    "name": "Fluoride - DO NOT USE; use 313",
+    "unit": "UG",
+    "key": "fluoride - do not use; use 313",
+    "parent_id": 1099,
+    "parent_name": "Fluoride, F",
+    "descendants": []
+  },
+  "1094": {
+    "nid": 1094,
+    "name": "Sulfur, S",
+    "unit": "MG",
+    "key": "sulfur, s",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1146": {
+    "nid": 1146,
+    "name": "Nickel, Ni",
+    "unit": "UG",
+    "key": "nickel, ni",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1102": {
+    "nid": 1102,
+    "name": "Molybdenum, Mo",
+    "unit": "UG",
+    "key": "molybdenum, mo",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1097": {
+    "nid": 1097,
+    "name": "Cobalt, Co",
+    "unit": "UG",
+    "key": "cobalt, co",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1137": {
+    "nid": 1137,
+    "name": "Boron, B",
+    "unit": "UG",
+    "key": "boron, b",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1088": {
+    "nid": 1088,
+    "name": "Chlorine, Cl",
+    "unit": "MG",
+    "key": "chlorine, cl",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1096": {
+    "nid": 1096,
+    "name": "Chromium, Cr",
+    "unit": "UG",
+    "key": "chromium, cr",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1132": {
+    "nid": 1132,
+    "name": "Aluminum, Al",
+    "unit": "UG",
+    "key": "aluminum, al",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1133": {
+    "nid": 1133,
+    "name": "Antimony, Sb",
+    "unit": "UG",
+    "key": "antimony, sb",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1134": {
+    "nid": 1134,
+    "name": "Arsenic, As",
+    "unit": "UG",
+    "key": "arsenic, as",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1135": {
+    "nid": 1135,
+    "name": "Barium, Ba",
+    "unit": "UG",
+    "key": "barium, ba",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1136": {
+    "nid": 1136,
+    "name": "Beryllium, Be",
+    "unit": "UG",
+    "key": "beryllium, be",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1138": {
+    "nid": 1138,
+    "name": "Bromine, Br",
+    "unit": "UG",
+    "key": "bromine, br",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1139": {
+    "nid": 1139,
+    "name": "Cadmium, Cd",
+    "unit": "UG",
+    "key": "cadmium, cd",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1140": {
+    "nid": 1140,
+    "name": "Gold, Au",
+    "unit": "UG",
+    "key": "gold, au",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1143": {
+    "nid": 1143,
+    "name": "Lead, Pb",
+    "unit": "UG",
+    "key": "lead, pb",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1144": {
+    "nid": 1144,
+    "name": "Lithium, Li",
+    "unit": "UG",
+    "key": "lithium, li",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1145": {
+    "nid": 1145,
+    "name": "Mercury, Hg",
+    "unit": "UG",
+    "key": "mercury, hg",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1147": {
+    "nid": 1147,
+    "name": "Rubidium, Rb",
+    "unit": "UG",
+    "key": "rubidium, rb",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1150": {
+    "nid": 1150,
+    "name": "Silicon, Si",
+    "unit": "UG",
+    "key": "silicon, si",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1151": {
+    "nid": 1151,
+    "name": "Silver, Ag",
+    "unit": "UG",
+    "key": "silver, ag",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1152": {
+    "nid": 1152,
+    "name": "Strontium, Sr",
+    "unit": "UG",
+    "key": "strontium, sr",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1153": {
+    "nid": 1153,
+    "name": "Tin, Sn",
+    "unit": "UG",
+    "key": "tin, sn",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1154": {
+    "nid": 1154,
+    "name": "Titanium, Ti",
+    "unit": "UG",
+    "key": "titanium, ti",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1155": {
+    "nid": 1155,
+    "name": "Vanadium, V",
+    "unit": "UG",
+    "key": "vanadium, v",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1059": {
+    "nid": 1059,
+    "name": "Nitrates",
+    "unit": "MG",
+    "key": "nitrates",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1060": {
+    "nid": 1060,
+    "name": "Nitrites",
+    "unit": "MG",
+    "key": "nitrites",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "1061": {
+    "nid": 1061,
+    "name": "Nitrosamine,total",
+    "unit": "MG",
+    "key": "nitrosamine,total",
+    "parent_id": 2043,
+    "parent_name": "Minerals",
+    "descendants": []
+  },
+  "2046": {
+    "nid": 2046,
+    "name": "Vitamins and Other Components",
+    "unit": "G",
+    "key": "vitamins and other components",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1162",
+      "1163",
+      "1164",
+      "1247",
+      "1241",
+      "1165",
+      "1249",
+      "1243",
+      "1166",
+      "1250",
+      "1244",
+      "1167",
+      "1168",
+      "1169",
+      "1251",
+      "1245",
+      "1170",
+      "1175",
+      "1171",
+      "1172",
+      "1173",
+      "1174",
+      "1176",
+      "1177",
+      "1179",
+      "1186",
+      "1187",
+      "1190",
+      "1189",
+      "1188",
+      "1191",
+      "1192",
+      "1193",
+      "1180",
+      "1194",
+      "1195",
+      "1196",
+      "1197",
+      "1199",
+      "1182",
+      "1198",
+      "1178",
+      "1252",
+      "1246",
+      "1106",
+      "1105",
+      "2067",
+      "1107",
+      "1159",
+      "2028",
+      "1108",
+      "1118",
+      "1120",
+      "2032",
+      "1104",
+      "1156",
+      "1157",
+      "2040",
+      "1122",
+      "1160",
+      "2029",
+      "1123",
+      "1161",
+      "1121",
+      "1119",
+      "1116",
+      "1117",
+      "2041",
+      "2055",
+      "1109",
+      "1242",
+      "1248",
+      "1125",
+      "1126",
+      "1127",
+      "1158",
+      "2068",
+      "1124",
+      "2054",
+      "1128",
+      "1129",
+      "1130",
+      "1131",
+      "1110",
+      "1114",
+      "1111",
+      "1112",
+      "1113",
+      "2059",
+      "1115",
+      "1185",
+      "1184",
+      "1183",
+      "2069",
+      "1054",
+      "1083"
+    ]
+  },
+  "1162": {
+    "nid": 1162,
+    "name": "Vitamin C, total ascorbic acid",
+    "unit": "MG",
+    "key": "vitamin c, total ascorbic acid",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1163",
+      "1164",
+      "1247",
+      "1241"
+    ]
+  },
+  "1163": {
+    "nid": 1163,
+    "name": "Vitamin C, reduced ascorbic acid",
+    "unit": "MG",
+    "key": "vitamin c, reduced ascorbic acid",
+    "parent_id": 1162,
+    "parent_name": "Vitamin C, total ascorbic acid",
+    "descendants": []
+  },
+  "1164": {
+    "nid": 1164,
+    "name": "Vitamin C, dehydro ascorbic acid",
+    "unit": "MG",
+    "key": "vitamin c, dehydro ascorbic acid",
+    "parent_id": 1162,
+    "parent_name": "Vitamin C, total ascorbic acid",
+    "descendants": []
+  },
+  "1247": {
+    "nid": 1247,
+    "name": "Vitamin C, intrinsic",
+    "unit": "MG",
+    "key": "vitamin c, intrinsic",
+    "parent_id": 1162,
+    "parent_name": "Vitamin C, total ascorbic acid",
+    "descendants": []
+  },
+  "1241": {
+    "nid": 1241,
+    "name": "Vitamin C, added",
+    "unit": "MG",
+    "key": "vitamin c, added",
+    "parent_id": 1162,
+    "parent_name": "Vitamin C, total ascorbic acid",
+    "descendants": []
+  },
+  "1165": {
+    "nid": 1165,
+    "name": "Thiamin",
+    "unit": "MG",
+    "key": "thiamin",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1249",
+      "1243"
+    ]
+  },
+  "1249": {
+    "nid": 1249,
+    "name": "Thiamin, intrinsic",
+    "unit": "MG",
+    "key": "thiamin, intrinsic",
+    "parent_id": 1165,
+    "parent_name": "Thiamin",
+    "descendants": []
+  },
+  "1243": {
+    "nid": 1243,
+    "name": "Thiamin, added",
+    "unit": "MG",
+    "key": "thiamin, added",
+    "parent_id": 1165,
+    "parent_name": "Thiamin",
+    "descendants": []
+  },
+  "1166": {
+    "nid": 1166,
+    "name": "Riboflavin",
+    "unit": "MG",
+    "key": "riboflavin",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1250",
+      "1244"
+    ]
+  },
+  "1250": {
+    "nid": 1250,
+    "name": "Riboflavin, intrinsic",
+    "unit": "MG",
+    "key": "riboflavin, intrinsic",
+    "parent_id": 1166,
+    "parent_name": "Riboflavin",
+    "descendants": []
+  },
+  "1244": {
+    "nid": 1244,
+    "name": "Riboflavin, added",
+    "unit": "MG",
+    "key": "riboflavin, added",
+    "parent_id": 1166,
+    "parent_name": "Riboflavin",
+    "descendants": []
+  },
+  "1167": {
+    "nid": 1167,
+    "name": "Niacin",
+    "unit": "MG",
+    "key": "niacin",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1168",
+      "1169",
+      "1251",
+      "1245"
+    ]
+  },
+  "1168": {
+    "nid": 1168,
+    "name": "Niacin from tryptophan, determined",
+    "unit": "MG",
+    "key": "niacin from tryptophan, determined",
+    "parent_id": 1167,
+    "parent_name": "Niacin",
+    "descendants": []
+  },
+  "1169": {
+    "nid": 1169,
+    "name": "Niacin equivalent N406 +N407",
+    "unit": "MG",
+    "key": "niacin equivalent n406 +n407",
+    "parent_id": 1167,
+    "parent_name": "Niacin",
+    "descendants": []
+  },
+  "1251": {
+    "nid": 1251,
+    "name": "Niacin, intrinsic",
+    "unit": "MG",
+    "key": "niacin, intrinsic",
+    "parent_id": 1167,
+    "parent_name": "Niacin",
+    "descendants": []
+  },
+  "1245": {
+    "nid": 1245,
+    "name": "Niacin, added",
+    "unit": "MG",
+    "key": "niacin, added",
+    "parent_id": 1167,
+    "parent_name": "Niacin",
+    "descendants": []
+  },
+  "1170": {
+    "nid": 1170,
+    "name": "Pantothenic acid",
+    "unit": "MG",
+    "key": "pantothenic acid",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1175": {
+    "nid": 1175,
+    "name": "Vitamin B-6",
+    "unit": "MG",
+    "key": "vitamin b-6",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1171",
+      "1172",
+      "1173",
+      "1174"
+    ]
+  },
+  "1171": {
+    "nid": 1171,
+    "name": "Vitamin B-6, pyridoxine, alcohol form",
+    "unit": "MG",
+    "key": "vitamin b-6, pyridoxine, alcohol form",
+    "parent_id": 1175,
+    "parent_name": "Vitamin B-6",
+    "descendants": []
+  },
+  "1172": {
+    "nid": 1172,
+    "name": "Vitamin B-6, pyridoxal, aldehyde form",
+    "unit": "MG",
+    "key": "vitamin b-6, pyridoxal, aldehyde form",
+    "parent_id": 1175,
+    "parent_name": "Vitamin B-6",
+    "descendants": []
+  },
+  "1173": {
+    "nid": 1173,
+    "name": "Vitamin B-6, pyridoxamine, amine form",
+    "unit": "MG",
+    "key": "vitamin b-6, pyridoxamine, amine form",
+    "parent_id": 1175,
+    "parent_name": "Vitamin B-6",
+    "descendants": []
+  },
+  "1174": {
+    "nid": 1174,
+    "name": "Vitamin B-6, N411 + N412 +N413",
+    "unit": "MG",
+    "key": "vitamin b-6, n411 + n412 +n413",
+    "parent_id": 1175,
+    "parent_name": "Vitamin B-6",
+    "descendants": []
+  },
+  "1176": {
+    "nid": 1176,
+    "name": "Biotin",
+    "unit": "UG",
+    "key": "biotin",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1177": {
+    "nid": 1177,
+    "name": "Folate, total",
+    "unit": "UG",
+    "key": "folate, total",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1179",
+      "1186",
+      "1187",
+      "1190",
+      "1189",
+      "1188",
+      "1191",
+      "1192",
+      "1193"
+    ]
+  },
+  "1179": {
+    "nid": 1179,
+    "name": "Folate, free",
+    "unit": "UG",
+    "key": "folate, free",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1186": {
+    "nid": 1186,
+    "name": "Folic acid",
+    "unit": "UG",
+    "key": "folic acid",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1187": {
+    "nid": 1187,
+    "name": "Folate, food",
+    "unit": "UG",
+    "key": "folate, food",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1190": {
+    "nid": 1190,
+    "name": "Folate, DFE",
+    "unit": "UG",
+    "key": "folate, dfe",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1189": {
+    "nid": 1189,
+    "name": "Folate, not 5-MTHF",
+    "unit": "UG",
+    "key": "folate, not 5-mthf",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1188": {
+    "nid": 1188,
+    "name": "5-methyl tetrahydrofolate (5-MTHF)",
+    "unit": "UG",
+    "key": "5-methyl tetrahydrofolate (5-mthf)",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1191": {
+    "nid": 1191,
+    "name": "10-Formyl folic acid (10HCOFA)",
+    "unit": "UG",
+    "key": "10-formyl folic acid (10hcofa)",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1192": {
+    "nid": 1192,
+    "name": "5-Formyltetrahydrofolic acid (5-HCOH4",
+    "unit": "UG",
+    "key": "5-formyltetrahydrofolic acid (5-hcoh4",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1193": {
+    "nid": 1193,
+    "name": "Tetrahydrofolic acid (THF)",
+    "unit": "UG",
+    "key": "tetrahydrofolic acid (thf)",
+    "parent_id": 1177,
+    "parent_name": "Folate, total",
+    "descendants": []
+  },
+  "1180": {
+    "nid": 1180,
+    "name": "Choline, total",
+    "unit": "MG",
+    "key": "choline, total",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1194",
+      "1195",
+      "1196",
+      "1197",
+      "1199",
+      "1182"
+    ]
+  },
+  "1194": {
+    "nid": 1194,
+    "name": "Choline, free",
+    "unit": "MG",
+    "key": "choline, free",
+    "parent_id": 1180,
+    "parent_name": "Choline, total",
+    "descendants": []
+  },
+  "1195": {
+    "nid": 1195,
+    "name": "Choline, from phosphocholine",
+    "unit": "MG",
+    "key": "choline, from phosphocholine",
+    "parent_id": 1180,
+    "parent_name": "Choline, total",
+    "descendants": []
+  },
+  "1196": {
+    "nid": 1196,
+    "name": "Choline, from phosphotidyl choline",
+    "unit": "MG",
+    "key": "choline, from phosphotidyl choline",
+    "parent_id": 1180,
+    "parent_name": "Choline, total",
+    "descendants": []
+  },
+  "1197": {
+    "nid": 1197,
+    "name": "Choline, from glycerophosphocholine",
+    "unit": "MG",
+    "key": "choline, from glycerophosphocholine",
+    "parent_id": 1180,
+    "parent_name": "Choline, total",
+    "descendants": []
+  },
+  "1199": {
+    "nid": 1199,
+    "name": "Choline, from sphingomyelin",
+    "unit": "MG",
+    "key": "choline, from sphingomyelin",
+    "parent_id": 1180,
+    "parent_name": "Choline, total",
+    "descendants": []
+  },
+  "1182": {
+    "nid": 1182,
+    "name": "Inositol phosphate",
+    "unit": "MG",
+    "key": "inositol phosphate",
+    "parent_id": 1180,
+    "parent_name": "Choline, total",
+    "descendants": []
+  },
+  "1198": {
+    "nid": 1198,
+    "name": "Betaine",
+    "unit": "MG",
+    "key": "betaine",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1178": {
+    "nid": 1178,
+    "name": "Vitamin B-12",
+    "unit": "UG",
+    "key": "vitamin b-12",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1252",
+      "1246"
+    ]
+  },
+  "1252": {
+    "nid": 1252,
+    "name": "Vitamin B-12, intrinsic",
+    "unit": "UG",
+    "key": "vitamin b-12, intrinsic",
+    "parent_id": 1178,
+    "parent_name": "Vitamin B-12",
+    "descendants": []
+  },
+  "1246": {
+    "nid": 1246,
+    "name": "Vitamin B-12, added",
+    "unit": "UG",
+    "key": "vitamin b-12, added",
+    "parent_id": 1178,
+    "parent_name": "Vitamin B-12",
+    "descendants": []
+  },
+  "1106": {
+    "nid": 1106,
+    "name": "Vitamin A, RAE",
+    "unit": "UG",
+    "key": "vitamin a, rae",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1105",
+      "2067",
+      "1107",
+      "1159",
+      "2028",
+      "1108",
+      "1118",
+      "1120",
+      "2032"
+    ]
+  },
+  "1105": {
+    "nid": 1105,
+    "name": "Retinol",
+    "unit": "UG",
+    "key": "retinol",
+    "parent_id": 1106,
+    "parent_name": "Vitamin A, RAE",
+    "descendants": []
+  },
+  "2067": {
+    "nid": 2067,
+    "name": "Vitamin A",
+    "unit": "UG",
+    "key": "vitamin a",
+    "parent_id": 1106,
+    "parent_name": "Vitamin A, RAE",
+    "descendants": []
+  },
+  "1107": {
+    "nid": 1107,
+    "name": "Carotene, beta",
+    "unit": "UG",
+    "key": "carotene, beta",
+    "parent_id": 1106,
+    "parent_name": "Vitamin A, RAE",
+    "descendants": [
+      "1159",
+      "2028"
+    ]
+  },
+  "1159": {
+    "nid": 1159,
+    "name": "cis-beta-Carotene",
+    "unit": "UG",
+    "key": "cis-beta-carotene",
+    "parent_id": 1107,
+    "parent_name": "Carotene, beta",
+    "descendants": []
+  },
+  "2028": {
+    "nid": 2028,
+    "name": "trans-beta-Carotene",
+    "unit": "UG",
+    "key": "trans-beta-carotene",
+    "parent_id": 1107,
+    "parent_name": "Carotene, beta",
+    "descendants": []
+  },
+  "1108": {
+    "nid": 1108,
+    "name": "Carotene, alpha",
+    "unit": "UG",
+    "key": "carotene, alpha",
+    "parent_id": 1106,
+    "parent_name": "Vitamin A, RAE",
+    "descendants": []
+  },
+  "1118": {
+    "nid": 1118,
+    "name": "Carotene, gamma",
+    "unit": "UG",
+    "key": "carotene, gamma",
+    "parent_id": 1106,
+    "parent_name": "Vitamin A, RAE",
+    "descendants": []
+  },
+  "1120": {
+    "nid": 1120,
+    "name": "Cryptoxanthin, beta",
+    "unit": "UG",
+    "key": "cryptoxanthin, beta",
+    "parent_id": 1106,
+    "parent_name": "Vitamin A, RAE",
+    "descendants": []
+  },
+  "2032": {
+    "nid": 2032,
+    "name": "Cryptoxanthin, alpha",
+    "unit": "UG",
+    "key": "cryptoxanthin, alpha",
+    "parent_id": 1106,
+    "parent_name": "Vitamin A, RAE",
+    "descendants": []
+  },
+  "1104": {
+    "nid": 1104,
+    "name": "Vitamin A, IU",
+    "unit": "IU",
+    "key": "vitamin a, iu",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1156": {
+    "nid": 1156,
+    "name": "Vitamin A, RE",
+    "unit": "MCG_RE",
+    "key": "vitamin a, re",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1157": {
+    "nid": 1157,
+    "name": "Carotene",
+    "unit": "MCG_RE",
+    "key": "carotene",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "2040": {
+    "nid": 2040,
+    "name": "Other carotenoids",
+    "unit": "UG",
+    "key": "other carotenoids",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1122",
+      "1160",
+      "2029",
+      "1123",
+      "1161",
+      "1121",
+      "1119",
+      "1116",
+      "1117"
+    ]
+  },
+  "1122": {
+    "nid": 1122,
+    "name": "Lycopene",
+    "unit": "UG",
+    "key": "lycopene",
+    "parent_id": 2040,
+    "parent_name": "Other carotenoids",
+    "descendants": [
+      "1160",
+      "2029"
+    ]
+  },
+  "1160": {
+    "nid": 1160,
+    "name": "cis-Lycopene",
+    "unit": "UG",
+    "key": "cis-lycopene",
+    "parent_id": 1122,
+    "parent_name": "Lycopene",
+    "descendants": []
+  },
+  "2029": {
+    "nid": 2029,
+    "name": "trans-Lycopene",
+    "unit": "UG",
+    "key": "trans-lycopene",
+    "parent_id": 1122,
+    "parent_name": "Lycopene",
+    "descendants": []
+  },
+  "1123": {
+    "nid": 1123,
+    "name": "Lutein + zeaxanthin",
+    "unit": "UG",
+    "key": "lutein + zeaxanthin",
+    "parent_id": 2040,
+    "parent_name": "Other carotenoids",
+    "descendants": [
+      "1161",
+      "1121",
+      "1119"
+    ]
+  },
+  "1161": {
+    "nid": 1161,
+    "name": "cis-Lutein/Zeaxanthin",
+    "unit": "UG",
+    "key": "cis-lutein/zeaxanthin",
+    "parent_id": 1123,
+    "parent_name": "Lutein + zeaxanthin",
+    "descendants": []
+  },
+  "1121": {
+    "nid": 1121,
+    "name": "Lutein",
+    "unit": "UG",
+    "key": "lutein",
+    "parent_id": 1123,
+    "parent_name": "Lutein + zeaxanthin",
+    "descendants": []
+  },
+  "1119": {
+    "nid": 1119,
+    "name": "Zeaxanthin",
+    "unit": "UG",
+    "key": "zeaxanthin",
+    "parent_id": 1123,
+    "parent_name": "Lutein + zeaxanthin",
+    "descendants": []
+  },
+  "1116": {
+    "nid": 1116,
+    "name": "Phytoene",
+    "unit": "UG",
+    "key": "phytoene",
+    "parent_id": 2040,
+    "parent_name": "Other carotenoids",
+    "descendants": []
+  },
+  "1117": {
+    "nid": 1117,
+    "name": "Phytofluene",
+    "unit": "UG",
+    "key": "phytofluene",
+    "parent_id": 2040,
+    "parent_name": "Other carotenoids",
+    "descendants": []
+  },
+  "2041": {
+    "nid": 2041,
+    "name": "Tocopherols and tocotrienols",
+    "unit": "MG",
+    "key": "tocopherols and tocotrienols",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "2055",
+      "1109",
+      "1242",
+      "1248",
+      "1125",
+      "1126",
+      "1127",
+      "1158",
+      "2068",
+      "1124",
+      "2054",
+      "1128",
+      "1129",
+      "1130",
+      "1131"
+    ]
+  },
+  "2055": {
+    "nid": 2055,
+    "name": "Total Tocopherols",
+    "unit": "MG",
+    "key": "total tocopherols",
+    "parent_id": 2041,
+    "parent_name": "Tocopherols and tocotrienols",
+    "descendants": [
+      "1109",
+      "1242",
+      "1248",
+      "1125",
+      "1126",
+      "1127"
+    ]
+  },
+  "1109": {
+    "nid": 1109,
+    "name": "Vitamin E (alpha-tocopherol)",
+    "unit": "MG",
+    "key": "vitamin e (alpha-tocopherol)",
+    "parent_id": 2055,
+    "parent_name": "Total Tocopherols",
+    "descendants": [
+      "1242",
+      "1248"
+    ]
+  },
+  "1242": {
+    "nid": 1242,
+    "name": "Vitamin E, added",
+    "unit": "MG",
+    "key": "vitamin e, added",
+    "parent_id": 1109,
+    "parent_name": "Vitamin E (alpha-tocopherol)",
+    "descendants": []
+  },
+  "1248": {
+    "nid": 1248,
+    "name": "Vitamin E, intrinsic",
+    "unit": "MG",
+    "key": "vitamin e, intrinsic",
+    "parent_id": 1109,
+    "parent_name": "Vitamin E (alpha-tocopherol)",
+    "descendants": []
+  },
+  "1125": {
+    "nid": 1125,
+    "name": "Tocopherol, beta",
+    "unit": "MG",
+    "key": "tocopherol, beta",
+    "parent_id": 2055,
+    "parent_name": "Total Tocopherols",
+    "descendants": []
+  },
+  "1126": {
+    "nid": 1126,
+    "name": "Tocopherol, gamma",
+    "unit": "MG",
+    "key": "tocopherol, gamma",
+    "parent_id": 2055,
+    "parent_name": "Total Tocopherols",
+    "descendants": []
+  },
+  "1127": {
+    "nid": 1127,
+    "name": "Tocopherol, delta",
+    "unit": "MG",
+    "key": "tocopherol, delta",
+    "parent_id": 2055,
+    "parent_name": "Total Tocopherols",
+    "descendants": []
+  },
+  "1158": {
+    "nid": 1158,
+    "name": "Vitamin E",
+    "unit": "MG_ATE",
+    "key": "vitamin e",
+    "parent_id": 2041,
+    "parent_name": "Tocopherols and tocotrienols",
+    "descendants": []
+  },
+  "2068": {
+    "nid": 2068,
+    "name": "Vitamin E",
+    "unit": "MG",
+    "key": "vitamin e",
+    "parent_id": 2041,
+    "parent_name": "Tocopherols and tocotrienols",
+    "descendants": []
+  },
+  "1124": {
+    "nid": 1124,
+    "name": "Vitamin E (label entry primarily)",
+    "unit": "IU",
+    "key": "vitamin e (label entry primarily)",
+    "parent_id": 2041,
+    "parent_name": "Tocopherols and tocotrienols",
+    "descendants": []
+  },
+  "2054": {
+    "nid": 2054,
+    "name": "Total Tocotrienols",
+    "unit": "MG",
+    "key": "total tocotrienols",
+    "parent_id": 2041,
+    "parent_name": "Tocopherols and tocotrienols",
+    "descendants": [
+      "1128",
+      "1129",
+      "1130",
+      "1131"
+    ]
+  },
+  "1128": {
+    "nid": 1128,
+    "name": "Tocotrienol, alpha",
+    "unit": "MG",
+    "key": "tocotrienol, alpha",
+    "parent_id": 2054,
+    "parent_name": "Total Tocotrienols",
+    "descendants": []
+  },
+  "1129": {
+    "nid": 1129,
+    "name": "Tocotrienol, beta",
+    "unit": "MG",
+    "key": "tocotrienol, beta",
+    "parent_id": 2054,
+    "parent_name": "Total Tocotrienols",
+    "descendants": []
+  },
+  "1130": {
+    "nid": 1130,
+    "name": "Tocotrienol, gamma",
+    "unit": "MG",
+    "key": "tocotrienol, gamma",
+    "parent_id": 2054,
+    "parent_name": "Total Tocotrienols",
+    "descendants": []
+  },
+  "1131": {
+    "nid": 1131,
+    "name": "Tocotrienol, delta",
+    "unit": "MG",
+    "key": "tocotrienol, delta",
+    "parent_id": 2054,
+    "parent_name": "Total Tocotrienols",
+    "descendants": []
+  },
+  "1110": {
+    "nid": 1110,
+    "name": "Vitamin D (D2 + D3), International Units",
+    "unit": "IU",
+    "key": "vitamin d (d2 + d3), international units",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1114": {
+    "nid": 1114,
+    "name": "Vitamin D (D2 + D3)",
+    "unit": "UG",
+    "key": "vitamin d (d2 + d3)",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": [
+      "1111",
+      "1112",
+      "1113",
+      "2059",
+      "1115"
+    ]
+  },
+  "1111": {
+    "nid": 1111,
+    "name": "Vitamin D2 (ergocalciferol)",
+    "unit": "UG",
+    "key": "vitamin d2 (ergocalciferol)",
+    "parent_id": 1114,
+    "parent_name": "Vitamin D (D2 + D3)",
+    "descendants": []
+  },
+  "1112": {
+    "nid": 1112,
+    "name": "Vitamin D3 (cholecalciferol)",
+    "unit": "UG",
+    "key": "vitamin d3 (cholecalciferol)",
+    "parent_id": 1114,
+    "parent_name": "Vitamin D (D2 + D3)",
+    "descendants": []
+  },
+  "1113": {
+    "nid": 1113,
+    "name": "25-hydroxycholecalciferol",
+    "unit": "UG",
+    "key": "25-hydroxycholecalciferol",
+    "parent_id": 1114,
+    "parent_name": "Vitamin D (D2 + D3)",
+    "descendants": []
+  },
+  "2059": {
+    "nid": 2059,
+    "name": "Vitamin D4",
+    "unit": "UG",
+    "key": "vitamin d4",
+    "parent_id": 1114,
+    "parent_name": "Vitamin D (D2 + D3)",
+    "descendants": []
+  },
+  "1115": {
+    "nid": 1115,
+    "name": "25-hydroxyergocalciferol",
+    "unit": "UG",
+    "key": "25-hydroxyergocalciferol",
+    "parent_id": 1114,
+    "parent_name": "Vitamin D (D2 + D3)",
+    "descendants": []
+  },
+  "1185": {
+    "nid": 1185,
+    "name": "Vitamin K (phylloquinone)",
+    "unit": "UG",
+    "key": "vitamin k (phylloquinone)",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1184": {
+    "nid": 1184,
+    "name": "Vitamin K (Dihydrophylloquinone)",
+    "unit": "UG",
+    "key": "vitamin k (dihydrophylloquinone)",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1183": {
+    "nid": 1183,
+    "name": "Vitamin K (Menaquinone-4)",
+    "unit": "UG",
+    "key": "vitamin k (menaquinone-4)",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "2069": {
+    "nid": 2069,
+    "name": "Glutathione",
+    "unit": "MG",
+    "key": "glutathione",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "2057": {
+    "nid": 2057,
+    "name": "Ergothioneine",
+    "unit": "MG",
+    "key": "ergothioneine",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1054": {
+    "nid": 1054,
+    "name": "Piperine",
+    "unit": "G",
+    "key": "piperine",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "1083": {
+    "nid": 1083,
+    "name": "Theophylline",
+    "unit": "MG",
+    "key": "theophylline",
+    "parent_id": 2046,
+    "parent_name": "Vitamins and Other Components",
+    "descendants": []
+  },
+  "2044": {
+    "nid": 2044,
+    "name": "Lipids",
+    "unit": "G",
+    "key": "lipids",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1258",
+      "1326",
+      "1318",
+      "1259",
+      "2003",
+      "1260",
+      "2004",
+      "1261",
+      "2005",
+      "1262",
+      "1335",
+      "1263",
+      "1332",
+      "1264",
+      "1299",
+      "1265",
+      "1300",
+      "1266",
+      "1322",
+      "1267",
+      "2006",
+      "1273",
+      "2007",
+      "1301",
+      "1292",
+      "1327",
+      "1319",
+      "2008",
+      "1274",
+      "2009",
+      "1333",
+      "1275",
+      "1314",
+      "1323",
+      "2010",
+      "1268",
+      "1315",
+      "1413",
+      "1412",
+      "1277",
+      "2012",
+      "1279",
+      "1317",
+      "2014",
+      "2015",
+      "1312",
+      "1293",
+      "1328",
+      "1320",
+      "1291",
+      "1324",
+      "1269",
+      "2016",
+      "1316",
+      "1311",
+      "1307",
+      "1309",
+      "1308",
+      "1270",
+      "2018",
+      "1404",
+      "1321",
+      "1409",
+      "1276",
+      "2026",
+      "1313",
+      "1325",
+      "2020",
+      "1405",
+      "1406",
+      "1414",
+      "2021",
+      "1271",
+      "2022",
+      "1407",
+      "1408",
+      "2023",
+      "1278",
+      "1334",
+      "1410",
+      "2024",
+      "1411",
+      "1280",
+      "2025",
+      "1272",
+      "1257",
+      "1329",
+      "1281",
+      "1303",
+      "1304",
+      "2011",
+      "2013",
+      "1305",
+      "1330",
+      "1306",
+      "2017",
+      "1310",
+      "1331",
+      "2019",
+      "1253",
+      "1283",
+      "2053",
+      "1285",
+      "1286",
+      "1287",
+      "1288",
+      "2060",
+      "2061",
+      "2062",
+      "1284",
+      "1289",
+      "1294",
+      "1295",
+      "1296",
+      "1297",
+      "2052",
+      "1298",
+      "1254",
+      "1255",
+      "1256",
+      "1290",
+      "1302"
+    ]
+  },
+  "1258": {
+    "nid": 1258,
+    "name": "Fatty acids, total saturated",
+    "unit": "G",
+    "key": "fatty acids, total saturated",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": [
+      "1326",
+      "1318",
+      "1259",
+      "2003",
+      "1260",
+      "2004",
+      "1261",
+      "2005",
+      "1262",
+      "1335",
+      "1263",
+      "1332",
+      "1264",
+      "1299",
+      "1265",
+      "1300",
+      "1266",
+      "1322",
+      "1267",
+      "2006",
+      "1273",
+      "2007",
+      "1301"
+    ]
+  },
+  "1326": {
+    "nid": 1326,
+    "name": "Fatty acids, total sat., NLEA",
+    "unit": "G",
+    "key": "fatty acids, total sat., nlea",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1318": {
+    "nid": 1318,
+    "name": "Fatty acids, saturated, other",
+    "unit": "G",
+    "key": "fatty acids, saturated, other",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1259": {
+    "nid": 1259,
+    "name": "SFA 4:0",
+    "unit": "G",
+    "key": "sfa 4:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "2003": {
+    "nid": 2003,
+    "name": "SFA 5:0",
+    "unit": "G",
+    "key": "sfa 5:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1260": {
+    "nid": 1260,
+    "name": "SFA 6:0",
+    "unit": "G",
+    "key": "sfa 6:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "2004": {
+    "nid": 2004,
+    "name": "SFA 7:0",
+    "unit": "G",
+    "key": "sfa 7:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1261": {
+    "nid": 1261,
+    "name": "SFA 8:0",
+    "unit": "G",
+    "key": "sfa 8:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "2005": {
+    "nid": 2005,
+    "name": "SFA 9:0",
+    "unit": "G",
+    "key": "sfa 9:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1262": {
+    "nid": 1262,
+    "name": "SFA 10:0",
+    "unit": "G",
+    "key": "sfa 10:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1335": {
+    "nid": 1335,
+    "name": "SFA 11:0",
+    "unit": "G",
+    "key": "sfa 11:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1263": {
+    "nid": 1263,
+    "name": "SFA 12:0",
+    "unit": "G",
+    "key": "sfa 12:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1332": {
+    "nid": 1332,
+    "name": "SFA 13:0",
+    "unit": "G",
+    "key": "sfa 13:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1264": {
+    "nid": 1264,
+    "name": "SFA 14:0",
+    "unit": "G",
+    "key": "sfa 14:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1299": {
+    "nid": 1299,
+    "name": "SFA 15:0",
+    "unit": "G",
+    "key": "sfa 15:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1265": {
+    "nid": 1265,
+    "name": "SFA 16:0",
+    "unit": "G",
+    "key": "sfa 16:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1300": {
+    "nid": 1300,
+    "name": "SFA 17:0",
+    "unit": "G",
+    "key": "sfa 17:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1266": {
+    "nid": 1266,
+    "name": "SFA 18:0",
+    "unit": "G",
+    "key": "sfa 18:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1322": {
+    "nid": 1322,
+    "name": "SFA 19:0",
+    "unit": "G",
+    "key": "sfa 19:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1267": {
+    "nid": 1267,
+    "name": "SFA 20:0",
+    "unit": "G",
+    "key": "sfa 20:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "2006": {
+    "nid": 2006,
+    "name": "SFA 21:0",
+    "unit": "G",
+    "key": "sfa 21:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1273": {
+    "nid": 1273,
+    "name": "SFA 22:0",
+    "unit": "G",
+    "key": "sfa 22:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "2007": {
+    "nid": 2007,
+    "name": "SFA 23:0",
+    "unit": "G",
+    "key": "sfa 23:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1301": {
+    "nid": 1301,
+    "name": "SFA 24:0",
+    "unit": "G",
+    "key": "sfa 24:0",
+    "parent_id": 1258,
+    "parent_name": "Fatty acids, total saturated",
+    "descendants": []
+  },
+  "1292": {
+    "nid": 1292,
+    "name": "Fatty acids, total monounsaturated",
+    "unit": "G",
+    "key": "fatty acids, total monounsaturated",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": [
+      "1327",
+      "1319",
+      "2008",
+      "1274",
+      "2009",
+      "1333",
+      "1275",
+      "1314",
+      "1323",
+      "2010",
+      "1268",
+      "1315",
+      "1413",
+      "1412",
+      "1277",
+      "2012",
+      "1279",
+      "1317",
+      "2014",
+      "2015",
+      "1312"
+    ]
+  },
+  "1327": {
+    "nid": 1327,
+    "name": "Fatty acids, total monounsat., NLEA",
+    "unit": "G",
+    "key": "fatty acids, total monounsat., nlea",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": []
+  },
+  "1319": {
+    "nid": 1319,
+    "name": "Fatty acids, monounsat., other",
+    "unit": "G",
+    "key": "fatty acids, monounsat., other",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": []
+  },
+  "2008": {
+    "nid": 2008,
+    "name": "MUFA 12:1",
+    "unit": "G",
+    "key": "mufa 12:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": []
+  },
+  "1274": {
+    "nid": 1274,
+    "name": "MUFA 14:1",
+    "unit": "G",
+    "key": "mufa 14:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": [
+      "2009"
+    ]
+  },
+  "2009": {
+    "nid": 2009,
+    "name": "MUFA 14:1 c",
+    "unit": "G",
+    "key": "mufa 14:1 c",
+    "parent_id": 1274,
+    "parent_name": "MUFA 14:1",
+    "descendants": []
+  },
+  "1333": {
+    "nid": 1333,
+    "name": "MUFA 15:1",
+    "unit": "G",
+    "key": "mufa 15:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": []
+  },
+  "1275": {
+    "nid": 1275,
+    "name": "MUFA 16:1",
+    "unit": "G",
+    "key": "mufa 16:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": [
+      "1314"
+    ]
+  },
+  "1314": {
+    "nid": 1314,
+    "name": "MUFA 16:1 c",
+    "unit": "G",
+    "key": "mufa 16:1 c",
+    "parent_id": 1275,
+    "parent_name": "MUFA 16:1",
+    "descendants": []
+  },
+  "1323": {
+    "nid": 1323,
+    "name": "MUFA 17:1",
+    "unit": "G",
+    "key": "mufa 17:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": [
+      "2010"
+    ]
+  },
+  "2010": {
+    "nid": 2010,
+    "name": "MUFA 17:1 c",
+    "unit": "G",
+    "key": "mufa 17:1 c",
+    "parent_id": 1323,
+    "parent_name": "MUFA 17:1",
+    "descendants": []
+  },
+  "1268": {
+    "nid": 1268,
+    "name": "MUFA 18:1",
+    "unit": "G",
+    "key": "mufa 18:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": [
+      "1315",
+      "1413",
+      "1412"
+    ]
+  },
+  "1315": {
+    "nid": 1315,
+    "name": "MUFA 18:1 c",
+    "unit": "G",
+    "key": "mufa 18:1 c",
+    "parent_id": 1268,
+    "parent_name": "MUFA 18:1",
+    "descendants": []
+  },
+  "1413": {
+    "nid": 1413,
+    "name": "MUFA 18:1-11 c (18:1c n-7)",
+    "unit": "G",
+    "key": "mufa 18:1-11 c (18:1c n-7)",
+    "parent_id": 1268,
+    "parent_name": "MUFA 18:1",
+    "descendants": []
+  },
+  "1412": {
+    "nid": 1412,
+    "name": "MUFA 18:1-11 t (18:1t n-7)",
+    "unit": "G",
+    "key": "mufa 18:1-11 t (18:1t n-7)",
+    "parent_id": 1268,
+    "parent_name": "MUFA 18:1",
+    "descendants": []
+  },
+  "1277": {
+    "nid": 1277,
+    "name": "MUFA 20:1",
+    "unit": "G",
+    "key": "mufa 20:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": [
+      "2012"
+    ]
+  },
+  "2012": {
+    "nid": 2012,
+    "name": "MUFA 20:1 c",
+    "unit": "G",
+    "key": "mufa 20:1 c",
+    "parent_id": 1277,
+    "parent_name": "MUFA 20:1",
+    "descendants": []
+  },
+  "1279": {
+    "nid": 1279,
+    "name": "MUFA 22:1",
+    "unit": "G",
+    "key": "mufa 22:1",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": [
+      "1317",
+      "2014",
+      "2015"
+    ]
+  },
+  "1317": {
+    "nid": 1317,
+    "name": "MUFA 22:1 c",
+    "unit": "G",
+    "key": "mufa 22:1 c",
+    "parent_id": 1279,
+    "parent_name": "MUFA 22:1",
+    "descendants": []
+  },
+  "2014": {
+    "nid": 2014,
+    "name": "MUFA 22:1 n-9",
+    "unit": "G",
+    "key": "mufa 22:1 n-9",
+    "parent_id": 1279,
+    "parent_name": "MUFA 22:1",
+    "descendants": []
+  },
+  "2015": {
+    "nid": 2015,
+    "name": "MUFA 22:1 n-11",
+    "unit": "G",
+    "key": "mufa 22:1 n-11",
+    "parent_id": 1279,
+    "parent_name": "MUFA 22:1",
+    "descendants": []
+  },
+  "1312": {
+    "nid": 1312,
+    "name": "MUFA 24:1 c",
+    "unit": "G",
+    "key": "mufa 24:1 c",
+    "parent_id": 1292,
+    "parent_name": "Fatty acids, total monounsaturated",
+    "descendants": []
+  },
+  "1293": {
+    "nid": 1293,
+    "name": "Fatty acids, total polyunsaturated",
+    "unit": "G",
+    "key": "fatty acids, total polyunsaturated",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": [
+      "1328",
+      "1320",
+      "1291",
+      "1324",
+      "1269",
+      "2016",
+      "1316",
+      "1311",
+      "1307",
+      "1309",
+      "1308",
+      "1270",
+      "2018",
+      "1404",
+      "1321",
+      "1409",
+      "1276",
+      "2026",
+      "1313",
+      "1325",
+      "2020",
+      "1405",
+      "1406",
+      "1414",
+      "2021",
+      "1271",
+      "2022",
+      "1407",
+      "1408",
+      "2023",
+      "1278",
+      "1334",
+      "1410",
+      "2024",
+      "1411",
+      "1280",
+      "2025",
+      "1272"
+    ]
+  },
+  "1328": {
+    "nid": 1328,
+    "name": "Fatty acids, total polyunsat., NLEA",
+    "unit": "G",
+    "key": "fatty acids, total polyunsat., nlea",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1320": {
+    "nid": 1320,
+    "name": "Fatty acids, polyunsat., other",
+    "unit": "G",
+    "key": "fatty acids, polyunsat., other",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1291": {
+    "nid": 1291,
+    "name": "Fatty acids, other than 607-615, 617-621, 624-632, 652-654, 686-689)",
+    "unit": "G",
+    "key": "fatty acids, other than 607-615, 617-621, 624-632, 652-654, 686-689)",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1324": {
+    "nid": 1324,
+    "name": "PUFA 16:2",
+    "unit": "G",
+    "key": "pufa 16:2",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1269": {
+    "nid": 1269,
+    "name": "PUFA 18:2",
+    "unit": "G",
+    "key": "pufa 18:2",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": [
+      "2016",
+      "1316",
+      "1311",
+      "1307",
+      "1309",
+      "1308"
+    ]
+  },
+  "2016": {
+    "nid": 2016,
+    "name": "PUFA 18:2 c",
+    "unit": "G",
+    "key": "pufa 18:2 c",
+    "parent_id": 1269,
+    "parent_name": "PUFA 18:2",
+    "descendants": []
+  },
+  "1316": {
+    "nid": 1316,
+    "name": "PUFA 18:2 n-6 c,c",
+    "unit": "G",
+    "key": "pufa 18:2 n-6 c,c",
+    "parent_id": 1269,
+    "parent_name": "PUFA 18:2",
+    "descendants": []
+  },
+  "1311": {
+    "nid": 1311,
+    "name": "PUFA 18:2 CLAs",
+    "unit": "G",
+    "key": "pufa 18:2 clas",
+    "parent_id": 1269,
+    "parent_name": "PUFA 18:2",
+    "descendants": []
+  },
+  "1307": {
+    "nid": 1307,
+    "name": "PUFA 18:2 i",
+    "unit": "G",
+    "key": "pufa 18:2 i",
+    "parent_id": 1269,
+    "parent_name": "PUFA 18:2",
+    "descendants": []
+  },
+  "1309": {
+    "nid": 1309,
+    "name": "PUFA 18:2 c,t",
+    "unit": "G",
+    "key": "pufa 18:2 c,t",
+    "parent_id": 1269,
+    "parent_name": "PUFA 18:2",
+    "descendants": []
+  },
+  "1308": {
+    "nid": 1308,
+    "name": "PUFA 18:2 t,c",
+    "unit": "G",
+    "key": "pufa 18:2 t,c",
+    "parent_id": 1269,
+    "parent_name": "PUFA 18:2",
+    "descendants": []
+  },
+  "1270": {
+    "nid": 1270,
+    "name": "PUFA 18:3",
+    "unit": "G",
+    "key": "pufa 18:3",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": [
+      "2018",
+      "1404",
+      "1321",
+      "1409"
+    ]
+  },
+  "2018": {
+    "nid": 2018,
+    "name": "PUFA 18:3 c",
+    "unit": "G",
+    "key": "pufa 18:3 c",
+    "parent_id": 1270,
+    "parent_name": "PUFA 18:3",
+    "descendants": []
+  },
+  "1404": {
+    "nid": 1404,
+    "name": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "unit": "G",
+    "key": "pufa 18:3 n-3 c,c,c (ala)",
+    "parent_id": 1270,
+    "parent_name": "PUFA 18:3",
+    "descendants": []
+  },
+  "1321": {
+    "nid": 1321,
+    "name": "PUFA 18:3 n-6 c,c,c",
+    "unit": "G",
+    "key": "pufa 18:3 n-6 c,c,c",
+    "parent_id": 1270,
+    "parent_name": "PUFA 18:3",
+    "descendants": []
+  },
+  "1409": {
+    "nid": 1409,
+    "name": "PUFA 18:3i",
+    "unit": "G",
+    "key": "pufa 18:3i",
+    "parent_id": 1270,
+    "parent_name": "PUFA 18:3",
+    "descendants": []
+  },
+  "1276": {
+    "nid": 1276,
+    "name": "PUFA 18:4",
+    "unit": "G",
+    "key": "pufa 18:4",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "2026": {
+    "nid": 2026,
+    "name": "PUFA 20:2 c",
+    "unit": "G",
+    "key": "pufa 20:2 c",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1313": {
+    "nid": 1313,
+    "name": "PUFA 20:2 n-6 c,c",
+    "unit": "G",
+    "key": "pufa 20:2 n-6 c,c",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1325": {
+    "nid": 1325,
+    "name": "PUFA 20:3",
+    "unit": "G",
+    "key": "pufa 20:3",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": [
+      "2020",
+      "1405",
+      "1406",
+      "1414"
+    ]
+  },
+  "2020": {
+    "nid": 2020,
+    "name": "PUFA 20:3 c",
+    "unit": "G",
+    "key": "pufa 20:3 c",
+    "parent_id": 1325,
+    "parent_name": "PUFA 20:3",
+    "descendants": []
+  },
+  "1405": {
+    "nid": 1405,
+    "name": "PUFA 20:3 n-3",
+    "unit": "G",
+    "key": "pufa 20:3 n-3",
+    "parent_id": 1325,
+    "parent_name": "PUFA 20:3",
+    "descendants": []
+  },
+  "1406": {
+    "nid": 1406,
+    "name": "PUFA 20:3 n-6",
+    "unit": "G",
+    "key": "pufa 20:3 n-6",
+    "parent_id": 1325,
+    "parent_name": "PUFA 20:3",
+    "descendants": []
+  },
+  "1414": {
+    "nid": 1414,
+    "name": "PUFA 20:3 n-9",
+    "unit": "G",
+    "key": "pufa 20:3 n-9",
+    "parent_id": 1325,
+    "parent_name": "PUFA 20:3",
+    "descendants": []
+  },
+  "2021": {
+    "nid": 2021,
+    "name": "PUFA 22:3",
+    "unit": "G",
+    "key": "pufa 22:3",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1271": {
+    "nid": 1271,
+    "name": "PUFA 20:4",
+    "unit": "G",
+    "key": "pufa 20:4",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": [
+      "2022",
+      "1407",
+      "1408"
+    ]
+  },
+  "2022": {
+    "nid": 2022,
+    "name": "PUFA 20:4c",
+    "unit": "G",
+    "key": "pufa 20:4c",
+    "parent_id": 1271,
+    "parent_name": "PUFA 20:4",
+    "descendants": []
+  },
+  "1407": {
+    "nid": 1407,
+    "name": "PUFA 20:4 n-3",
+    "unit": "G",
+    "key": "pufa 20:4 n-3",
+    "parent_id": 1271,
+    "parent_name": "PUFA 20:4",
+    "descendants": []
+  },
+  "1408": {
+    "nid": 1408,
+    "name": "PUFA 20:4 n-6",
+    "unit": "G",
+    "key": "pufa 20:4 n-6",
+    "parent_id": 1271,
+    "parent_name": "PUFA 20:4",
+    "descendants": []
+  },
+  "2023": {
+    "nid": 2023,
+    "name": "PUFA 20:5c",
+    "unit": "G",
+    "key": "pufa 20:5c",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1278": {
+    "nid": 1278,
+    "name": "PUFA 20:5 n-3 (EPA)",
+    "unit": "G",
+    "key": "pufa 20:5 n-3 (epa)",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1334": {
+    "nid": 1334,
+    "name": "PUFA 22:2",
+    "unit": "G",
+    "key": "pufa 22:2",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1410": {
+    "nid": 1410,
+    "name": "PUFA 21:5",
+    "unit": "G",
+    "key": "pufa 21:5",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "2024": {
+    "nid": 2024,
+    "name": "PUFA 22:5 c",
+    "unit": "G",
+    "key": "pufa 22:5 c",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1411": {
+    "nid": 1411,
+    "name": "PUFA 22:4",
+    "unit": "G",
+    "key": "pufa 22:4",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1280": {
+    "nid": 1280,
+    "name": "PUFA 22:5 n-3 (DPA)",
+    "unit": "G",
+    "key": "pufa 22:5 n-3 (dpa)",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "2025": {
+    "nid": 2025,
+    "name": "PUFA 22:6 c",
+    "unit": "G",
+    "key": "pufa 22:6 c",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1272": {
+    "nid": 1272,
+    "name": "PUFA 22:6 n-3 (DHA)",
+    "unit": "G",
+    "key": "pufa 22:6 n-3 (dha)",
+    "parent_id": 1293,
+    "parent_name": "Fatty acids, total polyunsaturated",
+    "descendants": []
+  },
+  "1257": {
+    "nid": 1257,
+    "name": "Fatty acids, total trans",
+    "unit": "G",
+    "key": "fatty acids, total trans",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": [
+      "1329",
+      "1281",
+      "1303",
+      "1304",
+      "2011",
+      "2013",
+      "1305",
+      "1330",
+      "1306",
+      "2017",
+      "1310",
+      "1331",
+      "2019"
+    ]
+  },
+  "1329": {
+    "nid": 1329,
+    "name": "Fatty acids, total trans-monoenoic",
+    "unit": "G",
+    "key": "fatty acids, total trans-monoenoic",
+    "parent_id": 1257,
+    "parent_name": "Fatty acids, total trans",
+    "descendants": [
+      "1281",
+      "1303",
+      "1304",
+      "2011",
+      "2013",
+      "1305"
+    ]
+  },
+  "1281": {
+    "nid": 1281,
+    "name": "TFA 14:1 t",
+    "unit": "G",
+    "key": "tfa 14:1 t",
+    "parent_id": 1329,
+    "parent_name": "Fatty acids, total trans-monoenoic",
+    "descendants": []
+  },
+  "1303": {
+    "nid": 1303,
+    "name": "TFA 16:1 t",
+    "unit": "G",
+    "key": "tfa 16:1 t",
+    "parent_id": 1329,
+    "parent_name": "Fatty acids, total trans-monoenoic",
+    "descendants": []
+  },
+  "1304": {
+    "nid": 1304,
+    "name": "TFA 18:1 t",
+    "unit": "G",
+    "key": "tfa 18:1 t",
+    "parent_id": 1329,
+    "parent_name": "Fatty acids, total trans-monoenoic",
+    "descendants": []
+  },
+  "2011": {
+    "nid": 2011,
+    "name": "TFA 17:1 t",
+    "unit": "G",
+    "key": "tfa 17:1 t",
+    "parent_id": 1329,
+    "parent_name": "Fatty acids, total trans-monoenoic",
+    "descendants": []
+  },
+  "2013": {
+    "nid": 2013,
+    "name": "TFA 20:1 t",
+    "unit": "G",
+    "key": "tfa 20:1 t",
+    "parent_id": 1329,
+    "parent_name": "Fatty acids, total trans-monoenoic",
+    "descendants": []
+  },
+  "1305": {
+    "nid": 1305,
+    "name": "TFA 22:1 t",
+    "unit": "G",
+    "key": "tfa 22:1 t",
+    "parent_id": 1329,
+    "parent_name": "Fatty acids, total trans-monoenoic",
+    "descendants": []
+  },
+  "1330": {
+    "nid": 1330,
+    "name": "Fatty acids, total trans-dienoic",
+    "unit": "G",
+    "key": "fatty acids, total trans-dienoic",
+    "parent_id": 1257,
+    "parent_name": "Fatty acids, total trans",
+    "descendants": [
+      "1306",
+      "2017",
+      "1310"
+    ]
+  },
+  "1306": {
+    "nid": 1306,
+    "name": "TFA 18:2 t not further defined",
+    "unit": "G",
+    "key": "tfa 18:2 t not further defined",
+    "parent_id": 1330,
+    "parent_name": "Fatty acids, total trans-dienoic",
+    "descendants": []
+  },
+  "2017": {
+    "nid": 2017,
+    "name": "TFA 18:2 t",
+    "unit": "G",
+    "key": "tfa 18:2 t",
+    "parent_id": 1330,
+    "parent_name": "Fatty acids, total trans-dienoic",
+    "descendants": []
+  },
+  "1310": {
+    "nid": 1310,
+    "name": "TFA 18:2 t,t",
+    "unit": "G",
+    "key": "tfa 18:2 t,t",
+    "parent_id": 1330,
+    "parent_name": "Fatty acids, total trans-dienoic",
+    "descendants": []
+  },
+  "1331": {
+    "nid": 1331,
+    "name": "Fatty acids, total trans-polyenoic",
+    "unit": "G",
+    "key": "fatty acids, total trans-polyenoic",
+    "parent_id": 1257,
+    "parent_name": "Fatty acids, total trans",
+    "descendants": [
+      "2019"
+    ]
+  },
+  "2019": {
+    "nid": 2019,
+    "name": "TFA 18:3 t",
+    "unit": "G",
+    "key": "tfa 18:3 t",
+    "parent_id": 1331,
+    "parent_name": "Fatty acids, total trans-polyenoic",
+    "descendants": []
+  },
+  "1253": {
+    "nid": 1253,
+    "name": "Cholesterol",
+    "unit": "MG",
+    "key": "cholesterol",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": []
+  },
+  "1283": {
+    "nid": 1283,
+    "name": "Phytosterols",
+    "unit": "MG",
+    "key": "phytosterols",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": [
+      "2053",
+      "1285",
+      "1286",
+      "1287",
+      "1288",
+      "2060",
+      "2061",
+      "2062",
+      "1284",
+      "1289",
+      "1294",
+      "1295",
+      "1296",
+      "1297",
+      "2052",
+      "1298"
+    ]
+  },
+  "2053": {
+    "nid": 2053,
+    "name": "Stigmastadiene",
+    "unit": "MG",
+    "key": "stigmastadiene",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1285": {
+    "nid": 1285,
+    "name": "Stigmasterol",
+    "unit": "MG",
+    "key": "stigmasterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1286": {
+    "nid": 1286,
+    "name": "Campesterol",
+    "unit": "MG",
+    "key": "campesterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1287": {
+    "nid": 1287,
+    "name": "Brassicasterol",
+    "unit": "MG",
+    "key": "brassicasterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1288": {
+    "nid": 1288,
+    "name": "Beta-sitosterol",
+    "unit": "MG",
+    "key": "beta-sitosterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "2060": {
+    "nid": 2060,
+    "name": "Ergosta-7-enol",
+    "unit": "MG",
+    "key": "ergosta-7-enol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "2061": {
+    "nid": 2061,
+    "name": "Ergosta-7,22-dienol",
+    "unit": "MG",
+    "key": "ergosta-7,22-dienol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "2062": {
+    "nid": 2062,
+    "name": "Ergosta-5,7-dienol",
+    "unit": "MG",
+    "key": "ergosta-5,7-dienol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1284": {
+    "nid": 1284,
+    "name": "Ergosterol",
+    "unit": "MG",
+    "key": "ergosterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1289": {
+    "nid": 1289,
+    "name": "Campestanol",
+    "unit": "MG",
+    "key": "campestanol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1294": {
+    "nid": 1294,
+    "name": "Beta-sitostanol",
+    "unit": "MG",
+    "key": "beta-sitostanol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1295": {
+    "nid": 1295,
+    "name": "Delta-7-avenasterol",
+    "unit": "MG",
+    "key": "delta-7-avenasterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1296": {
+    "nid": 1296,
+    "name": "Delta-5-avenasterol",
+    "unit": "MG",
+    "key": "delta-5-avenasterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1297": {
+    "nid": 1297,
+    "name": "Alpha-spinasterol",
+    "unit": "MG",
+    "key": "alpha-spinasterol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "2052": {
+    "nid": 2052,
+    "name": "Delta-7-Stigmastenol",
+    "unit": "MG",
+    "key": "delta-7-stigmastenol",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1298": {
+    "nid": 1298,
+    "name": "Phytosterols, other",
+    "unit": "MG",
+    "key": "phytosterols, other",
+    "parent_id": 1283,
+    "parent_name": "Phytosterols",
+    "descendants": []
+  },
+  "1254": {
+    "nid": 1254,
+    "name": "Glycerides",
+    "unit": "G",
+    "key": "glycerides",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": []
+  },
+  "1255": {
+    "nid": 1255,
+    "name": "Phospholipids",
+    "unit": "G",
+    "key": "phospholipids",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": []
+  },
+  "1256": {
+    "nid": 1256,
+    "name": "Glycolipids",
+    "unit": "G",
+    "key": "glycolipids",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": []
+  },
+  "1290": {
+    "nid": 1290,
+    "name": "Unsaponifiable matter (lipids)",
+    "unit": "G",
+    "key": "unsaponifiable matter (lipids)",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": []
+  },
+  "1302": {
+    "nid": 1302,
+    "name": "Wax Esters(Total Wax)",
+    "unit": "G",
+    "key": "wax esters(total wax)",
+    "parent_id": 2044,
+    "parent_name": "Lipids",
+    "descendants": []
+  },
+  "2042": {
+    "nid": 2042,
+    "name": "Amino acids",
+    "unit": "G",
+    "key": "amino acids",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1210",
+      "1211",
+      "1212",
+      "1213",
+      "1214",
+      "1215",
+      "1216",
+      "1232",
+      "1229",
+      "1230",
+      "1217",
+      "1218",
+      "1219",
+      "1220",
+      "1221",
+      "1222",
+      "1223",
+      "1231",
+      "1224",
+      "1233",
+      "1225",
+      "1226",
+      "1227",
+      "1228",
+      "1234"
+    ]
+  },
+  "1210": {
+    "nid": 1210,
+    "name": "Tryptophan",
+    "unit": "G",
+    "key": "tryptophan",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1211": {
+    "nid": 1211,
+    "name": "Threonine",
+    "unit": "G",
+    "key": "threonine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1212": {
+    "nid": 1212,
+    "name": "Isoleucine",
+    "unit": "G",
+    "key": "isoleucine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1213": {
+    "nid": 1213,
+    "name": "Leucine",
+    "unit": "G",
+    "key": "leucine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1214": {
+    "nid": 1214,
+    "name": "Lysine",
+    "unit": "G",
+    "key": "lysine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1215": {
+    "nid": 1215,
+    "name": "Methionine",
+    "unit": "G",
+    "key": "methionine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1216": {
+    "nid": 1216,
+    "name": "Cystine",
+    "unit": "G",
+    "key": "cystine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1232": {
+    "nid": 1232,
+    "name": "Cysteine",
+    "unit": "G",
+    "key": "cysteine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1229": {
+    "nid": 1229,
+    "name": "Cysteine and methionine(sulfer containig AA)",
+    "unit": "G",
+    "key": "cysteine and methionine(sulfer containig aa)",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1230": {
+    "nid": 1230,
+    "name": "Phenylalanine and tyrosine (aromatic  AA)",
+    "unit": "G",
+    "key": "phenylalanine and tyrosine (aromatic  aa)",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": [
+      "1217",
+      "1218"
+    ]
+  },
+  "1217": {
+    "nid": 1217,
+    "name": "Phenylalanine",
+    "unit": "G",
+    "key": "phenylalanine",
+    "parent_id": 1230,
+    "parent_name": "Phenylalanine and tyrosine (aromatic  AA)",
+    "descendants": []
+  },
+  "1218": {
+    "nid": 1218,
+    "name": "Tyrosine",
+    "unit": "G",
+    "key": "tyrosine",
+    "parent_id": 1230,
+    "parent_name": "Phenylalanine and tyrosine (aromatic  AA)",
+    "descendants": []
+  },
+  "1219": {
+    "nid": 1219,
+    "name": "Valine",
+    "unit": "G",
+    "key": "valine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1220": {
+    "nid": 1220,
+    "name": "Arginine",
+    "unit": "G",
+    "key": "arginine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1221": {
+    "nid": 1221,
+    "name": "Histidine",
+    "unit": "G",
+    "key": "histidine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1222": {
+    "nid": 1222,
+    "name": "Alanine",
+    "unit": "G",
+    "key": "alanine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1223": {
+    "nid": 1223,
+    "name": "Aspartic acid",
+    "unit": "G",
+    "key": "aspartic acid",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": [
+      "1231"
+    ]
+  },
+  "1231": {
+    "nid": 1231,
+    "name": "Asparagine",
+    "unit": "G",
+    "key": "asparagine",
+    "parent_id": 1223,
+    "parent_name": "Aspartic acid",
+    "descendants": []
+  },
+  "1224": {
+    "nid": 1224,
+    "name": "Glutamic acid",
+    "unit": "G",
+    "key": "glutamic acid",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": [
+      "1233"
+    ]
+  },
+  "1233": {
+    "nid": 1233,
+    "name": "Glutamine",
+    "unit": "G",
+    "key": "glutamine",
+    "parent_id": 1224,
+    "parent_name": "Glutamic acid",
+    "descendants": []
+  },
+  "1225": {
+    "nid": 1225,
+    "name": "Glycine",
+    "unit": "G",
+    "key": "glycine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1226": {
+    "nid": 1226,
+    "name": "Proline",
+    "unit": "G",
+    "key": "proline",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1227": {
+    "nid": 1227,
+    "name": "Serine",
+    "unit": "G",
+    "key": "serine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1228": {
+    "nid": 1228,
+    "name": "Hydroxyproline",
+    "unit": "G",
+    "key": "hydroxyproline",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1234": {
+    "nid": 1234,
+    "name": "Taurine",
+    "unit": "G",
+    "key": "taurine",
+    "parent_id": 2042,
+    "parent_name": "Amino acids",
+    "descendants": []
+  },
+  "1018": {
+    "nid": 1018,
+    "name": "Alcohol, ethyl",
+    "unit": "G",
+    "key": "alcohol, ethyl",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1057": {
+    "nid": 1057,
+    "name": "Caffeine",
+    "unit": "MG",
+    "key": "caffeine",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1058": {
+    "nid": 1058,
+    "name": "Theobromine",
+    "unit": "MG",
+    "key": "theobromine",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1336": {
+    "nid": 1336,
+    "name": "ORAC, Hydrophyllic",
+    "unit": "UMOL_TE",
+    "key": "orac, hydrophyllic",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1337": {
+    "nid": 1337,
+    "name": "ORAC, Lipophillic",
+    "unit": "UMOL_TE",
+    "key": "orac, lipophillic",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1338": {
+    "nid": 1338,
+    "name": "ORAC, Total",
+    "unit": "UMOL_TE",
+    "key": "orac, total",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1339": {
+    "nid": 1339,
+    "name": "Total Phenolics",
+    "unit": "MG_GAE",
+    "key": "total phenolics",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": []
+  },
+  "1343": {
+    "nid": 1343,
+    "name": "Isoflavones",
+    "unit": "MG",
+    "key": "isoflavones",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1340",
+      "1341",
+      "1342",
+      "2049",
+      "2050",
+      "2051",
+      "1344",
+      "1345",
+      "1346"
+    ]
+  },
+  "1340": {
+    "nid": 1340,
+    "name": "Daidzein",
+    "unit": "MG",
+    "key": "daidzein",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "1341": {
+    "nid": 1341,
+    "name": "Genistein",
+    "unit": "MG",
+    "key": "genistein",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "1342": {
+    "nid": 1342,
+    "name": "Glycitein",
+    "unit": "MG",
+    "key": "glycitein",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "2049": {
+    "nid": 2049,
+    "name": "Daidzin",
+    "unit": "MG",
+    "key": "daidzin",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "2050": {
+    "nid": 2050,
+    "name": "Genistin",
+    "unit": "MG",
+    "key": "genistin",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "2051": {
+    "nid": 2051,
+    "name": "Glycitin",
+    "unit": "MG",
+    "key": "glycitin",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "1344": {
+    "nid": 1344,
+    "name": "Biochanin A",
+    "unit": "MG",
+    "key": "biochanin a",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "1345": {
+    "nid": 1345,
+    "name": "Formononetin",
+    "unit": "MG",
+    "key": "formononetin",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "1346": {
+    "nid": 1346,
+    "name": "Coumestrol",
+    "unit": "MG",
+    "key": "coumestrol",
+    "parent_id": 1343,
+    "parent_name": "Isoflavones",
+    "descendants": []
+  },
+  "1347": {
+    "nid": 1347,
+    "name": "Flavonoids, total",
+    "unit": "MG",
+    "key": "flavonoids, total",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1348",
+      "1349",
+      "1350",
+      "1351",
+      "1352",
+      "1353",
+      "1354",
+      "1355",
+      "1356",
+      "1357",
+      "1358",
+      "1359",
+      "1360",
+      "1361",
+      "1362",
+      "1363",
+      "1364",
+      "1365",
+      "1366",
+      "1367",
+      "1368",
+      "1369",
+      "1370",
+      "1393",
+      "1394",
+      "1395",
+      "1371",
+      "1392",
+      "1396",
+      "1397",
+      "1398",
+      "1372",
+      "1373",
+      "1374",
+      "1375",
+      "1376",
+      "1377",
+      "1378",
+      "1379",
+      "1380",
+      "1381",
+      "1382",
+      "1383",
+      "1384",
+      "1385",
+      "1386",
+      "1387",
+      "1388",
+      "1389",
+      "1390",
+      "1391"
+    ]
+  },
+  "1348": {
+    "nid": 1348,
+    "name": "Anthocyanidins",
+    "unit": "MG",
+    "key": "anthocyanidins",
+    "parent_id": 1347,
+    "parent_name": "Flavonoids, total",
+    "descendants": [
+      "1349",
+      "1350",
+      "1351",
+      "1352",
+      "1353",
+      "1354",
+      "1355",
+      "1356",
+      "1357",
+      "1358",
+      "1359",
+      "1360",
+      "1361"
+    ]
+  },
+  "1349": {
+    "nid": 1349,
+    "name": "Cyanidin",
+    "unit": "MG",
+    "key": "cyanidin",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1350": {
+    "nid": 1350,
+    "name": "Proanthocyanidin (dimer-A linkage)",
+    "unit": "MG",
+    "key": "proanthocyanidin (dimer-a linkage)",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1351": {
+    "nid": 1351,
+    "name": "Proanthocyanidin monomers",
+    "unit": "MG",
+    "key": "proanthocyanidin monomers",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1352": {
+    "nid": 1352,
+    "name": "Proanthocyanidin dimers",
+    "unit": "MG",
+    "key": "proanthocyanidin dimers",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1353": {
+    "nid": 1353,
+    "name": "Proanthocyanidin trimers",
+    "unit": "MG",
+    "key": "proanthocyanidin trimers",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1354": {
+    "nid": 1354,
+    "name": "Proanthocyanidin 4-6mers",
+    "unit": "MG",
+    "key": "proanthocyanidin 4-6mers",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1355": {
+    "nid": 1355,
+    "name": "Proanthocyanidin 7-10mers",
+    "unit": "MG",
+    "key": "proanthocyanidin 7-10mers",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1356": {
+    "nid": 1356,
+    "name": "Proanthocyanidin polymers (>10mers)",
+    "unit": "MG",
+    "key": "proanthocyanidin polymers (>10mers)",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1357": {
+    "nid": 1357,
+    "name": "Delphinidin",
+    "unit": "MG",
+    "key": "delphinidin",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1358": {
+    "nid": 1358,
+    "name": "Malvidin",
+    "unit": "MG",
+    "key": "malvidin",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1359": {
+    "nid": 1359,
+    "name": "Pelargonidin",
+    "unit": "MG",
+    "key": "pelargonidin",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1360": {
+    "nid": 1360,
+    "name": "Peonidin",
+    "unit": "MG",
+    "key": "peonidin",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1361": {
+    "nid": 1361,
+    "name": "Petunidin",
+    "unit": "MG",
+    "key": "petunidin",
+    "parent_id": 1348,
+    "parent_name": "Anthocyanidins",
+    "descendants": []
+  },
+  "1362": {
+    "nid": 1362,
+    "name": "Flavans, total",
+    "unit": "MG",
+    "key": "flavans, total",
+    "parent_id": 1347,
+    "parent_name": "Flavonoids, total",
+    "descendants": [
+      "1363",
+      "1364",
+      "1365",
+      "1366",
+      "1367",
+      "1368",
+      "1369",
+      "1370",
+      "1393",
+      "1394",
+      "1395",
+      "1371",
+      "1392",
+      "1396",
+      "1397",
+      "1398"
+    ]
+  },
+  "1363": {
+    "nid": 1363,
+    "name": "Catechins, total",
+    "unit": "MG",
+    "key": "catechins, total",
+    "parent_id": 1362,
+    "parent_name": "Flavans, total",
+    "descendants": [
+      "1364",
+      "1365",
+      "1366",
+      "1367",
+      "1368",
+      "1396",
+      "1397",
+      "1398"
+    ]
+  },
+  "1364": {
+    "nid": 1364,
+    "name": "Catechin",
+    "unit": "MG",
+    "key": "catechin",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1365": {
+    "nid": 1365,
+    "name": "Epigallocatechin",
+    "unit": "MG",
+    "key": "epigallocatechin",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1366": {
+    "nid": 1366,
+    "name": "Epicatechin",
+    "unit": "MG",
+    "key": "epicatechin",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1367": {
+    "nid": 1367,
+    "name": "Epicatechin-3-gallate",
+    "unit": "MG",
+    "key": "epicatechin-3-gallate",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1368": {
+    "nid": 1368,
+    "name": "Epigallocatechin-3-gallate",
+    "unit": "MG",
+    "key": "epigallocatechin-3-gallate",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1369": {
+    "nid": 1369,
+    "name": "Procyanidins, total",
+    "unit": "MG",
+    "key": "procyanidins, total",
+    "parent_id": 1362,
+    "parent_name": "Flavans, total",
+    "descendants": []
+  },
+  "1370": {
+    "nid": 1370,
+    "name": "Theaflavins",
+    "unit": "MG",
+    "key": "theaflavins",
+    "parent_id": 1362,
+    "parent_name": "Flavans, total",
+    "descendants": [
+      "1393",
+      "1394",
+      "1395"
+    ]
+  },
+  "1393": {
+    "nid": 1393,
+    "name": "Theaflavin -3,3' -digallate",
+    "unit": "MG",
+    "key": "theaflavin -3,3' -digallate",
+    "parent_id": 1370,
+    "parent_name": "Theaflavins",
+    "descendants": []
+  },
+  "1394": {
+    "nid": 1394,
+    "name": "Theaflavin -3' -gallate",
+    "unit": "MG",
+    "key": "theaflavin -3' -gallate",
+    "parent_id": 1370,
+    "parent_name": "Theaflavins",
+    "descendants": []
+  },
+  "1395": {
+    "nid": 1395,
+    "name": "Theaflavin -3 -gallate",
+    "unit": "MG",
+    "key": "theaflavin -3 -gallate",
+    "parent_id": 1370,
+    "parent_name": "Theaflavins",
+    "descendants": []
+  },
+  "1371": {
+    "nid": 1371,
+    "name": "Thearubigins",
+    "unit": "MG",
+    "key": "thearubigins",
+    "parent_id": 1362,
+    "parent_name": "Flavans, total",
+    "descendants": []
+  },
+  "1392": {
+    "nid": 1392,
+    "name": "Theogallin",
+    "unit": "MG",
+    "key": "theogallin",
+    "parent_id": 1362,
+    "parent_name": "Flavans, total",
+    "descendants": []
+  },
+  "1396": {
+    "nid": 1396,
+    "name": "(+) -Gallo catechin",
+    "unit": "MG",
+    "key": "(+) -gallo catechin",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1397": {
+    "nid": 1397,
+    "name": "(+)-Catechin 3-gallate",
+    "unit": "MG",
+    "key": "(+)-catechin 3-gallate",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1398": {
+    "nid": 1398,
+    "name": "(+)-Gallocatechin 3-gallate",
+    "unit": "MG",
+    "key": "(+)-gallocatechin 3-gallate",
+    "parent_id": 1363,
+    "parent_name": "Catechins, total",
+    "descendants": []
+  },
+  "1372": {
+    "nid": 1372,
+    "name": "Flavanones, total",
+    "unit": "MG",
+    "key": "flavanones, total",
+    "parent_id": 1347,
+    "parent_name": "Flavonoids, total",
+    "descendants": [
+      "1373",
+      "1374",
+      "1375",
+      "1376",
+      "1377"
+    ]
+  },
+  "1373": {
+    "nid": 1373,
+    "name": "Eriodictyol",
+    "unit": "MG",
+    "key": "eriodictyol",
+    "parent_id": 1372,
+    "parent_name": "Flavanones, total",
+    "descendants": []
+  },
+  "1374": {
+    "nid": 1374,
+    "name": "Hesperetin",
+    "unit": "MG",
+    "key": "hesperetin",
+    "parent_id": 1372,
+    "parent_name": "Flavanones, total",
+    "descendants": []
+  },
+  "1375": {
+    "nid": 1375,
+    "name": "Isosakuranetin",
+    "unit": "MG",
+    "key": "isosakuranetin",
+    "parent_id": 1372,
+    "parent_name": "Flavanones, total",
+    "descendants": []
+  },
+  "1376": {
+    "nid": 1376,
+    "name": "Liquiritigenin",
+    "unit": "MG",
+    "key": "liquiritigenin",
+    "parent_id": 1372,
+    "parent_name": "Flavanones, total",
+    "descendants": []
+  },
+  "1377": {
+    "nid": 1377,
+    "name": "Naringenin",
+    "unit": "MG",
+    "key": "naringenin",
+    "parent_id": 1372,
+    "parent_name": "Flavanones, total",
+    "descendants": []
+  },
+  "1378": {
+    "nid": 1378,
+    "name": "Flavones, total",
+    "unit": "MG",
+    "key": "flavones, total",
+    "parent_id": 1347,
+    "parent_name": "Flavonoids, total",
+    "descendants": [
+      "1379",
+      "1380",
+      "1381",
+      "1382",
+      "1383",
+      "1384",
+      "1385"
+    ]
+  },
+  "1379": {
+    "nid": 1379,
+    "name": "Apigenin",
+    "unit": "MG",
+    "key": "apigenin",
+    "parent_id": 1378,
+    "parent_name": "Flavones, total",
+    "descendants": []
+  },
+  "1380": {
+    "nid": 1380,
+    "name": "Chrysoeriol",
+    "unit": "MG",
+    "key": "chrysoeriol",
+    "parent_id": 1378,
+    "parent_name": "Flavones, total",
+    "descendants": []
+  },
+  "1381": {
+    "nid": 1381,
+    "name": "Diosmetin",
+    "unit": "MG",
+    "key": "diosmetin",
+    "parent_id": 1378,
+    "parent_name": "Flavones, total",
+    "descendants": []
+  },
+  "1382": {
+    "nid": 1382,
+    "name": "Luteolin",
+    "unit": "MG",
+    "key": "luteolin",
+    "parent_id": 1378,
+    "parent_name": "Flavones, total",
+    "descendants": []
+  },
+  "1383": {
+    "nid": 1383,
+    "name": "Nobiletin",
+    "unit": "MG",
+    "key": "nobiletin",
+    "parent_id": 1378,
+    "parent_name": "Flavones, total",
+    "descendants": []
+  },
+  "1384": {
+    "nid": 1384,
+    "name": "Sinensetin",
+    "unit": "MG",
+    "key": "sinensetin",
+    "parent_id": 1378,
+    "parent_name": "Flavones, total",
+    "descendants": []
+  },
+  "1385": {
+    "nid": 1385,
+    "name": "Tangeretin",
+    "unit": "MG",
+    "key": "tangeretin",
+    "parent_id": 1378,
+    "parent_name": "Flavones, total",
+    "descendants": []
+  },
+  "1386": {
+    "nid": 1386,
+    "name": "Flavonols, total",
+    "unit": "MG",
+    "key": "flavonols, total",
+    "parent_id": 1347,
+    "parent_name": "Flavonoids, total",
+    "descendants": [
+      "1387",
+      "1388",
+      "1389",
+      "1390",
+      "1391"
+    ]
+  },
+  "1387": {
+    "nid": 1387,
+    "name": "Isorhamnetin",
+    "unit": "MG",
+    "key": "isorhamnetin",
+    "parent_id": 1386,
+    "parent_name": "Flavonols, total",
+    "descendants": []
+  },
+  "1388": {
+    "nid": 1388,
+    "name": "Kaempferol",
+    "unit": "MG",
+    "key": "kaempferol",
+    "parent_id": 1386,
+    "parent_name": "Flavonols, total",
+    "descendants": []
+  },
+  "1389": {
+    "nid": 1389,
+    "name": "Limocitrin",
+    "unit": "MG",
+    "key": "limocitrin",
+    "parent_id": 1386,
+    "parent_name": "Flavonols, total",
+    "descendants": []
+  },
+  "1390": {
+    "nid": 1390,
+    "name": "Myricetin",
+    "unit": "MG",
+    "key": "myricetin",
+    "parent_id": 1386,
+    "parent_name": "Flavonols, total",
+    "descendants": []
+  },
+  "1391": {
+    "nid": 1391,
+    "name": "Quercetin",
+    "unit": "MG",
+    "key": "quercetin",
+    "parent_id": 1386,
+    "parent_name": "Flavonols, total",
+    "descendants": []
+  },
+  "1208": {
+    "nid": 1208,
+    "name": "Phenolic acids, total",
+    "unit": "MG",
+    "key": "phenolic acids, total",
+    "parent_id": null,
+    "parent_name": null,
+    "descendants": [
+      "1209",
+      "1200",
+      "1201",
+      "1202",
+      "1203",
+      "1204",
+      "1205",
+      "1206",
+      "1207"
+    ]
+  },
+  "1209": {
+    "nid": 1209,
+    "name": "Polyphenols, total",
+    "unit": "MG",
+    "key": "polyphenols, total",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1200": {
+    "nid": 1200,
+    "name": "p-Hydroxy benzoic acid",
+    "unit": "MG",
+    "key": "p-hydroxy benzoic acid",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1201": {
+    "nid": 1201,
+    "name": "Caffeic acid",
+    "unit": "MG",
+    "key": "caffeic acid",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1202": {
+    "nid": 1202,
+    "name": "p-Coumaric acid",
+    "unit": "MG",
+    "key": "p-coumaric acid",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1203": {
+    "nid": 1203,
+    "name": "Ellagic acid",
+    "unit": "MG",
+    "key": "ellagic acid",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1204": {
+    "nid": 1204,
+    "name": "Ferrulic acid",
+    "unit": "MG",
+    "key": "ferrulic acid",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1205": {
+    "nid": 1205,
+    "name": "Gentisic acid",
+    "unit": "MG",
+    "key": "gentisic acid",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1206": {
+    "nid": 1206,
+    "name": "Tyrosol",
+    "unit": "MG",
+    "key": "tyrosol",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  },
+  "1207": {
+    "nid": 1207,
+    "name": "Vanillic acid",
+    "unit": "MG",
+    "key": "vanillic acid",
+    "parent_id": 1208,
+    "parent_name": "Phenolic acids, total",
+    "descendants": []
+  }
+}
